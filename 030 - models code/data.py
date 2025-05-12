@@ -5,7 +5,7 @@ import pandas as pd
 chembl-HIV1-IN-ECFP4.csv 
 drugcentral-HIV1-IN-ECFP4.csv 
 ApprovedDrugs-Decoys-HIV1-IN-ECFP4.csv
-database -HIV1 -enzyme -dtype
+database -HIV1 -enzyme -descriptor
 """
 class Data():
     def __init__(self,root,database):
@@ -28,11 +28,11 @@ class Data():
         self.x_test=np.array([])
         self.y_test=np.array([])        
         # 20% x,y
-        self.x_holdout=np.array([])
-        self.y_holdout=np.array([])
-        self.y_pred=np.array([])
+        self.x_validation=np.array([])
+        self.y_validation=np.array([])
+        self.y_pred_validation=np.array([])
         self.model=""
-        self.dtype=None
+        self.descriptor=None
         self.enzyme=None
         self.sc=None
         self.sn=""
@@ -46,9 +46,9 @@ class Data():
         self.t4=0
         return
 
-    def read(self,dtype,enzyme):
-        #logging.debug("reading data "+dtype+" "+enzyme)        
-        self.df=pd.read_csv(self.root+"/data/"+self.database+"-HIV1-"+enzyme+"-"+dtype+".csv")
+    def read(self,descriptor,enzyme):
+        #logging.debug("reading data "+descriptor+" "+enzyme)        
+        self.df=pd.read_csv(self.root+"/data/"+self.database+"-HIV1-"+enzyme+"-"+descriptor+".csv")
         self.titles=self.df["Title"]
         if "pIC50" in self.df.columns:
             self.y=self.df["pIC50"].to_numpy()

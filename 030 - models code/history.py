@@ -1,9 +1,10 @@
-
+import datetime
 import matplotlib.pyplot as plt
 plt.rc('text',usetex=True)
 plt.rc('font',family='serif')
 import os
 import pandas as pd
+import socket
 
 from obj import Obj
 
@@ -16,7 +17,7 @@ class History(Obj):
 
     def add(self,h):
         df_h=pd.DataFrame(h)
-        df_h["dtype"]=pd.Series([self.data.dtype for i in range(len(df_h))])
+        df_h["descriptor"]=pd.Series([self.data.descriptor for i in range(len(df_h))])
         df_h["enzyme"]=pd.Series([self.data.enzyme for i in range(len(df_h))])
         df_h["scaler"]=pd.Series([self.data.sn for i in range(len(df_h))])
         df_h["split"]=pd.Series([self.data.split for i in range(len(df_h))])
@@ -38,23 +39,23 @@ class History(Obj):
         plt.plot(h["val_binary_accuracy"])
         plt.plot(h["val_loss"])
 
-        plt.title(self.data.model.upper()+" "+self.data.dtype+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split))
+        plt.title(self.data.model.upper()+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split))
         plt.ylabel("Accuracy/Loss")
         plt.xlabel("Epoch")
         plt.legend(["Train Acc", "Train Loss", "Val. Acc", "Val. Loss"], loc="upper left")
 
         self.create_directory(self.data.root+"/history-plots/"+self.data.model+"/")
         self.save_fig(self.data.root+"/history-plots/"+
-        self.data.model+"/"+self.data.dtype+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.sn+"-"+str(self.data.split)+
+        self.data.model+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.sn+"-"+str(self.data.split)+
         "-acc-loss"+
-        #"-"+datetime.datetime.now().strftime("%Y.%m.%d-%H.%M.%S")+
+        #datetime.datetime.now().strftime("%Y.%m.%d-%H.%M.%S")+"-"+socket.gethostname().lower()+
         "")
         plt.cla()
         return
 
     def save_fig(self,filename):
         plt.savefig(filename+".png", bbox_inches="tight", orientation="portrait", dpi=100)
-        plt.savefig(filename+".eps", bbox_inches="tight", orientation="portrait", dpi=300)
+        #plt.savefig(filename+".eps", bbox_inches="tight", orientation="portrait", dpi=300)
         return
 
     def clean(self):

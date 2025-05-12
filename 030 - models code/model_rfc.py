@@ -24,14 +24,14 @@ class RFC(Model):
         return
 
     def build(self,n_estimators=100,criterion="gini"):
-        return RandomForestClassifier(n_estimators=n_estimators,criterion=criterion,verbose=0)
+        return RandomForestClassifier(n_estimators=n_estimators,criterion=criterion,verbose=0,random_state=7)
     
     # running the model    
     def run(self,epochs=0):
-        # 3 dtype * 3 enzymes * 2 scaler * 4 splits = 72
-        # 72 * 5 * 3 = 72 * 15 = 1080
+        # 3 enzymes * 3 descriptor * 2 scaler * 4 splits = 72
+        # 72 * 2 * 5 = 72 * 10 = 720
         grid={
-        "criterion" : ["gini","entropy","log_loss"],
+        "criterion" : ["gini","entropy"],
         "n_estimators" : [100,500,1000,1500,2000]
         }
         
@@ -39,7 +39,7 @@ class RFC(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=self.fix4ch(str(p["n_estimators"]))+"-"+p["criterion"]
-            logging.info("params "+self.name+" "+self.data.dtype+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
 
             #logging.debug("x_train")
             #logging.debug(self.data.x_train[:10])
@@ -81,8 +81,6 @@ def main():
     logging.info("run")
     data=Data("./train-ch/","chembl")
     predictions=[
-        Prediction(Data("./pred-add","ApprovedDrugs-Decoys")),
-        Prediction(Data("./pred-ch","chembl")),
         Prediction(Data("./pred-dc","drugcentral")),
         ]
 

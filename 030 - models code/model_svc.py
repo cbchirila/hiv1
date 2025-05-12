@@ -24,11 +24,11 @@ class SVC(Model):
         return
 
     def build(self,kernel="rbf",degree=3,C=1.0):
-        return svm.SVC(kernel=kernel,degree=degree,C=C,verbose=False)
+        return svm.SVC(kernel=kernel,degree=degree,C=C,verbose=False,random_state=7)
     
     # running the model    
     def run(self,epochs=0):
-		# 3 dtype * 3 enzymes * 2 scaler * 4 splits = 72
+		# 3 enzymes * 3 descriptor * 2 scaler * 4 splits = 72
         # 72 * (4*1*3 + 4*1 + 4*1) = 72 * 20 = 1440
         grid={
         "kernel" : ["poly","rbf","sigmoid"],
@@ -40,7 +40,7 @@ class SVC(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=self.fix4ch(str(p["C"]))+"-"+str(p["degree"])+"-"+p["kernel"]
-            logging.info("params "+self.name+" "+self.data.dtype+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
 
             # logging.info("x_train")
             # logging.info(self.data.x_train.shape)
@@ -85,8 +85,6 @@ def main():
     logging.info("run")
     data=Data("./train-ch/","chembl")
     predictions=[
-        Prediction(Data("./pred-add","ApprovedDrugs-Decoys")),
-        Prediction(Data("./pred-ch","chembl")),
         Prediction(Data("./pred-dc","drugcentral"))]
 
     model=SVC(data,predictions)

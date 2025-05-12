@@ -1,0 +1,331 @@
+setastine
+ridaforolimus
+triclabendazole
+lomerizine
+larotrectinib
+clorazepate
+choline fenofibrate
+estazolam
+formylsulfamethin
+zinostatin
+mibefradil
+camazepam
+ampiroxicam
+duvelisib
+quizartinib
+sulfacytine
+phenobutiodil
+prozapine
+omoconazole
+zotepine
+boceprevir
+glasdegib
+gallium (68Ga) gozetotide
+abaloparatide
+epitizide
+demoxytocin
+rolitetracycline
+zotarolimus
+ketazolam
+delafloxacin
+glecaprevir
+nalbuphine
+lixisenatide
+phthalylsulfathiazole
+velpatasvir
+diperodon
+ripretinib
+caspofungin
+enfuvirtide
+irsogladine
+ceritinib
+saralasin
+guamecycline
+voriconazole
+thymalfasin
+ouabain
+ilaprazole
+degarelix
+cobimetinib
+cabergoline
+erythromycin
+iopronic acid
+hepronicate
+carbetocin
+tiratricol
+ebrotidine
+Florbetapir F-18
+paliperidone palmitate
+bivalirudin
+prazepam
+bosutinib
+fluacizine
+olodaterol
+sulfasalazine
+efinaconazole
+cyproterone acetate
+casopitant
+tazemetostat
+erythromycin acistrate
+ceftaroline fosamil
+albiglutide
+daptomycin
+quinupristin
+sirolimus
+ioxaglic acid
+epinastine
+temazepam
+metolazone
+methoserpidine
+sparfloxacin
+angiotensinamide
+dutasteride
+avanafil
+simetride
+clobazam
+amprenavir
+naloxegol
+Rilpivirine
+neratinib
+micafungin
+seractide
+medazepam
+crizotinib
+sulfisomidine
+flurithromycin
+isavuconazonium
+temsirolimus
+prulifloxacin
+nicomol
+sorbinicate
+pipotiazine palmitate
+clarithromycin
+setmelanotide
+baricitinib
+ambenonium
+nilotinib
+telavancin
+topotecan
+fosinopril
+mepitiostane
+vonoprazan
+fluconazole
+rifampicin
+vintafolide
+picloxydine
+haloperidol decanoate
+azithromycin
+tocopheryl nicotinate
+corticorelin
+alprazolam
+abarelix
+cabazitaxel
+cyclarbamate
+lusutrombopag
+Spiramycin II
+cinnoxicam
+axitinib
+octenidine
+lemborexant
+tolvaptan
+pramlintide
+vericiguat
+osimertinib
+irinotecan
+pimobendan
+ticagrelor
+thyropropic acid
+opipramol
+sulfapyridine
+oleandomycin
+tigecycline
+secretin human
+baloxavir marboxil
+paritaprevir
+salazosulfadimidine
+almitrine
+chlorhexidine
+risperidone
+vincristine
+asunaprevir
+ciclosporin
+levosimendan
+eledoisin
+liraglutide
+dabigatran etexilate
+teriparatide
+enasidenib
+dactinomycin
+ivabradine
+corticotropin
+omarigliptin
+tetracosactide
+umifenovir
+mozavaptan
+letermovir
+lonafarnib
+cefiderocol
+venetoclax
+loprazolam
+cisapride
+angiotensin II
+estramustine phosphate
+glucagon
+dirithromycin
+telithromycin
+oxypertine
+troleandomycin
+tretinoin tocoferil
+nystatin
+naltrexone
+tofisopam
+laropiprant
+corticorelin ovine
+gefitinib
+clobenzepam
+latanoprostene bunod
+macitentan
+aclarubicin
+ruxolitinib
+lymecycline
+rifapentine
+selpercatinib
+syrosingopine
+afatinib
+relugolix
+erythromycin propionate
+drospirenone
+dihydroemetine
+doravirine
+letrozole
+rescinnamine
+clocapramine
+diazepam
+pinazepam
+teduglutide
+peruvoside
+maraviroc
+everolimus
+exenatide
+apalutamide
+bucladesine
+methylnaltrexone
+ponatinib
+colchicine
+aripiprazole lauroxil
+brexpiprazole
+carperitide
+aripiprazole
+calcitonin human
+ganirelix
+peplomycin
+encorafenib
+pimecrolimus
+sitaxentan
+upadacitinib
+buprenorphine
+pinaverium
+ethinylestradiol sulfonate
+sulisatin
+rimegepant
+imatinib
+depreotide
+crisaborole
+etravirine
+nalmefene
+minocycline
+phentolamine
+gilteritinib
+metaclazepam
+tonzonium
+sermorelin
+inqovi
+lumacaftor
+dimorpholamine
+sildenafil
+pirenzepine
+Spiramycin III
+dabrafenib
+bezafibrate
+quinestrol
+vaniprevir
+simeprevir
+triclocarban
+lornoxicam
+vandetanib
+grazoprevir
+ingenol mebutate
+voxilaprevir
+fluphenazine enanthate
+dasiglucagon
+acalabrutinib
+calcitonin (pork natural)
+semaglutide
+emetine
+afamelanotide
+tucatinib
+lorlatinib
+alsactide
+trimazosin
+rapacuronium
+calcitonin (salmon synthetic)
+tyropanoate
+demecolcine
+Cabotegravir
+amperozide
+cetrorelix
+abemaciclib
+halazepam
+deserpidine
+dihydroergotamine
+alpha-tocopherol acetate
+avapritinib
+sultamicillin
+fosdenopterin
+droxicam
+sulfamonomethoxine
+oxiconazole
+rescimetol
+flupentixol
+udenafil
+elcatonin
+dalbavancin
+tibezonium
+reserpiline
+fosaprepitant
+tocopherol succinate
+pimavanserin
+infigratinib
+secretin porcine
+niperotidine
+niceritrol
+torsemide
+vorozole
+telotristat ethyl
+alpelisib
+davercin
+fosfluconazole
+proglumetacin
+nesiritide
+tocofibrate
+mecloxamine
+spiclomazine
+fursultiamine
+homofenazine
+roxithromycin
+nimetazepam
+paliperidone
+icatibant
+reserpine
+efavirenz
+olmutinib
+ceftolozane
+cicaprost
+remdesivir
+cymarin
+ivosidenib
+ceftobiprole medocaril
+nizatidine
+piroxicam
+estradiol mustard
+flutazolam

@@ -48,21 +48,21 @@ class Model:
         self.steps=3*3*2*4
         self.step=0
         #logging.info("iterating elements")
-        for dtype,shape,size in [("PC",(119,1),500),("ECFP4",(1024,1),2000),("MIX",(1143,1),2500)]:
-            self.data.dtype=dtype
+        for descriptor,shape,size in [("PC",(119,1),500),("ECFP4",(1024,1),2000),("MIX",(1143,1),2500)]:
+            self.data.descriptor=descriptor
             self.shape=shape
             self.size=size
             for enzyme in ["IN","PR","RT"]:
                 self.data.enzyme=enzyme
-                self.data.read(dtype,enzyme)
+                self.data.read(descriptor,enzyme)
                 for (sc,sn) in [(StandardScaler(),"std"),(MinMaxScaler(),"minmax")]:
                     self.data.sc=sc
                     self.data.sn=sn
-                    self.process_file(dtype,enzyme,sc,sn,epochs)
+                    self.process_file(descriptor,enzyme,sc,sn,epochs)
         return
 
-    def process_file(self,dtype,enzyme,sc,sn,epochs):
-        logging.info("processing file "+dtype+" "+enzyme+" "+sn)
+    def process_file(self,descriptor,enzyme,sc,sn,epochs):
+        logging.info("processing file "+descriptor+" "+enzyme+" "+sn)
 
         #logging.debug("unscaled")
         #logging.debug(self.data.x[:10])
@@ -75,24 +75,24 @@ class Model:
 
         #logging.debug("splitting data for external validation")
         self.data.x_sc,self.data.y=shuffle(self.data.x_sc,self.data.y,random_state=7)
-        self.data.x_w,self.data.x_holdout,self.data.y_w,self.data.y_holdout=train_test_split(self.data.x_sc,self.data.y,test_size=1/5,shuffle=False)
+        self.data.x_w,self.data.x_validation,self.data.y_w,self.data.y_validation=train_test_split(self.data.x_sc,self.data.y,test_size=1/5,shuffle=False)
 
         ###
         #dfxw=pd.DataFrame(self.data.x_w)
         #dfxw.columns=self.data.df.columns
-        #dfxw.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"x_work.csv",index=False)
+        #dfxw.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work.csv",index=False)
         ###
         #dfyw=pd.DataFrame(self.data.y_w)
         #dfyw.columns=["pIC50"]
-        #dfyw.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"y_work.csv",index=False)
+        #dfyw.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work.csv",index=False)
         ###
-        #dfxh=pd.DataFrame(self.data.x_holdout)
+        #dfxh=pd.DataFrame(self.data.x_validation)
         #dfxh.columns=self.data.df.columns
-        #dfxh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"x_holdout.csv",index=False)
+        #dfxh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_validation.csv",index=False)
         ###
-        #dfyh=pd.DataFrame(self.data.y_holdout)
+        #dfyh=pd.DataFrame(self.data.y_validation)
         #dfyw.columns=["pIC50"]
-        #dfyh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"y_holdout.csv",index=False)
+        #dfyh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_validation.csv",index=False)
         ###
 
         #logging.debug("training the data in stratified k folds")
@@ -109,23 +109,23 @@ class Model:
             ###
             #dfxwtr=pd.DataFrame(self.data.x_train)
             #dfxwtr.columns=self.data.df.columns
-            #dfxwtr.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"x_work"+"-"+str(self.data.split)+"-train"+".csv",index=False)
+            #dfxwtr.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work"+"-"+str(self.data.split)+"-train"+".csv",index=False)
             ###
             #dfywtr=pd.DataFrame(self.data.y_train)
             #dfywtr.columns=["pIC50"]
-            #dfywtr.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"y_work"+"-"+str(self.data.split)+"-train"+".csv",index=False)
+            #dfywtr.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-train"+".csv",index=False)
             ###
             #dfxwte=pd.DataFrame(self.data.x_test)
             #dfxwte.columns=self.data.df.columns
-            #dfxwte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"x_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
+            #dfxwte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
             ###
             #dfywte=pd.DataFrame(self.data.y_test)
             #dfywte.columns=["pIC50"]
-            #dfywte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+dtype+"-"+"y_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
+            #dfywte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
             ###
 
             self.step+=1
-            logging.info("running model "+self.name+" dtype "+dtype+" enzyme "+enzyme+" scaler "+sn+" split "+str(self.data.split)+" "+str(self.step)+"/"+str(self.steps))
+            logging.info("running model "+self.name+" descriptor "+descriptor+" enzyme "+enzyme+" scaler "+sn+" split "+str(self.data.split)+" "+str(self.step)+"/"+str(self.steps))
             self.run(epochs)
 
             # saving predictions, history after each split
@@ -138,15 +138,15 @@ class Model:
     def save_model(self):
         # saving models
         self.create_directory(self.root+"/models/")
-        self.model.save(self.root+"/models/"+self.name+"-"+self.dtype+"-"+self.enzyme+"-"+self.sn+"-"+str(self.split)+".keras")
-        #tf.saved_model.save(model,self.root+"./models/"+name+"-"+dtype+"-"+enzyme+"-"+sn+"-"+str(split))
-        #model.export(self.root+"./models/"+name+"-"+dtype+"-"+enzyme+"-"+sn+"-"+split)
+        self.model.save(self.root+"/models/"+self.name+"-"+self.descriptor+"-"+self.enzyme+"-"+self.sn+"-"+str(self.split)+".keras")
+        #tf.saved_model.save(model,self.root+"./models/"+name+"-"+descriptor+"-"+enzyme+"-"+sn+"-"+str(split))
+        #model.export(self.root+"./models/"+name+"-"+descriptor+"-"+enzyme+"-"+sn+"-"+split)
         return
 
     def save_object(self):
         # saving models
         self.create_directory(self.root+"/models/")
-        pickle.dump(self.model,open(self.root+"/models/"+self.name+"-"+self.dtype+"-"+self.enzyme+"-"+self.sn+"-"+str(self.split)+"-"+self.data.sign+".p","wb"))
+        pickle.dump(self.model,open(self.root+"/models/"+self.name+"-"+self.descriptor+"-"+self.enzyme+"-"+self.sn+"-"+str(self.split)+"-"+self.data.sign+".p","wb"))
         return
 
     def fix4ch(self,str):

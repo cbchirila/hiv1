@@ -1,5 +1,7 @@
 
 # Multi-Layer Perceptron
+# versiunea functionala pe straturi
+# https://pub.aimind.so/never-use-restore-best-weights-true-with-earlystopping-754ba5f9b0c6
 
 import logging
 import numpy as np
@@ -49,7 +51,7 @@ class MLP(Model):
         #logging.info("to transform from a single line to a line of columns")
         self.data.y_train=np.array([[v] for v in self.data.y_train])
         self.data.y_test=np.array([[v] for v in self.data.y_test])
-        self.data.y_holdout=np.array([[v] for v in self.data.y_holdout])
+        self.data.y_validation=np.array([[v] for v in self.data.y_validation])
         # iterating parameters if any
 
         #logging.debug("x_train")
@@ -58,9 +60,15 @@ class MLP(Model):
         #logging.debug(self.data.y_train[:10])
 
         #logging.debug("to build and fit the model")
+        es=keras.callbacks.EarlyStopping(monitor='val_loss', min_delta=0, patience=20, verbose=1, mode='auto', baseline=None, restore_best_weights=True)
+        # cp = tf.keras.callbacks.ModelCheckpoint(
+        #     self.data.root+"/history-plots/"+
+        #     self.data.model+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.sn+"-"+str(self.data.split)+
+        #     "-acc-loss.h5",
+        #     monitor="val_loss", mode="min", save_best_only=True, verbose=1)
         self.data.t1=time.time()
         self.model=self.build()
-        h=self.model.fit(self.data.x_train,self.data.y_train,batch_size=16,epochs=epochs,verbose=0,validation_data=(self.data.x_test,self.data.y_test),shuffle=False)
+        h=self.model.fit(self.data.x_train,self.data.y_train,batch_size=16,epochs=epochs,verbose=0,validation_data=(self.data.x_test,self.data.y_test),callbacks=[es],shuffle=False)
         self.data.t2=time.time()
 
         #logging.debug("to add history")
@@ -88,14 +96,13 @@ def main():
         epochs=1000
     else:
         logging.info("running on cpu / no gpu")
-        epochs=2
+        epochs=200
 
     logging.info("run")
     data=Data("./train-ch/","chembl")
     predictions=[
-        Prediction(Data("./pred-add","ApprovedDrugs-Decoys")),
-        Prediction(Data("./pred-ch","chembl")),
-        Prediction(Data("./pred-dc","drugcentral"))]
+        Prediction(Data("./pred-dc","drugcentral"))
+    ]
 
     model=MLP(data,predictions)
     model.process_files(epochs)

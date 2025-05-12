@@ -1,0 +1,4100 @@
+title,frequency,rank
+propylene glycol,250,1.0
+xenon (127Xe) gas,250,1.0
+glycerol,250,1.0
+sulfur,250,1.0
+dimethyl sulfoxide,250,1.0
+ethanol,250,1.0
+propanol,250,1.0
+ethyl chloride,250,1.0
+xenon,250,1.0
+selenium sulfide,250,1.0
+krypton (81mKr) gas,250,1.0
+xenon (133Xe) gas,250,1.0
+diethyl ether,250,1.0
+nitric oxide,248,2.0
+iron,248,2.0
+titanium dioxide,248,2.0
+carbon dioxide,248,2.0
+UREA C-13,248,2.0
+UREA C 14,248,2.0
+helium,248,2.0
+carbamide,248,2.0
+magnesium hydroxide,248,2.0
+silicon dioxide,248,2.0
+zinc oxide,248,2.0
+magnesium oxide,248,2.0
+cupric oxide,248,2.0
+dimercaprol,248,2.0
+Molybdenum Mo-99,248,2.0
+hydrochloric acid,246,3.0
+formaldehyde,246,3.0
+hydrofluoric acid,244,4.0
+cacodylic acid,242,5.0
+isopropanol,242,5.0
+chlorobutanol,242,5.0
+magnesium peroxide,242,5.0
+chloroform,242,5.0
+nitrogen,240,6.0
+chromic chloride,240,6.0
+alanine,240,6.0
+DL-Alanine,240,6.0
+carbon tetrachloride,240,6.0
+phosphoric acid,240,6.0
+guanidine,238,7.0
+mesna,236,8.0
+mercaptamine,236,8.0
+pentaerythritol,236,8.0
+taurine,234,9.0
+glutaral,234,9.0
+perflutren,234,9.0
+xylitol,234,9.0
+ferric hydroxide,234,9.0
+isovaleryl diethylamide,234,9.0
+piperazine,234,9.0
+valpromide,234,9.0
+prenderol,234,9.0
+levamfetamine,234,9.0
+trometamol,234,9.0
+deanol,234,9.0
+chloral hydrate,234,9.0
+asparagine,234,9.0
+succinimide,234,9.0
+ditiocarb,234,9.0
+algeldrate,234,9.0
+succinic acid,234,9.0
+teflurane,234,9.0
+valproic acid,234,9.0
+valine,234,9.0
+amfetamine,234,9.0
+boric acid,234,9.0
+trolamine,234,9.0
+threonine,234,9.0
+hydroquinone,234,9.0
+dexamfetamine,234,9.0
+trichloroacetic acid,234,9.0
+benzyl alcohol,234,9.0
+acetohydroxamic acid,234,9.0
+hydrogen peroxide,234,9.0
+aminohydroxybutyric acid,234,9.0
+halothane,234,9.0
+AMMONIA N-13,234,9.0
+phenol,234,9.0
+paraldehyde,234,9.0
+methiodal,234,9.0
+ammonia,234,9.0
+trichloroethylene,232,10.0
+propiolactone,232,10.0
+glycolic acid,232,10.0
+radium Ra 223 dichloride,232,10.0
+glycine,232,10.0
+foscarnet,232,10.0
+oxygen,232,10.0
+thallous chloride Tl-201,232,10.0
+fumaric acid,232,10.0
+stannous fluoride,232,10.0
+arsenic trioxide,232,10.0
+unithiol,232,10.0
+ferrous chloride,232,10.0
+dichloroacetic acid,232,10.0
+ferric oxide,232,10.0
+fosfomycin,232,10.0
+lactic acid,232,10.0
+cupric chloride,232,10.0
+acetic acid,232,10.0
+hydroxycarbamide,232,10.0
+perflubutane,232,10.0
+mercuric amidochloride,230,11.0
+tetrachloroethylene,230,11.0
+mercuric chloride,230,11.0
+penicillamine,228,12.0
+flurotyl,228,12.0
+phentermine,228,12.0
+inositol,228,12.0
+vinyl ether,226,13.0
+mannitol,226,13.0
+mechlorethamine,226,13.0
+clodronic acid,226,13.0
+adipic acid,226,13.0
+loprodiol,226,13.0
+sorbitol,226,13.0
+iodine,224,14.0
+methenamine,224,14.0
+methylsulfonal,224,14.0
+aminobutyric acid,224,14.0
+dapsone,222,15.0
+sevoflurane,222,15.0
+iodoform,222,15.0
+leucine,222,15.0
+etidronic acid,222,15.0
+enflurane,220,16.0
+pempidine,220,16.0
+terpin,220,16.0
+valnoctamide,220,16.0
+fluoresone,220,16.0
+oxidronic acid,220,16.0
+succimer,220,16.0
+chlorphentermine,220,16.0
+pentorex,220,16.0
+sulfanilamide,220,16.0
+mebanazine,218,17.0
+aminolevulinic acid,218,17.0
+isosorbide,218,17.0
+dimethylphthalate,218,17.0
+methylparaben,218,17.0
+tuaminoheptane,218,17.0
+fluroxene,218,17.0
+valdetamide,218,17.0
+protocatechualdehyde,218,17.0
+dimethyl fumarate,218,17.0
+aminopicoline,218,17.0
+pyrazinamide,218,17.0
+isoleucine,218,17.0
+isoflurane,218,17.0
+paramethadione,218,17.0
+aminobenzoic acid,218,17.0
+piracetam,218,17.0
+meglutol,218,17.0
+thymol,218,17.0
+aspartic acid,218,17.0
+methamphetamine,218,17.0
+levmetamfetamine,218,17.0
+nicotinamide,218,17.0
+betaine,218,17.0
+phenylethanolamine,218,17.0
+etohexadiol,218,17.0
+mequinol,218,17.0
+mecysteine,218,17.0
+cysteine,218,17.0
+citiolone,218,17.0
+desflurane,218,17.0
+hydroxyamfetamine,218,17.0
+dichlorobenzyl alcohol,218,17.0
+phenylpropanol,218,17.0
+phenylpropanolamine,218,17.0
+acetanilide,218,17.0
+trimethadione,218,17.0
+guaiacol,218,17.0
+ethosuximide,218,17.0
+benzoic acid,218,17.0
+methoxyflurane,218,17.0
+cineole,218,17.0
+ketoxal,218,17.0
+emylcamate,218,17.0
+propofol,218,17.0
+tartaric acid,218,17.0
+methylhexaneamine,218,17.0
+4-dimethylaminophenol,218,17.0
+diiodohydroxypropane,218,17.0
+halopropane,218,17.0
+fampridine,218,17.0
+cathine,218,17.0
+oxymethurea,218,17.0
+phenylacetic acid,218,17.0
+serine,218,17.0
+oxydibutanol,218,17.0
+salicylamide,218,17.0
+resorcinol,218,17.0
+triclofos,216,18.0
+trientine,216,18.0
+phenoxyethanol,216,18.0
+metrifonate,216,18.0
+camphor,216,18.0
+dexfosfoserine,216,18.0
+phloroglucinol,216,18.0
+amantadine,216,18.0
+glutamine,216,18.0
+arsanilic acid,216,18.0
+pamidronic acid,216,18.0
+ethenzamide,214,19.0
+nitrous oxide,212,20.0
+symclosene,212,20.0
+citric acid,212,20.0
+metamfepramone,212,20.0
+fluostigmine,212,20.0
+octodrine,212,20.0
+tyramine,212,20.0
+methacholine,210,21.0
+mebutamate,210,21.0
+azelaic acid,210,21.0
+domiodol,210,21.0
+choline,210,21.0
+atrolactamide,210,21.0
+homocamfin,210,21.0
+nicotinyl alcohol,210,21.0
+aminocaproic acid,210,21.0
+methyl nicotinate,210,21.0
+ornithine,210,21.0
+octopamine,210,21.0
+chloroxylenol,210,21.0
+pregabalin,210,21.0
+mandelic acid,210,21.0
+thiram,210,21.0
+fluoromethylcholine (18F),210,21.0
+Choline C-11,210,21.0
+acetylcholine,210,21.0
+fomepizole,210,21.0
+perflenapent,208,22.0
+cresatin,208,22.0
+tranylcypromine,208,22.0
+oxanamide,208,22.0
+carbocisteine,208,22.0
+dimantine,208,22.0
+busulfan,208,22.0
+octanoic acid,208,22.0
+mafenide,206,23.0
+acetylcysteine,206,23.0
+noxytiolin,206,23.0
+methyl salicylate,206,23.0
+glutamic acid,206,23.0
+phenaglycodol,206,23.0
+itramin tosilate,204,24.0
+ethadione,204,24.0
+norfenefrine,204,24.0
+methiosulfonium chloride,204,24.0
+antimony pentasulfide,204,24.0
+barbital,202,25.0
+methylpentynol,202,25.0
+lindane,202,25.0
+heptaminol,202,25.0
+dimethylcarbate,202,25.0
+pheniprazine,202,25.0
+cetyl alcohol,202,25.0
+methyl aminolevulinate,202,25.0
+nicotinyl methylamide,202,25.0
+selenomethionine,202,25.0
+hexestrol,202,25.0
+cycloserine,202,25.0
+salacetamide,202,25.0
+allantoin,200,26.0
+fluciclovine (18F),200,26.0
+guaiacol phosphate,200,26.0
+proline,200,26.0
+methylephedrine,200,26.0
+alverine,200,26.0
+ascorbic acid,200,26.0
+edetic acid,200,26.0
+perflexane,200,26.0
+oxophenarsine,198,27.0
+creatine,198,27.0
+nicotinic acid,198,27.0
+mebicar,198,27.0
+guaiacol benzoate,198,27.0
+levomenthol,198,27.0
+capuride,198,27.0
+gepefrine,198,27.0
+clomethiazole,198,27.0
+oxiracetam,196,28.0
+clortermine,196,28.0
+paracetamol,196,28.0
+phenelzine,196,28.0
+dopamine,196,28.0
+bitoscanate,196,28.0
+ectylurea,196,28.0
+gabapentin,196,28.0
+altretamine,196,28.0
+methionine,196,28.0
+triacetin,196,28.0
+metaraminol,194,29.0
+phenylalanine,194,29.0
+aminomethylbenzoic acid,194,29.0
+tranexamic acid,194,29.0
+diethyltoluamide,194,29.0
+sulfiram,194,29.0
+phenpromethamine,194,29.0
+levetiracetam,194,29.0
+betanaphthol,194,29.0
+bemegride,194,29.0
+sodium hexacyclonate,194,29.0
+phenibut,194,29.0
+hydroxyproline,192,30.0
+thiamazole,192,30.0
+bromoform,192,30.0
+1-Octacosanol,192,30.0
+docosanol,192,30.0
+docosanoic acid,192,30.0
+butedronic acid,192,30.0
+clofenotane,192,30.0
+methylrosaniline,192,30.0
+treosulfan,192,30.0
+alendronic acid,192,30.0
+stearic acid,192,30.0
+dodecanoic acid,192,30.0
+clofenamide,190,31.0
+benzoyl peroxide,190,31.0
+procymate,190,31.0
+tribromoethanol,190,31.0
+dixanthogen,190,31.0
+salicylic acid,190,31.0
+perflunafene,190,31.0
+xylose,188,32.0
+orazamide,188,32.0
+metformin,188,32.0
+sulfur hexafluoride,188,32.0
+perflubron,188,32.0
+mephentermine,188,32.0
+phenacemide,188,32.0
+sodium thiosalicylate,188,32.0
+guaifenesin,188,32.0
+lysine,188,32.0
+epomediol,188,32.0
+bethanechol,186,33.0
+mercuric iodide,186,33.0
+dibutylsuccinate,186,33.0
+carbachol,186,33.0
+benzocaine,186,33.0
+cystine,184,34.0
+sulfacetamide,184,34.0
+mesulfen,184,34.0
+medifoxamine,184,34.0
+tetraethylphthalamide,184,34.0
+pentamethonium bromide,182,35.0
+hexamethonium,182,35.0
+secbutabarbital,182,35.0
+diethylcarbamazine,182,35.0
+meprobamate,182,35.0
+methsuximide,182,35.0
+aceclidine,182,35.0
+guaiacol carbonate,182,35.0
+pseudoephedrine,180,36.0
+edaravone,180,36.0
+tulobuterol,180,36.0
+aluminium oxide,180,36.0
+timonacic,180,36.0
+ephedrine,180,36.0
+promoxolane,180,36.0
+metharbital,180,36.0
+phosphorylcholine,180,36.0
+diethylpropion,180,36.0
+disulfiram,180,36.0
+tosylchloramide sodium,180,36.0
+deferiprone,180,36.0
+gluconolactone,178,37.0
+furtrethonium,178,37.0
+fenoxypropazine,178,37.0
+etifelmine,178,37.0
+piperidione,178,37.0
+pholedrine,178,37.0
+ethyl hydroxybenzoate,178,37.0
+fenipentol,178,37.0
+norepinephrine,178,37.0
+ethionamide,178,37.0
+clofibric acid,178,37.0
+amifampridine,178,37.0
+Iofetamine (123I),178,37.0
+corbadrine,178,37.0
+clofibrate,178,37.0
+iodinated glycerol,178,37.0
+dienestrol,178,37.0
+diethadione,178,37.0
+phenicarbazide,178,37.0
+paroxypropione,178,37.0
+levocarnitine,178,37.0
+isoniazid,178,37.0
+2-(4-chlorphenoxy)-ethanol,178,37.0
+lefetamine,178,37.0
+octamoxin,178,37.0
+acetylsalicylic acid,178,37.0
+perfluamine,178,37.0
+propiverine,176,38.0
+etebenecid,176,38.0
+etafenone,176,38.0
+etamiphylline,176,38.0
+diloxanide furoate,176,38.0
+nomegestrol,176,38.0
+diisopromine,176,38.0
+rufinamide,176,38.0
+dilazep,176,38.0
+etaqualone,176,38.0
+estriol,176,38.0
+estrone,176,38.0
+ribavirin,176,38.0
+propiram,176,38.0
+eterobarb,176,38.0
+etersalate,176,38.0
+methopromazine,176,38.0
+propipocaine,176,38.0
+dihydrotachysterol,176,38.0
+ethambutol,176,38.0
+sabcomeline,176,38.0
+safinamide,176,38.0
+ethaverine,176,38.0
+norethandrolone,176,38.0
+salbutamol,176,38.0
+propiomazine,176,38.0
+dihexyverine,176,38.0
+propoxycaine,176,38.0
+dimemorfan,176,38.0
+propranolol,176,38.0
+metabutethamine,176,38.0
+eslicarbazepine acetate,176,38.0
+eseridine,176,38.0
+esatenolol,176,38.0
+protirelin,176,38.0
+protizinic acid,176,38.0
+dimethylthiambutene,176,38.0
+proxazole,176,38.0
+esmolol,176,38.0
+prozapine,176,38.0
+dimetindene,176,38.0
+erdosteine,176,38.0
+pyricarbate,176,38.0
+eptazocine,176,38.0
+eprozinol,176,38.0
+dimethylaminopropionylphenothiazine,176,38.0
+dimethoxanate,176,38.0
+dimazole,176,38.0
+dimetacrine,176,38.0
+dimefline,176,38.0
+salinazid,176,38.0
+dimenoxadol,176,38.0
+mestanolone,176,38.0
+mesterolone,176,38.0
+dimepheptanol,176,38.0
+dimethazan,176,38.0
+prothipendyl,176,38.0
+methitural,176,38.0
+proquazone,176,38.0
+estradiol,176,38.0
+estetrol,176,38.0
+estazolam,176,38.0
+dimethocaine,176,38.0
+propicillin,176,38.0
+ethoheptazine,176,38.0
+sapropterin,176,38.0
+dextropropoxyphene,176,38.0
+dexrazoxane,176,38.0
+mepyramine,176,38.0
+dextrofemine,176,38.0
+sequifenadine,176,38.0
+dextromoramide,176,38.0
+promethazine,176,38.0
+semustine,176,38.0
+promegestone,176,38.0
+etomidate,176,38.0
+diacerein,176,38.0
+diampromide,176,38.0
+propacetamol,176,38.0
+diathymosulfone,176,38.0
+propafenone,176,38.0
+seratrodast,176,38.0
+etoricoxib,176,38.0
+secobarbital,176,38.0
+etybenzatropine,176,38.0
+dexketoprofen,176,38.0
+meprylcaine,176,38.0
+eucatropine,176,38.0
+prolintane,176,38.0
+etymemazine,176,38.0
+setastine,176,38.0
+sertraline,176,38.0
+etoxadrol,176,38.0
+meptazinol,176,38.0
+etretinate,176,38.0
+promazine,176,38.0
+etozolin,176,38.0
+etoxazene,176,38.0
+dexmethylphenidate,176,38.0
+etofibrate,176,38.0
+diazepam,176,38.0
+difenpiramide,176,38.0
+ethyl dibunate,176,38.0
+ethylmethylthiambutene,176,38.0
+dicycloverine,176,38.0
+didanosine,176,38.0
+ethylestrenol,176,38.0
+diethazine,176,38.0
+diethylamino hydroxybenzoyl hexyl benzoate,176,38.0
+diethylaminoethoxyhexestrol,176,38.0
+etidocaine,176,38.0
+ethyl biscoumacetate,176,38.0
+ethoxzolamide,176,38.0
+difebarbamate,176,38.0
+difemerine,176,38.0
+dimetotiazine,176,38.0
+difemetorex,176,38.0
+proparacaine,176,38.0
+dicoumarol,176,38.0
+methscopolamine,176,38.0
+dibutylphthalate,176,38.0
+diazolidinylurea,176,38.0
+dibekacin,176,38.0
+dibenzepin,176,38.0
+etofenamate,176,38.0
+etodolac,176,38.0
+dibunate,176,38.0
+mequitazine,176,38.0
+scarlet red,176,38.0
+meradimate,176,38.0
+etilefrine pivalate,176,38.0
+scopolamine,176,38.0
+dichlorphenamide,176,38.0
+etifoxine,176,38.0
+diclofenac,176,38.0
+metabutoxycaine,176,38.0
+eprazinone,176,38.0
+dimevamide,176,38.0
+methallatal,176,38.0
+rociverine,176,38.0
+remifentanil,176,38.0
+rizatriptan,176,38.0
+remoxipride,176,38.0
+dopexamine,176,38.0
+eicosapentaenoic acid,176,38.0
+rivastigmine,176,38.0
+egualen,176,38.0
+ritodrine,176,38.0
+dorzolamide,176,38.0
+dosulepin,176,38.0
+dotinurad,176,38.0
+ritiometan,176,38.0
+doxapram,176,38.0
+doxefazepam,176,38.0
+domitroban,176,38.0
+rofecoxib,176,38.0
+roflumilast,176,38.0
+methdilazine,176,38.0
+disulfamide,176,38.0
+ditazole,176,38.0
+ranolazine,176,38.0
+razoxane,176,38.0
+ropivacaine,176,38.0
+methallenestril,176,38.0
+reboxetine,176,38.0
+relebactam,176,38.0
+dobutamine,176,38.0
+ropinirole,176,38.0
+docusate sodium,176,38.0
+methazolamide,176,38.0
+dofetilide,176,38.0
+dolasetron,176,38.0
+doxepin,176,38.0
+reposal,176,38.0
+doxercalciferol,176,38.0
+ricinoleic acid,176,38.0
+droxicam,176,38.0
+retinol acetate,176,38.0
+methapyrilene,176,38.0
+methaniazide,176,38.0
+droxypropine,176,38.0
+duloxetine,176,38.0
+dyclonine,176,38.0
+drotaverine,176,38.0
+econazole,176,38.0
+dydrogesterone,176,38.0
+ebastine,176,38.0
+ecamsule,176,38.0
+eberconazole,176,38.0
+methaphenilene,176,38.0
+edoxudine,176,38.0
+drostanolone propionate,176,38.0
+doxifluridine,176,38.0
+drofenine,176,38.0
+doxofylline,176,38.0
+ripazepam,176,38.0
+methandriol,176,38.0
+progesterone,176,38.0
+retigabine,176,38.0
+doxylamine,176,38.0
+nandrolone,176,38.0
+methaqualone,176,38.0
+rioprostil,176,38.0
+rimiterol,176,38.0
+efaproxiral,176,38.0
+retinol,176,38.0
+droprenilamine,176,38.0
+dropropizine,176,38.0
+disufenton,176,38.0
+ranimustine,176,38.0
+dimorpholamine,176,38.0
+methadone,176,38.0
+metahexamide,176,38.0
+diperodon,176,38.0
+epalrestat,176,38.0
+diphenadione,176,38.0
+pyritinol,176,38.0
+enzacamene,176,38.0
+pyrovalerone,176,38.0
+diphenhydramine,176,38.0
+pyrrobutamine,176,38.0
+diphenidol,176,38.0
+methenolone,176,38.0
+entecavir,176,38.0
+pyrrocaine,176,38.0
+diphenylpyraline,176,38.0
+dipipanone,176,38.0
+methestrol,176,38.0
+eperisone,176,38.0
+dioxaphetyl butyrate,176,38.0
+epitiostanol,176,38.0
+ecabet,176,38.0
+epoprostenol,176,38.0
+dinoprost,176,38.0
+dinoprostone,176,38.0
+epitizide,176,38.0
+methestrol dipropionate,176,38.0
+nordefrin,176,38.0
+epervudine,176,38.0
+epirizole,176,38.0
+nordazepam,176,38.0
+rotraxate,176,38.0
+epinastine,176,38.0
+pyrinoline,176,38.0
+dioxadrol,176,38.0
+dipiperonylaminoethanol,176,38.0
+ensulizole,176,38.0
+metamizole,176,38.0
+diseptal B,176,38.0
+rosaprostol,176,38.0
+emtricitabine,176,38.0
+quinisocaine,176,38.0
+emorfazone,176,38.0
+quinupramine,176,38.0
+racecadotril,176,38.0
+embramine,176,38.0
+nomifensine,176,38.0
+disofenin,176,38.0
+ramelteon,176,38.0
+ramifenazone,176,38.0
+disopyramide,176,38.0
+eltanolone,176,38.0
+roquinimex,176,38.0
+rosiglitazone,176,38.0
+quinethazone,176,38.0
+dipiproverine,176,38.0
+metapramine,176,38.0
+dipivefrine,176,38.0
+metampicillin,176,38.0
+quazepam,176,38.0
+enoximone,176,38.0
+metandienone,176,38.0
+diprafenone,176,38.0
+enilconazole,176,38.0
+rosoxacin,176,38.0
+quifenadine,176,38.0
+diprophylline,176,38.0
+enfenamic acid,176,38.0
+endralazine,176,38.0
+dipyridamole,176,38.0
+metaxalone,176,38.0
+proglumide,176,38.0
+diacetazotol,176,38.0
+progabide,176,38.0
+penfluridol,176,38.0
+pentetic acid,176,38.0
+penthienate,176,38.0
+pentifylline,176,38.0
+mebutizide,176,38.0
+pentobarbital,176,38.0
+pentoxifylline,176,38.0
+pentoxyverine,176,38.0
+perazine,176,38.0
+inqovi,176,38.0
+inositol nicotinate,176,38.0
+inosine,176,38.0
+indoprofen,176,38.0
+indobufen,176,38.0
+perhexiline,176,38.0
+perindopril,176,38.0
+indigo carmine,176,38.0
+indeloxazine,176,38.0
+indecainide,176,38.0
+indapamide,176,38.0
+indalpine,176,38.0
+perisoxal,176,38.0
+perlapine,176,38.0
+inaperisone,176,38.0
+mebrofenin,176,38.0
+penciclovir,176,38.0
+improsulfan,176,38.0
+penbutolol,176,38.0
+isoxicam,176,38.0
+isotretinoin,176,38.0
+isothipendyl,176,38.0
+maprotiline,176,38.0
+papaverine,176,38.0
+isopromethazine,176,38.0
+masoprocol,176,38.0
+isonixin,176,38.0
+isomethadone,176,38.0
+isofezolac,176,38.0
+isoconazole,176,38.0
+mazaticol,176,38.0
+mazindol,176,38.0
+octacaine,176,38.0
+parathiazine,176,38.0
+iprazochrome,176,38.0
+parecoxib,176,38.0
+parethoxycaine,176,38.0
+pecazine,176,38.0
+pecilocin,176,38.0
+octabenzone,176,38.0
+mebhydrolin,176,38.0
+penamecillin,176,38.0
+imrecoxib,176,38.0
+imipramine oxide,176,38.0
+mannosulfan,176,38.0
+phenbenzamine,176,38.0
+phencyclidine,176,38.0
+phendimetrazine,176,38.0
+hydroflumethiazide,176,38.0
+pheneticillin,176,38.0
+phenglutarimide,176,38.0
+phenindamine,176,38.0
+medazepam,176,38.0
+pheniramine,176,38.0
+hydrochlorothiazide,176,38.0
+medibazine,176,38.0
+hopantenic acid,176,38.0
+homosalate,176,38.0
+phenobarbital,176,38.0
+homochlorcyclizine,176,38.0
+homatropine,176,38.0
+medrogestone,176,38.0
+histapyrrodine,176,38.0
+phenolphthalein,176,38.0
+noxiptiline,176,38.0
+hexyldecanoic acid,176,38.0
+hexylcaine,176,38.0
+hexoprenaline,176,38.0
+phenolphthalol,176,38.0
+phenbutamide,176,38.0
+hydroxymethylnicotinamide,176,38.0
+imipramine,176,38.0
+hydroxypethidine,176,38.0
+permethrin,176,38.0
+imidafenacin,176,38.0
+mecillinam,176,38.0
+obeticholic acid,176,38.0
+pethidine,176,38.0
+meclofenamic acid,176,38.0
+phenacaine,176,38.0
+ifenprodil,176,38.0
+idoxuridine,176,38.0
+idebenone,176,38.0
+phenadoxone,176,38.0
+icosapent ethyl,176,38.0
+ibutilide,176,38.0
+ibuprofen piconol,176,38.0
+ibuprofen guaiacol ester,176,38.0
+phenallymal,176,38.0
+ibopamine,176,38.0
+mecloxamine,176,38.0
+ibacitabine,176,38.0
+hyoscyamine,176,38.0
+meclozine,176,38.0
+hydroxyzine,176,38.0
+hydroxytetracaine,176,38.0
+isoxsuprine,176,38.0
+pantethine,176,38.0
+exemestane,176,38.0
+lisdexamfetamine,176,38.0
+oxandrolone,176,38.0
+linopirdine,176,38.0
+linolenic acid,176,38.0
+linoleic acid,176,38.0
+linezolid,176,38.0
+oxazepam,176,38.0
+oxcarbazepine,176,38.0
+limaprost,176,38.0
+oleic acid,176,38.0
+oxeladin,176,38.0
+lidofenin,176,38.0
+lidocaine,176,38.0
+oxendolone,176,38.0
+oxetacaine,176,38.0
+levosulpiride,176,38.0
+levosalbutamol,176,38.0
+olaflur,176,38.0
+octyltriethoxysilane,176,38.0
+levopropoxyphene,176,38.0
+levomethadyl acetate,176,38.0
+levomethadone,176,38.0
+levomepromazine,176,38.0
+levomenol,176,38.0
+liranaftate,176,38.0
+oxamniquine,176,38.0
+oxiglutatione,176,38.0
+lumiracoxib,176,38.0
+loxoprofen,176,38.0
+ornoprostil,176,38.0
+orphenadrine,176,38.0
+lormetazepam,176,38.0
+opipramol,176,38.0
+ondansetron,176,38.0
+lorcainide,176,38.0
+lorazepam,176,38.0
+oseltamivir,176,38.0
+ospemifene,176,38.0
+loperamide,176,38.0
+lonidamine,176,38.0
+lonazolac,176,38.0
+oxabolone,176,38.0
+lomustine,176,38.0
+lomifylline,176,38.0
+lomerizine,176,38.0
+olsalazine,176,38.0
+loflucarban,176,38.0
+oxaflozane,176,38.0
+lobenzarit,176,38.0
+oxagrelate,176,38.0
+oxamarin,176,38.0
+oxiconazole,176,38.0
+levofacetoperane,176,38.0
+itopride,176,38.0
+laquinimod,176,38.0
+oxyphencyclimine,176,38.0
+lanoconazole,176,38.0
+oxyphenisatine,176,38.0
+oxyphenisatine acetate,176,38.0
+lamivudine,176,38.0
+lactulose,176,38.0
+lactose,176,38.0
+lactitol,176,38.0
+lacosamide,176,38.0
+lacidipine,176,38.0
+kojic acid,176,38.0
+malotilate,176,38.0
+maltose,176,38.0
+ketorolac,176,38.0
+ketoprofen,176,38.0
+ketobemidone,176,38.0
+palmidrol,176,38.0
+kebuzone,176,38.0
+kanamycin,176,38.0
+palonosetron,176,38.0
+ixazomib,176,38.0
+mannomustine,176,38.0
+ivacaftor,176,38.0
+oxyphenbutazone,176,38.0
+oxymetholone,176,38.0
+levodropropizine,176,38.0
+oxymetazoline,176,38.0
+levocetirizine,176,38.0
+octisalate,176,38.0
+levobupivacaine,176,38.0
+levobunolol,176,38.0
+levdobutamine,176,38.0
+mabuprofen,176,38.0
+levamisole,176,38.0
+oxitropium,176,38.0
+oxolamine,176,38.0
+mabuterol,176,38.0
+leucinocaine,176,38.0
+letosteine,176,38.0
+oxomemazine,176,38.0
+octinoxate,176,38.0
+oxprenolol,176,38.0
+oxybuprocaine,176,38.0
+lenalidomide,176,38.0
+leiopyrrole,176,38.0
+leflunomide,176,38.0
+oxyclipine,176,38.0
+octenidine,176,38.0
+oxyfedrine,176,38.0
+oxymesterone,176,38.0
+hexobendine,176,38.0
+hexobarbital,176,38.0
+hexetidine,176,38.0
+flunitrazepam,176,38.0
+flunarizine,176,38.0
+flumethiazide,176,38.0
+posatirelin,176,38.0
+flumequine,176,38.0
+flumedroxone,176,38.0
+flumecinol,176,38.0
+practolol,176,38.0
+flufenamic acid,176,38.0
+pramipexole,176,38.0
+pramiracetam,176,38.0
+fludiazepam,176,38.0
+pramiverine,176,38.0
+fluconazole,176,38.0
+pramocaine,176,38.0
+pranoprofen,176,38.0
+prasterone,176,38.0
+prasterone acetate,176,38.0
+prasterone sulfate,176,38.0
+floxuridine,176,38.0
+floredil,176,38.0
+florbetaben F18,176,38.0
+prazepam,176,38.0
+praziquantel,176,38.0
+pomalidomide,176,38.0
+polythiazide,176,38.0
+flecainide,176,38.0
+polmacoxib,176,38.0
+piromidic acid,176,38.0
+piroxicam,176,38.0
+flutrimazole,176,38.0
+flutoprazepam,176,38.0
+pirozadil,176,38.0
+pirprofen,176,38.0
+normethadone,176,38.0
+flutamide,176,38.0
+norgesterone,176,38.0
+pitolisant,176,38.0
+menadiol sulfate,176,38.0
+dexfenfluramine,176,38.0
+pixantrone,176,38.0
+plafibride,176,38.0
+plaunotol,176,38.0
+plerixafor,176,38.0
+menadione sodium bisulfite,176,38.0
+fluoxymesterone,176,38.0
+fluoxetine,176,38.0
+menatetrenone,176,38.0
+menthyl salicylate,176,38.0
+fluoroestradiol F18,176,38.0
+fluocortolone,176,38.0
+prednisolone,176,38.0
+mephenytoin,176,38.0
+phenolsulfonphthalein,176,38.0
+procaine,176,38.0
+fencibutirol,176,38.0
+fencamfamin,176,38.0
+fenbutrazate,176,38.0
+fenbenicillin,176,38.0
+fenbendazole,176,38.0
+fenalcomine,176,38.0
+fenalamide,176,38.0
+mepitiostane,176,38.0
+femoxetine,176,38.0
+felodipine,176,38.0
+fedrilate,176,38.0
+procaterol,176,38.0
+feclobuzone,176,38.0
+feclemine,176,38.0
+febarbamate,176,38.0
+mepivacaine,176,38.0
+fasudil,176,38.0
+faropenem,176,38.0
+procyclidine,176,38.0
+profenamine,176,38.0
+ezetimibe,176,38.0
+exisulind,176,38.0
+exiproben,176,38.0
+fendiline,176,38.0
+fenethazine,176,38.0
+flavodic acid,176,38.0
+procainamide,176,38.0
+fingolimod,176,38.0
+mepindolol,176,38.0
+prenylamine,176,38.0
+pridinol,176,38.0
+fesoterodine,176,38.0
+feprazone,176,38.0
+fepradinol,176,38.0
+mepiprazole,176,38.0
+fentiazac,176,38.0
+fentanyl,176,38.0
+fenspiride,176,38.0
+fenquizone,176,38.0
+primaquine,176,38.0
+primidone,176,38.0
+fenpiprane,176,38.0
+fenpentadiol,176,38.0
+probenecid,176,38.0
+fenoxazoline,176,38.0
+probucol,176,38.0
+fenoterol,176,38.0
+fenoldopam,176,38.0
+fenofibrate,176,38.0
+fenfluramine,176,38.0
+fluvoxamine,176,38.0
+folescutol,176,38.0
+piroheptine,176,38.0
+granisetron,176,38.0
+glymidine,176,38.0
+glyhexamide,176,38.0
+glycyclamide,176,38.0
+glyconiazide,176,38.0
+mefexamide,176,38.0
+phthalylsulfacetamide,176,38.0
+phthalylsulfathiazole,176,38.0
+glycerol phenylbutyrate,176,38.0
+glybuzole,176,38.0
+glybuthiazol,176,38.0
+glutethimide,176,38.0
+glutathione,176,38.0
+mefruside,176,38.0
+glucosulfone,176,38.0
+physostigmine,176,38.0
+mefuparib,176,38.0
+phytomenadione,176,38.0
+piberaline,176,38.0
+norvinisterone,176,38.0
+picodralazine,176,38.0
+picoperine,176,38.0
+picotamide,176,38.0
+picrotin,176,38.0
+glypinamide,176,38.0
+phethenylate,176,38.0
+piroctone,176,38.0
+phetharbital,176,38.0
+phenoperidine,176,38.0
+phenosulfazole,176,38.0
+phenothrin,176,38.0
+phenoxybenzamine,176,38.0
+hetacillin,176,38.0
+hesperetin,176,38.0
+heptabarb,176,38.0
+hepronicate,176,38.0
+phenoxymethylpenicillin,176,38.0
+medrylamine,176,38.0
+phenprocoumon,176,38.0
+haloperidol,176,38.0
+halocarban,176,38.0
+medrysone,176,38.0
+phentolamine,176,38.0
+halazepam,176,38.0
+phenylbutazone,176,38.0
+mefenamic acid,176,38.0
+guaimesal,176,38.0
+phenyltoloxamine,176,38.0
+guaiapate,176,38.0
+phenytoin,176,38.0
+griseofulvin,176,38.0
+pidotimod,176,38.0
+gliclazide,176,38.0
+glibornuride,176,38.0
+piketoprofen,176,38.0
+pipoxolan,176,38.0
+pipradrol,176,38.0
+melitracen,176,38.0
+piprozolin,176,38.0
+ftivazide,176,38.0
+meloxicam,176,38.0
+frovatriptan,176,38.0
+pirbuterol,176,38.0
+melperone,176,38.0
+melphalan,176,38.0
+fosphenytoin,176,38.0
+piretanide,176,38.0
+norpipanone,176,38.0
+fosfluconazole,176,38.0
+piribedil,176,38.0
+piridocaine,176,38.0
+pirifibrate,176,38.0
+forodesine,176,38.0
+formylsulfamethin,176,38.0
+pirlindole,176,38.0
+formestane,176,38.0
+pirmenol,176,38.0
+fomocaine,176,38.0
+melinamide,176,38.0
+furfenorex,176,38.0
+furosemide,176,38.0
+pipebuzone,176,38.0
+pilocarpine,176,38.0
+pilsicainide,176,38.0
+pimeclone,176,38.0
+pimethixene,176,38.0
+gestonorone,176,38.0
+gepirone,176,38.0
+pioglitazone,176,38.0
+meladrazine,176,38.0
+pipamperone,176,38.0
+gemfibrozil,176,38.0
+gemcitabine,176,38.0
+piposulfan,176,38.0
+gefarnate,176,38.0
+nortriptyline,176,38.0
+piperaquine,176,38.0
+ganciclovir,176,38.0
+gamolenic acid,176,38.0
+piperidolate,176,38.0
+piperonyl butoxide,176,38.0
+gabapentin enacarbil,176,38.0
+meldonium,176,38.0
+pipethanate,176,38.0
+flurbiprofen axetil,176,38.0
+orlistat,176,38.0
+dexetimide,176,38.0
+bromazine,176,38.0
+biotin,176,38.0
+bioallethrin,176,38.0
+binifibrate,176,38.0
+tolbutamide,176,38.0
+mitoxantrone,176,38.0
+bifonazole,176,38.0
+bifluranol,176,38.0
+bifemelane,176,38.0
+tolciclate,176,38.0
+bietamiverine,176,38.0
+bidisomide,176,38.0
+tolfenamic acid,176,38.0
+bicalutamide,176,38.0
+tolindate,176,38.0
+tolmetin,176,38.0
+bialamicol,176,38.0
+tolnaftate,176,38.0
+bezafibrate,176,38.0
+bexarotene,176,38.0
+toloxatone,176,38.0
+tolperisone,176,38.0
+betiatide,176,38.0
+tolpropamine,176,38.0
+biperiden,176,38.0
+tolazamide,176,38.0
+bisacodyl,176,38.0
+tobramycin,176,38.0
+brodimoprim,176,38.0
+brivudine,176,38.0
+mitiglinide,176,38.0
+tipepidine,176,38.0
+tiquizium,176,38.0
+brexanolone,176,38.0
+nifedipine,176,38.0
+tizanidine,176,38.0
+mitomycin,176,38.0
+bornaprine,176,38.0
+tobuterol,176,38.0
+bisantrene,176,38.0
+bitolterol,176,38.0
+bisulepine,176,38.0
+bisoxatin acetate,176,38.0
+bisoxatin,176,38.0
+bisoprolol,176,38.0
+bisoctrizole,176,38.0
+tofenacin,176,38.0
+tofisopam,176,38.0
+tofogliflozin,176,38.0
+bisaramil,176,38.0
+mivotilate,176,38.0
+tolrestat,176,38.0
+tolterodine,176,38.0
+bencyclane,176,38.0
+bentazepam,176,38.0
+benproperine,176,38.0
+tribenoside,176,38.0
+benorilate,176,38.0
+benmoxin,176,38.0
+tribuzone,176,38.0
+benfluorex,176,38.0
+trichlormethiazide,176,38.0
+bendroflumethiazide,176,38.0
+bendazac,176,38.0
+benactyzine,176,38.0
+mofebutazone,176,38.0
+bempedoic acid,176,38.0
+triclabendazole,176,38.0
+bemetizide,176,38.0
+belinostat,176,38.0
+mofezolac,176,38.0
+beclobrate,176,38.0
+molindone,176,38.0
+bamipine,176,38.0
+bambuterol,176,38.0
+triflupromazine,176,38.0
+triazolam,176,38.0
+benzamidosalicylate,176,38.0
+tolycaine,176,38.0
+trapidil,176,38.0
+topiramate,176,38.0
+toremifene,176,38.0
+torsemide,176,38.0
+mizoribine,176,38.0
+tramadol,176,38.0
+tramazoline,176,38.0
+bermoprofen,176,38.0
+moclobemide,176,38.0
+tranilast,176,38.0
+bepridil,176,38.0
+benzylsulfamide,176,38.0
+benzatropine,176,38.0
+benzylpenicillin,176,38.0
+benzylhydrochlorothiazide,176,38.0
+modafinil,176,38.0
+trengestone,176,38.0
+benzphetamine,176,38.0
+trepibutone,176,38.0
+tretinoin,176,38.0
+benzoctamine,176,38.0
+tretoquinol,176,38.0
+benzestrol,176,38.0
+misoprostol,176,38.0
+mirtazapine,176,38.0
+cefalexin,176,38.0
+tiotropium bromide,176,38.0
+carazolol,176,38.0
+caramiphen,176,38.0
+captopril,176,38.0
+captodiame,176,38.0
+capobenic acid,176,38.0
+tiadenol,176,38.0
+tiagabine,176,38.0
+cannabidiol,176,38.0
+tiapride,176,38.0
+tiaprofenic acid,176,38.0
+camylofin,176,38.0
+tiazesim,176,38.0
+camazepam,176,38.0
+calusterone,176,38.0
+miglitol,176,38.0
+tiazofurine,176,38.0
+miglustat,176,38.0
+ticarcillin,176,38.0
+ticlopidine,176,38.0
+cafaminol,176,38.0
+cadralazine,176,38.0
+tienilic acid,176,38.0
+tifenamil,176,38.0
+carbazochrome,176,38.0
+carbenicillin,176,38.0
+carbifene,176,38.0
+micinicate,176,38.0
+thiamphenicol glycinate,176,38.0
+thiamylal,176,38.0
+nimesulide,176,38.0
+thiazosulfone,176,38.0
+metyrapone,176,38.0
+carteolol,176,38.0
+nilutamide,176,38.0
+carmofur,176,38.0
+carisoprodol,176,38.0
+mianserin,176,38.0
+thiopental,176,38.0
+carbinoxamine,176,38.0
+miconazole,176,38.0
+nifurtimox,176,38.0
+carbuterol,176,38.0
+carbutamide,176,38.0
+carbubarb,176,38.0
+midazolam,176,38.0
+carboprost,176,38.0
+carbocysteine-lysine,176,38.0
+thonzylamine,176,38.0
+midodrine,176,38.0
+tigemonam,176,38.0
+milverine,176,38.0
+tigloidine,176,38.0
+bucumolol,176,38.0
+timolol,176,38.0
+dexchlorpheniramine,176,38.0
+bumetanide,176,38.0
+bumadizone,176,38.0
+bufuralol,176,38.0
+buflomedil,176,38.0
+bufetolol,176,38.0
+tinofedrine,176,38.0
+budralazine,176,38.0
+budipine,176,38.0
+bucricaine,176,38.0
+bupivacaine,176,38.0
+bucolome,176,38.0
+bucloxic acid,176,38.0
+buclizine,176,38.0
+tiocarlide,176,38.0
+bucillamine,176,38.0
+tioconazole,176,38.0
+tiomesterone,176,38.0
+niflumic acid,176,38.0
+bromperidol,176,38.0
+bromopride,176,38.0
+buphenine,176,38.0
+bupranolol,176,38.0
+butriptyline,176,38.0
+butenafine,176,38.0
+butoxycaine,176,38.0
+butofilolol,176,38.0
+butoconazole,176,38.0
+butobendine,176,38.0
+butizide,176,38.0
+tilidine,176,38.0
+butidrine,176,38.0
+buthalital,176,38.0
+butethamine,176,38.0
+butetamate,176,38.0
+butazopyridine,176,38.0
+nifuratel,176,38.0
+butazolamide,176,38.0
+butaverine,176,38.0
+minaprine,176,38.0
+butanilicaine,176,38.0
+butamirate,176,38.0
+butalbital,176,38.0
+butalamine,176,38.0
+butacaine,176,38.0
+buspirone,176,38.0
+tilisolol,176,38.0
+trifluridine,176,38.0
+bagrosin,176,38.0
+nicomol,176,38.0
+triheptanoin,176,38.0
+allomethadione,176,38.0
+alloclamide,176,38.0
+alkofanone,176,38.0
+viloxazine,176,38.0
+alitretinoin,176,38.0
+viminol,176,38.0
+alimemazine,176,38.0
+nepafenac,176,38.0
+alfaxalone,176,38.0
+vinylbital,176,38.0
+nelarabine,176,38.0
+vismodegib,176,38.0
+myrtecaine,176,38.0
+aldesulfone,176,38.0
+vitamin A palmitate,176,38.0
+voglibose,176,38.0
+nefiracetam,176,38.0
+voriconazole,176,38.0
+albendazole sulfoxide,176,38.0
+albendazole,176,38.0
+vorinostat,176,38.0
+vorozole,176,38.0
+vortioxetine,176,38.0
+allylestrenol,176,38.0
+almecillin,176,38.0
+almotriptan,176,38.0
+vanitiolide,176,38.0
+nevirapine,176,38.0
+amineptine,176,38.0
+aminaphthone,176,38.0
+valdecoxib,176,38.0
+amidefrine,176,38.0
+moxisylyte,176,38.0
+moxonidine,176,38.0
+ambuside,176,38.0
+ambucetamide,176,38.0
+ambrisentan,176,38.0
+varenicline,176,38.0
+nepinalone,176,38.0
+altizide,176,38.0
+vedaprofen,176,38.0
+alprostadil,176,38.0
+alprenolol,176,38.0
+alprazolam,176,38.0
+venlafaxine,176,38.0
+alphaprodine,176,38.0
+alpha-tocopherol acetate,176,38.0
+muzolimine,176,38.0
+vidarabine,176,38.0
+afloqualone,176,38.0
+nebivolol,176,38.0
+warfarin,176,38.0
+naftopidil,176,38.0
+acepromazine,176,38.0
+aceglutamide,176,38.0
+acediasulfone,176,38.0
+acedapsone,176,38.0
+aceclofenac,176,38.0
+zipeprol,176,38.0
+acadesine,176,38.0
+zofenopril,176,38.0
+naftifine,176,38.0
+zolimidine,176,38.0
+zolmitriptan,176,38.0
+acetamidoeugenol,176,38.0
+zolpidem,176,38.0
+zomepirac,176,38.0
+zotepine,176,38.0
+naratriptan,176,38.0
+Padimate O,176,38.0
+Padimate A,176,38.0
+N-Acetylglucosamine,176,38.0
+Ioflupane I-123,176,38.0
+Flutemetamol (18F),176,38.0
+(S)-nitrendipine,176,38.0
+aceprometazine,176,38.0
+acetaminosalol,176,38.0
+nadolol,176,38.0
+xibenolol,176,38.0
+adrafinil,176,38.0
+xamoterol,176,38.0
+adiphenine,176,38.0
+xanomeline,176,38.0
+adicillin,176,38.0
+adenosine,176,38.0
+naepaine,176,38.0
+actinoquinol,176,38.0
+nealbarbital,176,38.0
+xenysalate,176,38.0
+xibornol,176,38.0
+acetazolamide,176,38.0
+xipamide,176,38.0
+acitretin,176,38.0
+nateglinide,176,38.0
+acetylmethadol,176,38.0
+nafiverine,176,38.0
+xylometazoline,176,38.0
+xyloylsulfamine,176,38.0
+zalcitabine,176,38.0
+zaltoprofen,176,38.0
+acetohexamide,176,38.0
+amino(diphenylhydantoin) valeric acid,176,38.0
+aminoglutethimide,176,38.0
+nialamide,176,38.0
+moquizone,176,38.0
+atenolol,176,38.0
+tripamide,176,38.0
+ataluren,176,38.0
+triparanol,176,38.0
+tripelennamine,176,38.0
+astromicin,176,38.0
+triprolidine,176,38.0
+tritiozine,176,38.0
+asenapine,176,38.0
+articaine,176,38.0
+arterolane,176,38.0
+trimipramine,176,38.0
+artenimol,176,38.0
+artemotil,176,38.0
+artemisinin,176,38.0
+artemether,176,38.0
+arotinolol,176,38.0
+armodafinil,176,38.0
+tromantadine,176,38.0
+tropatepine,176,38.0
+tropicamide,176,38.0
+tropisetron,176,38.0
+atomoxetine,176,38.0
+atovaquone,176,38.0
+arbutamine,176,38.0
+azapropazone,176,38.0
+trihexyphenidyl,176,38.0
+trimebutine,176,38.0
+azintamide,176,38.0
+trimecaine,176,38.0
+trimegestone,176,38.0
+trimetaphan,176,38.0
+trimetazidine,176,38.0
+azatadine,176,38.0
+azasetron,176,38.0
+azaribine,176,38.0
+moperone,176,38.0
+mopidamol,176,38.0
+azacyclonol,176,38.0
+azacitidine,176,38.0
+trimethobenzamide,176,38.0
+avobenzone,176,38.0
+avibactam,176,38.0
+trimethoprim,176,38.0
+trimethyldiphenylpropylamine,176,38.0
+trimetozine,176,38.0
+atropine oxyde,176,38.0
+atropine,176,38.0
+arbutin,176,38.0
+nicofuranose,176,38.0
+aminophenazone,176,38.0
+amobarbital,176,38.0
+ampicillin,176,38.0
+uridine triacetate,176,38.0
+amphotalide,176,38.0
+amperozide,176,38.0
+amoxicillin,176,38.0
+amoxapine,176,38.0
+amosulalol,176,38.0
+amoscanate,176,38.0
+amorolfine,176,38.0
+amolanone,176,38.0
+vaborbactam,176,38.0
+niceritrol,176,38.0
+amixetrine,176,38.0
+amitriptylinoxide,176,38.0
+amitriptyline,176,38.0
+aminoxytriphene,176,38.0
+motretinide,176,38.0
+moxastine,176,38.0
+aminoquinuride,176,38.0
+moxaverine,176,38.0
+aminopropylone,176,38.0
+aminopromazine,176,38.0
+amprotropine,176,38.0
+amsacrine,176,38.0
+aranidipine,176,38.0
+tybamate,176,38.0
+apronal,176,38.0
+aprindine,176,38.0
+nicofibrate,176,38.0
+troxacitabine,176,38.0
+apomorphine,176,38.0
+troxipide,176,38.0
+morclofone,176,38.0
+morinamide,176,38.0
+antazoline,176,38.0
+anileridine,176,38.0
+tymazoline,176,38.0
+amylocaine,176,38.0
+morinidazole,176,38.0
+ubenimex,176,38.0
+androstenedione,176,38.0
+androstenediol,176,38.0
+androstanolone,176,38.0
+nicofetamide,176,38.0
+ufenamate,176,38.0
+anagrelide,176,38.0
+umeclidinium,176,38.0
+nicoclonate,176,38.0
+thiamphenicol,176,38.0
+bunaftine,176,38.0
+cyclocoumarol,176,38.0
+chlorprothixene,176,38.0
+chlorpropamide,176,38.0
+chlorpromazine,176,38.0
+tacalcitol,176,38.0
+sulfaethidole,176,38.0
+chlorproethazine,176,38.0
+chlorphenoxamine,176,38.0
+sulfadoxine,176,38.0
+meticrane,176,38.0
+sulfadimidine,176,38.0
+sulfadimethoxine,176,38.0
+chlorphenamine,176,38.0
+sulfadicramide,176,38.0
+chlorozotocin,176,38.0
+sulfadiazine,176,38.0
+sulfadiasulfone,176,38.0
+chlorotrianisene,176,38.0
+sulfacytine,176,38.0
+sulfafurazole,176,38.0
+meticillin,176,38.0
+cevimeline,176,38.0
+chlortalidone,176,38.0
+sulfameter,176,38.0
+methylphenobarbital,176,38.0
+ciclonium,176,38.0
+ciclonicate,176,38.0
+methylphenidate,176,38.0
+sulfamerazine,176,38.0
+sumatriptan,176,38.0
+sulfaloxic acid,176,38.0
+sulfalene,176,38.0
+cibenzoline,176,38.0
+cianidanol,176,38.0
+nisoldipine,176,38.0
+choline fenofibrate,176,38.0
+cocaine,176,38.0
+suprofen,176,38.0
+suxibuzone,176,38.0
+metiazinic acid,176,38.0
+chlorothiazide,176,38.0
+sulfachrysoidine,176,38.0
+chloropyrilene,176,38.0
+sulfachlorpyridazine,176,38.0
+cyclofenil,176,38.0
+cycloguanil,176,38.0
+cyclopenthiazide,176,38.0
+metipranolol,176,38.0
+cyclopentobarbital,176,38.0
+cyclopentolate,176,38.0
+talipexole,176,38.0
+cyclothiazide,176,38.0
+cyclovalone,176,38.0
+cycrimine,176,38.0
+sulconazole,176,38.0
+sulcaine,176,38.0
+cyprodenate,176,38.0
+cyproheptadine,176,38.0
+chlorambucil,176,38.0
+metisazone,176,38.0
+sulbentine,176,38.0
+cyclodrine,176,38.0
+cyclobarbital,176,38.0
+chlorcyclizine,176,38.0
+cromoglicic acid,176,38.0
+coumetarol,176,38.0
+sulfacarbamide,176,38.0
+chloropyramine,176,38.0
+chloroprocaine,176,38.0
+sulfabenzamide,176,38.0
+croconazole,176,38.0
+chlormezanone,176,38.0
+metipamide,176,38.0
+chlordiazepoxide,176,38.0
+talastine,176,38.0
+talbutal,176,38.0
+cyclacillin,176,38.0
+cyclandelate,176,38.0
+cyclarbamate,176,38.0
+cyclizine,176,38.0
+chlorfenethazine,176,38.0
+ciclopirox,176,38.0
+cicloprolol,176,38.0
+ciclosidomine,176,38.0
+clanobutin,176,38.0
+clidinium,176,38.0
+clofibride,176,38.0
+clofoctol,176,38.0
+clidanac,176,38.0
+clevudine,176,38.0
+sulfathiazole,176,38.0
+clenbuterol,176,38.0
+nitrazepam,176,38.0
+cloforex,176,38.0
+clemastine,176,38.0
+clefamide,176,38.0
+sulfathiourea,176,38.0
+clomacran,176,38.0
+clometacin,176,38.0
+clometocillin,176,38.0
+nitisinone,176,38.0
+clomifene,176,38.0
+climbazole,176,38.0
+sulfasymazine,176,38.0
+sulfasomizole,176,38.0
+sulfapyridine,176,38.0
+clobenztropine,176,38.0
+sulfaperin,176,38.0
+sulfaphenazole,176,38.0
+clobutinol,176,38.0
+clobuzarit,176,38.0
+clobazam,176,38.0
+sulfamoxole,176,38.0
+clocinizine,176,38.0
+clofedanol,176,38.0
+clinofibrate,176,38.0
+sulfamonomethoxine,176,38.0
+methylprednisolone,176,38.0
+clodantoin,176,38.0
+clofarabine,176,38.0
+nitrendipine,176,38.0
+sulfamidochrysoidine,176,38.0
+sulfinpyrazone,176,38.0
+clomipramine,176,38.0
+sultosilic acid,176,38.0
+cladribine,176,38.0
+sulisobenzone,176,38.0
+clorotepine,176,38.0
+sulmarin,176,38.0
+nitazoxanide,176,38.0
+sulmazole,176,38.0
+cinacalcet,176,38.0
+suloctidil,176,38.0
+clostebol,176,38.0
+cimetidine,176,38.0
+sulpiride,176,38.0
+sultiame,176,38.0
+sultopride,176,38.0
+cilastatin,176,38.0
+clostebol acetate,176,38.0
+sulfamethizole,176,38.0
+clotiazepam,176,38.0
+clotrimazole,176,38.0
+sulfamethoxazole,176,38.0
+clorexolone,176,38.0
+clorazepate,176,38.0
+cioteronel,176,38.0
+sulfametrole,176,38.0
+sulfisomidine,176,38.0
+sulfisoxazole acetyl,176,38.0
+clonazepam,176,38.0
+ciramadol,176,38.0
+sulfametomidine,176,38.0
+methyltestosterone,176,38.0
+clopamide,176,38.0
+sulisatin,176,38.0
+sulfamethylthiazole,176,38.0
+cloperastine,176,38.0
+sulfamethoxypyridazine,176,38.0
+cinnarizine,176,38.0
+cinnamaverine,176,38.0
+cloranolol,176,38.0
+sulindac,176,38.0
+cytarabine,176,38.0
+clobenzorex,176,38.0
+sulbenicillin,176,38.0
+sotagliflozin,176,38.0
+spectinomycin,176,38.0
+sparteine,176,38.0
+metolazone,176,38.0
+spaglumic acid,176,38.0
+tenidap,176,38.0
+sotalol,176,38.0
+tenoxicam,176,38.0
+delmopinol,176,38.0
+methylclothiazide,176,38.0
+teprenone,176,38.0
+terbutaline,176,38.0
+terfenadine,176,38.0
+delorazepam,176,38.0
+sorivudine,176,38.0
+teriflunomide,176,38.0
+terizidone,176,38.0
+temocillin,176,38.0
+deferoxamine,176,38.0
+taurolidine,176,38.0
+teclozan,176,38.0
+metochalcone,176,38.0
+stepronin,176,38.0
+stavudine,176,38.0
+metoclopramide,176,38.0
+tazobactam,176,38.0
+stanozolol,176,38.0
+teclothiazide,176,38.0
+stallimycin,176,38.0
+temazepam,176,38.0
+tecovirimat,176,38.0
+metofoline,176,38.0
+tedisamil,176,38.0
+methyldopate,176,38.0
+telbivudine,176,38.0
+decimemide,176,38.0
+decitabine,176,38.0
+sorbinicate,176,38.0
+terodiline,176,38.0
+tertatolol,176,38.0
+simetride,176,38.0
+tetrazepam,176,38.0
+sobuzoxane,176,38.0
+desoxycortone,176,38.0
+desvenlafaxine,176,38.0
+tetroxoprim,176,38.0
+tetryzoline,176,38.0
+simfibrate,176,38.0
+sibutramine,176,38.0
+demegestone,176,38.0
+setiptiline,176,38.0
+tevenel,176,38.0
+thalidomide,176,38.0
+thenalidine,176,38.0
+nimodipine,176,38.0
+nimetazepam,176,38.0
+thialbarbital,176,38.0
+tetramethrin,176,38.0
+sodium gualenate,176,38.0
+sodium myristyl sulfate,176,38.0
+tetracaine,176,38.0
+testolactone,176,38.0
+testosterone,176,38.0
+denaverine,176,38.0
+denopamine,176,38.0
+solifenacin,176,38.0
+nimustine,176,38.0
+testosterone propionate,176,38.0
+solasulfone,176,38.0
+metoprolol,176,38.0
+tetrabarbital,176,38.0
+deptropine,176,38.0
+desalkylflurazepam,176,38.0
+tetrabenazine,176,38.0
+sodium tetradecyl sulfate,176,38.0
+desipramine,176,38.0
+taurosteine,176,38.0
+deferasirox,176,38.0
+daprodustat,176,38.0
+cetraxate,176,38.0
+cetilistat,176,38.0
+tandospirone,176,38.0
+tartrazine,176,38.0
+subathizone,176,38.0
+dantrolene,176,38.0
+cetoxime,176,38.0
+suclofenide,176,38.0
+tamsulosin,176,38.0
+tamoxifen,176,38.0
+tapentadol,176,38.0
+metixene,176,38.0
+sucrose,176,38.0
+dapoxetine,176,38.0
+cetamolol,176,38.0
+sulbactam pivoxyl,176,38.0
+succisulfone,176,38.0
+cyverine,176,38.0
+methylestrenolone,176,38.0
+cenobamate,176,38.0
+cetirizine,176,38.0
+streptozocin,176,38.0
+celecoxib,176,38.0
+cytisine,176,38.0
+tamibarotene,176,38.0
+metizoline,176,38.0
+neticonazole,174,39.0
+nicametate,174,39.0
+cyclobenzaprine,174,39.0
+desloratadine,174,39.0
+oxantel,174,39.0
+clopirac,174,39.0
+diazoxide,174,39.0
+oxaprozin,174,39.0
+vildagliptin,174,39.0
+clonixin,174,39.0
+cyclophosphamide,174,39.0
+zidovudine,174,39.0
+succinylsulfathiazole,174,39.0
+phenamacide,174,39.0
+phenindione,174,39.0
+ibuproxam,174,39.0
+zimeldine,174,39.0
+zanamivir,174,39.0
+ibudilast,174,39.0
+zileuton,174,39.0
+peramivir,174,39.0
+sulbactam,174,39.0
+osalmid,174,39.0
+EIDD-1931,174,39.0
+ozagrel,174,39.0
+azidocillin,174,39.0
+amanozine,174,39.0
+ambazone,174,39.0
+kainic acid,174,39.0
+azathioprine,174,39.0
+naphazoline,174,39.0
+dexbrompheniramine,174,39.0
+loretin,174,39.0
+azapetine,174,39.0
+velnacrine,174,39.0
+naproxen,174,39.0
+dexmedetomidine,174,39.0
+osilodrostat,174,39.0
+isoxepac,174,39.0
+amfetaminil,174,39.0
+dexpanthenol,174,39.0
+panipenem,174,39.0
+phenazopyridine,174,39.0
+ripasudil,174,39.0
+loperamide oxide,174,39.0
+abacavir,174,39.0
+amifostine,174,39.0
+kinetin,174,39.0
+sivelestat,174,39.0
+mecloqualone,174,39.0
+lofexidine,174,39.0
+amiloxate,174,39.0
+cycloxilic acid,174,39.0
+papaveroline,174,39.0
+vadadustat,174,39.0
+malathion,174,39.0
+dithranol,174,39.0
+dioxybenzone,174,39.0
+dioxyline,174,39.0
+ketamine,174,39.0
+perfosfamide,174,39.0
+apraclonidine,174,39.0
+salicylanilide,174,39.0
+sulfaguanole,174,39.0
+agomelatine,174,39.0
+unoprostone isopropyl,174,39.0
+nedocromil,174,39.0
+diphenan,174,39.0
+cridanimod,174,39.0
+alibendol,174,39.0
+niclosamide,174,39.0
+diethylstilbestrol,174,39.0
+vinbarbital,174,39.0
+sulfaguanidine,174,39.0
+coumarin,174,39.0
+anisindione,174,39.0
+albutoin,174,39.0
+aniracetam,174,39.0
+nabumetone,174,39.0
+oxyfenamate,174,39.0
+oxybenzone,174,39.0
+diflunisal,174,39.0
+oxycinchophen,174,39.0
+difenoxin,174,39.0
+anethole trithione,174,39.0
+salsalate,174,39.0
+pemirolast,174,39.0
+mebendazole,174,39.0
+acetylpheneturide,174,39.0
+paricalcitol,174,39.0
+trofosfamide,174,39.0
+ifosfamide,174,39.0
+levomoprolol,174,39.0
+levomilnacipran,174,39.0
+demexiptiline,174,39.0
+isocarboxazid,174,39.0
+cloridarol,174,39.0
+isoaminile,174,39.0
+clorindione,174,39.0
+amisulpride,174,39.0
+imipenem,174,39.0
+irsogladine,174,39.0
+lamotrigine,174,39.0
+amlexanox,174,39.0
+mycophenolic acid,174,39.0
+dichlorophen,174,39.0
+imiquimod,174,39.0
+dichlorophenarsine,174,39.0
+imolamine,174,39.0
+dantron,174,39.0
+acyclovir,174,39.0
+doconexent,174,39.0
+ronifibrate,174,39.0
+xenbucin,174,39.0
+ipriflavone,174,39.0
+cyamemazine,174,39.0
+indanazoline,174,39.0
+octocrylene,174,39.0
+nadoxolol,174,39.0
+cefadroxil,174,39.0
+drometrizole,174,39.0
+hydrocortisone,174,39.0
+chlornaphazine,174,39.0
+chlormidazole,174,39.0
+furonazide,174,39.0
+tenofovir,174,39.0
+calcium pantothenate,174,39.0
+ethotoin,174,39.0
+tipiracil,174,39.0
+prenoxdiazine,174,39.0
+pyrantel,174,39.0
+brimonidine,174,39.0
+telmesteine,174,39.0
+miltefosine,174,39.0
+brivaracetam,174,39.0
+ergocalciferol,174,39.0
+fotemustine,174,39.0
+proxyphylline,174,39.0
+proxibarbal,174,39.0
+flortaucipir F 18,174,39.0
+fenyramidol,174,39.0
+prilocaine,174,39.0
+choline alfoscerate,174,39.0
+fenticlor,174,39.0
+mitotane,174,39.0
+pinacidil,174,39.0
+pindolol,174,39.0
+epicillin,174,39.0
+gentisic acid,174,39.0
+pyrimethamine,174,39.0
+tofacitinib,174,39.0
+todralazine,174,39.0
+pipemidic acid,174,39.0
+tacrine,174,39.0
+bithionol,174,39.0
+carbamazepine,174,39.0
+tocofersolan,174,39.0
+fenoprofen,174,39.0
+tiamiprine,174,39.0
+ethyl loflazepate,174,39.0
+gabexate,174,39.0
+fospropofol,174,39.0
+bromfenac,174,39.0
+flosequinan,174,39.0
+bromindione,174,39.0
+norfloxacin,174,39.0
+chloralose,174,39.0
+etafedrine,174,39.0
+bufexamac,174,39.0
+taribavirin,174,39.0
+tinidazole,174,39.0
+tinazoline,174,39.0
+protheobromine,174,39.0
+flurbiprofen,174,39.0
+pivhydrazine,174,39.0
+fluprednisolone,174,39.0
+flupirtine,174,39.0
+propyphenazone,174,39.0
+flunoxaprofen,174,39.0
+bunitrolol,174,39.0
+menadoxime,174,39.0
+bupropion,174,39.0
+esketamine,174,39.0
+esflurbiprofen,174,39.0
+chloramphenicol,174,39.0
+pirisudanol,174,39.0
+nifenazone,174,39.0
+bromochlorosalicylanilide,174,39.0
+tiopronin,174,39.0
+protriptyline,174,39.0
+chlorbetamide,174,39.0
+brompheniramine,174,39.0
+ethacridine,174,39.0
+brotizolam,174,39.0
+escitalopram,174,39.0
+piritramide,174,39.0
+chlorazanil,174,39.0
+broxuridine,174,39.0
+butibufen,174,39.0
+celiprolol,174,39.0
+protiofate,174,39.0
+fluindione,174,39.0
+fenclofenac,174,39.0
+menbutone,174,39.0
+nifurtoinol,174,39.0
+febuprol,174,39.0
+exalamide,174,39.0
+guacetisal,174,39.0
+triamterene,174,39.0
+benzylthiouracil,174,39.0
+cinchophen,174,39.0
+cinepazide,174,39.0
+benzyl nicotinate,174,39.0
+befunolol,174,39.0
+benzyl benzoate,174,39.0
+tetragalacturonic acid hydroxymethylester,174,39.0
+carpipramine,174,39.0
+thiotepa,174,39.0
+triclocarban,174,39.0
+febuxostat,174,39.0
+thioacetazone,174,39.0
+felbinac,174,39.0
+bendazol,174,39.0
+benzoin,174,39.0
+meprednisone,174,39.0
+heptobarbital,174,39.0
+efavirenz,174,39.0
+thioctic acid,174,39.0
+nikethamide,174,39.0
+pronetalol,174,39.0
+fadrozole,174,39.0
+phenyl acetylsalicylate,174,39.0
+benzethonium,174,39.0
+nimorazole,174,39.0
+citalopram,174,39.0
+benzarone,174,39.0
+felbamate,174,39.0
+molsidomine,174,39.0
+etofamide,174,39.0
+phenmetrazine,174,39.0
+trilostane,174,39.0
+fenbufen,174,39.0
+clobenzepam,174,39.0
+fenamisal,174,39.0
+glucose-1-phosphate,174,39.0
+toliprolol,174,39.0
+mefloquine,174,39.0
+cicletanine,174,39.0
+bevantolol,174,39.0
+mexenone,174,39.0
+medetomidine,174,39.0
+famciclovir,174,39.0
+homonicotinic acid,174,39.0
+cidofovir,174,39.0
+meprotixol,174,39.0
+enalaprilat,174,39.0
+enallylpropymal,174,39.0
+balsalazide,174,39.0
+nilvadipine,174,39.0
+procarbazine,174,39.0
+cefacetrile,172,40.0
+meobentine,172,40.0
+carprofen,172,40.0
+stiripentol,172,40.0
+saxagliptin,172,40.0
+fludeoxyglucose (18F),172,40.0
+butamben,172,40.0
+dexibuprofen,172,40.0
+alfacalcidol,172,40.0
+allobarbital,172,40.0
+butacetin,172,40.0
+caroxazone,172,40.0
+etamivan,172,40.0
+polydatin,172,40.0
+5-aminolevulinic acid hexyl ester,172,40.0
+flumetasone,172,40.0
+proflavine,172,40.0
+salicylsulfuric acid,172,40.0
+dapiprazole,172,40.0
+etallobarbital,172,40.0
+dapagliflozin,172,40.0
+carbimazole,172,40.0
+butobarbital,172,40.0
+zonisamide,172,40.0
+migalastat,172,40.0
+tiamenidine,172,40.0
+capecitabine,172,40.0
+fenozolone,172,40.0
+zeranol,172,40.0
+acitazanolast,172,40.0
+etodroxizine,172,40.0
+narcobarbital,172,40.0
+alminoprofen,172,40.0
+propallylonal,172,40.0
+solriamfetol,172,40.0
+scopolamine butylbromide,172,40.0
+sofalcone,172,40.0
+levosimendan,172,40.0
+oxazolam,172,40.0
+propanidid,172,40.0
+thurfyl nicotinate,172,40.0
+carbidopa,172,40.0
+luseogliflozin,172,40.0
+aceglatone,172,40.0
+tenonitrozole,172,40.0
+adenosine phosphate,172,40.0
+mephenesin carbamate,172,40.0
+dexamethasone,172,40.0
+deutetrabenazine,172,40.0
+famotidine,172,40.0
+luliconazole,172,40.0
+butoctamide,172,40.0
+desoximetasone,172,40.0
+sobrerol,172,40.0
+zaleplon,172,40.0
+mephenoxalone,172,40.0
+cefradine,172,40.0
+lodoxamide,172,40.0
+letrozole,172,40.0
+tegafur,172,40.0
+acamprosate,172,40.0
+prenalterol,172,40.0
+etofylline,172,40.0
+milnacipran,172,40.0
+dienogest,172,40.0
+nipradilol,172,40.0
+protionamide,172,40.0
+buramate,172,40.0
+meclofenoxate,172,40.0
+benzydamine,172,40.0
+clorprenaline,172,40.0
+gossypol,172,40.0
+betacarotene,172,40.0
+betamethasone,172,40.0
+cicrotoic acid,172,40.0
+betanidine,172,40.0
+glycerylphosphorylcholine,172,40.0
+tolonidine,172,40.0
+aprobarbital,172,40.0
+glucose,172,40.0
+glucosamine,172,40.0
+tolazoline,172,40.0
+meglumine,172,40.0
+pildralazine,172,40.0
+gimeracil,172,40.0
+perampanel,172,40.0
+mecamylamine,172,40.0
+ancitabine,172,40.0
+anastrozole,172,40.0
+iodol,172,40.0
+cetrimonium,172,40.0
+cotinine,172,40.0
+pyridoxal phosphate,172,40.0
+tocainide,172,40.0
+benzpiperylone,172,40.0
+mefenorex,172,40.0
+pentazocine,172,40.0
+guanadrel,172,40.0
+pheneturide,172,40.0
+triflusal,172,40.0
+ribostamycin,172,40.0
+rimexolone,172,40.0
+bamethan,172,40.0
+monobenzone,172,40.0
+phenazone,172,40.0
+rhodoquine,172,40.0
+nitracrine,172,40.0
+benoxaprofen,172,40.0
+benserazide,172,40.0
+moprolol,172,40.0
+phensuximide,172,40.0
+ibufenac,172,40.0
+ibuprofen,172,40.0
+clonidine,172,40.0
+nicotine,172,40.0
+phenyl salicylate,172,40.0
+iclaprim,172,40.0
+benznidazole,172,40.0
+cinoxacin,172,40.0
+idanpramine,172,40.0
+clopidogrel,172,40.0
+phenylbutanoic acid,172,40.0
+cinolazepam,172,40.0
+boceprevir,172,40.0
+bekanamycin,172,40.0
+isoetarine,172,40.0
+crisaborole,172,40.0
+chenodiol,172,40.0
+brinzolamide,172,40.0
+fudosteine,172,40.0
+chloralodol,172,40.0
+paraoxon,172,40.0
+roxadustat,172,40.0
+amisometradine,172,40.0
+amiphenazole,172,40.0
+isobromindione,172,40.0
+cypermethrin,172,40.0
+iproclozide,172,40.0
+pirfenidone,172,40.0
+sulbutiamine,172,40.0
+cyclomethycaine,172,40.0
+aminometradine,172,40.0
+minoxidil,172,40.0
+octamylamine,172,40.0
+aminoacridine,172,40.0
+formebolone,172,40.0
+metirosine,172,40.0
+riluzole,172,40.0
+altropane,172,40.0
+amocarzine,172,40.0
+labetalol,172,40.0
+galactose,172,40.0
+timepidium,172,40.0
+uracil mustard,172,40.0
+tafamidis,172,40.0
+rotigotine,172,40.0
+amphenidone,172,40.0
+bortezomib,172,40.0
+cropropamide,172,40.0
+dilevalol,172,40.0
+crotamiton,172,40.0
+pleconaril,172,40.0
+crotetamide,172,40.0
+ursodiol,172,40.0
+bucetin,172,40.0
+methocarbamol,170,41.0
+nitrofurantoin,170,41.0
+omoconazole,170,41.0
+minodronic acid,170,41.0
+nicorandil,170,41.0
+nalidixic acid,170,41.0
+methoxamine,170,41.0
+monoctanoin,170,41.0
+menadione,170,41.0
+mexiletine,170,41.0
+metronidazole,170,41.0
+melatonin,170,41.0
+nifuradene,170,41.0
+methyldopa,170,41.0
+nifurpirinol,170,41.0
+nifurprazine,170,41.0
+nidroxyzone,170,41.0
+methoxyphenamine,170,41.0
+niridazole,170,41.0
+methylchromone,170,41.0
+naftazone,170,41.0
+nifenalol,170,41.0
+melevodopa,170,41.0
+methyprylon,170,41.0
+mecloralurea,170,41.0
+methylthiouracil,170,41.0
+miloxacin,170,41.0
+nifuroxazide,170,41.0
+metesculetol,170,41.0
+naftidrofuryl,170,41.0
+orciprenaline,170,41.0
+mephenesin,170,41.0
+mimosine,170,41.0
+mesalazine,170,41.0
+mercaptopurine,170,41.0
+ipidacrine,170,41.0
+ornidazole,170,41.0
+diosmetin,170,41.0
+benzalamide,170,41.0
+elcometrine,170,41.0
+eflornithine,170,41.0
+bergapten,170,41.0
+droxidopa,170,41.0
+rimantadine,170,41.0
+betahistine,170,41.0
+topiroxostat,170,41.0
+dixyrazine,170,41.0
+dipyrocetyl,170,41.0
+diphenoxylate,170,41.0
+dioxethedrin,170,41.0
+dimyristoylphosphatidylglycerol,170,41.0
+ramosetron,170,41.0
+dimetofrine,170,41.0
+orotic acid,170,41.0
+dimethisterone,170,41.0
+dimecrotic acid,170,41.0
+betamipron,170,41.0
+ruxolitinib,170,41.0
+betazole,170,41.0
+tolcapone,170,41.0
+salamidacetic acid,170,41.0
+biphenylol,170,41.0
+dihydralazine,170,41.0
+bisorcic,170,41.0
+triclosan,170,41.0
+racepinefrine,170,41.0
+evans blue,170,41.0
+propylhexedrine,170,41.0
+etryptamine,170,41.0
+pronilide,170,41.0
+trioxsalen,170,41.0
+etilevodopa,170,41.0
+carbocloral,170,41.0
+etilamfetamine,170,41.0
+ethylnorepinephrine,170,41.0
+propenidazole,170,41.0
+propentofylline,170,41.0
+ethchlorvynol,170,41.0
+ethacrynic acid,170,41.0
+trimetrexate,170,41.0
+propylparaben,170,41.0
+beclamide,170,41.0
+propylthiouracil,170,41.0
+azanidazole,170,41.0
+baclofen,170,41.0
+pyridoxal,170,41.0
+pyridoxine,170,41.0
+epinephrine,170,41.0
+pyrithione,170,41.0
+pyrithyldione,170,41.0
+pyrrolnitrin,170,41.0
+enprofylline,170,41.0
+enoxacin,170,41.0
+quinfamide,170,41.0
+secnidazole,170,41.0
+borofalan (10B),170,41.0
+brallobarbital,170,41.0
+theobromine,170,41.0
+talinolol,170,41.0
+butorphanol,170,41.0
+butylphthalide,170,41.0
+cerulenin,170,41.0
+tasimelteon,170,41.0
+tavaborole,170,41.0
+tidiacic,170,41.0
+ceftibuten,170,41.0
+temozolomide,170,41.0
+caffeine,170,41.0
+ticlatone,170,41.0
+tetrofosmin,170,41.0
+theophylline,170,41.0
+tisopurine,170,41.0
+thiabendazole,170,41.0
+calcitriol,170,41.0
+carsalam,170,41.0
+carpronium,170,41.0
+caroverine,170,41.0
+carmustine,170,41.0
+carisbamate,170,41.0
+cariprazine,170,41.0
+thioguanine,170,41.0
+carglumic acid,170,41.0
+capsaicin,170,41.0
+carbaryl,170,41.0
+tiliquinol,170,41.0
+chloroxine,170,41.0
+chlorphenesin carbamate,170,41.0
+chlorquinaldol,170,41.0
+tioxolone,170,41.0
+sparfloxacin,170,41.0
+bromazepam,170,41.0
+bromebric acid,170,41.0
+bromisoval,170,41.0
+decamethonium,170,41.0
+bropirimine,170,41.0
+styramate,170,41.0
+dacisteine,170,41.0
+dacarbazine,170,41.0
+cyclopentamine,170,41.0
+cyclobutyrol,170,41.0
+cloxiquine,170,41.0
+cloxazolam,170,41.0
+sulfarside,170,41.0
+buclosamide,170,41.0
+clemizole,170,41.0
+clavulanic acid,170,41.0
+citrulline,170,41.0
+sulforidazine,170,41.0
+ciprofibrate,170,41.0
+cinametic acid,170,41.0
+ciclobendazole,170,41.0
+chromocarb,170,41.0
+chlorthenoxazine,170,41.0
+eugenol,170,41.0
+etilefrine,170,41.0
+trospectomycin,170,41.0
+allopurinol,170,41.0
+adrenalone,170,41.0
+alanyl glutamine,170,41.0
+isradipine,170,41.0
+isosorbide mononitrate,170,41.0
+vonoprazan,170,41.0
+isoprenaline,170,41.0
+isometheptene,170,41.0
+isaxonine,170,41.0
+alclofenac,170,41.0
+iproniazid,170,41.0
+iproheptine,170,41.0
+pemoline,170,41.0
+pentetrazol,170,41.0
+adenine,170,41.0
+iodothiouracil,170,41.0
+vigabatrin,170,41.0
+indomethacin,170,41.0
+perospirone,170,41.0
+phanquinone,170,41.0
+iguratimod,170,41.0
+procodazole,170,41.0
+phenacetin,170,41.0
+phenamine,170,41.0
+hymecromone,170,41.0
+veralipride,170,41.0
+hydralazine,170,41.0
+ketazolam,170,41.0
+khellin,170,41.0
+homarylamine,170,41.0
+abametapir,170,41.0
+orthocaine,170,41.0
+lorcaserin,170,41.0
+oteracil,170,41.0
+oxaceprol,170,41.0
+zucapsaicin,170,41.0
+oxacillin,170,41.0
+Florbetapir F-18,170,41.0
+N-Acetyltyrosine,170,41.0
+zoxazolamine,170,41.0
+oxedrine,170,41.0
+lidamidine,170,41.0
+levorphanol,170,41.0
+levornidazole,170,41.0
+oxyquinoline,170,41.0
+levodopa,170,41.0
+oxilofrine,170,41.0
+acefylline,170,41.0
+levisoprenaline,170,41.0
+oxitriptan,170,41.0
+oxolinic acid,170,41.0
+lesinurad,170,41.0
+acetylcarnitine,170,41.0
+acetylleucine,170,41.0
+acexamic acid,170,41.0
+acipimox,170,41.0
+actarit,170,41.0
+hydracarbazine,170,41.0
+idrocilamide,170,41.0
+histidine,170,41.0
+furazidin,170,41.0
+fructose,170,41.0
+pirenoxine,170,41.0
+histamine,170,41.0
+fosfosal,170,41.0
+flutazolam,170,41.0
+aminorex,170,41.0
+pivagabine,170,41.0
+pizotifen,170,41.0
+aminosalicylic acid,170,41.0
+fluorouracil,170,41.0
+aminosalicylic acid hydrazide,170,41.0
+fluorometholone,170,41.0
+fluoroethylcholine (18F),170,41.0
+fluorodopa (18F),170,41.0
+amrinone,170,41.0
+flucytosine,170,41.0
+amtolmetin guacil,170,41.0
+florantyrone,170,41.0
+flopropione,170,41.0
+undecylenic acid,170,41.0
+tyrosine,170,41.0
+tryptophan,170,41.0
+fenadiazole,170,41.0
+prochlorperazine,170,41.0
+favipiravir,170,41.0
+furalazine,170,41.0
+thiouracil,170,41.0
+furazolidone,170,41.0
+aminohippuric acid,170,41.0
+hexylresorcinol,170,41.0
+phenprobamate,170,41.0
+phenylephrine,170,41.0
+guanacline,170,41.0
+glycol salicylate,170,41.0
+glucuronamide,170,41.0
+glucurolactone,170,41.0
+gluconic acid,170,41.0
+picilorex,170,41.0
+aminitrozole,170,41.0
+amfecloral,170,41.0
+fytic acid,170,41.0
+galantamine,170,41.0
+visnadine,168,42.0
+viquidil,168,42.0
+troglitazone,168,42.0
+trospium,168,42.0
+neridronic acid,168,42.0
+trypan blue,168,42.0
+valethamate,168,42.0
+tricyclamol chloride,168,42.0
+ubidecarenone,168,42.0
+voxelotor,168,42.0
+nifuroxime,168,42.0
+tiaramide,168,42.0
+valaciclovir,168,42.0
+tiludronic acid,168,42.0
+tiracizine,168,42.0
+vernakalant,168,42.0
+zoledronic acid,168,42.0
+tibolone,168,42.0
+triamcinolone,168,42.0
+tridihexethyl,168,42.0
+trifarotene,168,42.0
+tinoridine,168,42.0
+trifluperidol,168,42.0
+tiemonium,168,42.0
+trifluoperazine,168,42.0
+trelagliptin,168,42.0
+vinburnine,168,42.0
+tioclomarol,168,42.0
+niaprazine,168,42.0
+xantinol,168,42.0
+roxatidine acetate,168,42.0
+thiothixene,168,42.0
+pitofenone,168,42.0
+perphenazine,168,42.0
+phenazocine,168,42.0
+pheniodol sodium,168,42.0
+phentetramine,168,42.0
+piflufolastat F-18,168,42.0
+piminodine,168,42.0
+pipamazine,168,42.0
+pipenzolate,168,42.0
+pirenzepine,168,42.0
+podophyllotoxin,168,42.0
+pentapiperium metilsulfate,168,42.0
+poldine,168,42.0
+potassium canrenoate,168,42.0
+pravastatin,168,42.0
+prednisone,168,42.0
+prednylidene,168,42.0
+pregnenolone succinate,168,42.0
+norethynodrel,168,42.0
+prifinium,168,42.0
+norethisterone,168,42.0
+pentostatin,168,42.0
+penmesterol,168,42.0
+promestriene,168,42.0
+oxypendyl,168,42.0
+omeprazole,168,42.0
+olprinone,168,42.0
+oxametacin,168,42.0
+olopatadine,168,42.0
+oftasceine,168,42.0
+oxetorone,168,42.0
+oxiniacic acid,168,42.0
+oxycodone,168,42.0
+oxymorphone,168,42.0
+oxypertine,168,42.0
+pefloxacin,168,42.0
+oxyphenonium,168,42.0
+oxysonium,168,42.0
+octatropine methylbromide,168,42.0
+ozenoxacin,168,42.0
+pamabrom,168,42.0
+pamaquine,168,42.0
+pantoprazole,168,42.0
+parapenzolate,168,42.0
+paroxetine,168,42.0
+norethindrone acetate,168,42.0
+propantheline,168,42.0
+thioridazine,168,42.0
+tafluprost,168,42.0
+sozoiodolic acid,168,42.0
+spiperone,168,42.0
+spironolactone,168,42.0
+spizofurone,168,42.0
+nitrofurazone,168,42.0
+sufentanil,168,42.0
+sulfasalazine,168,42.0
+sulfinalol,168,42.0
+suplatast,168,42.0
+talniflumate,168,42.0
+sitaxentan,168,42.0
+taltirelin,168,42.0
+tazanolast,168,42.0
+niraparib,168,42.0
+testosterone cypionate,168,42.0
+testosterone enantate,168,42.0
+testosterone undecanoate,168,42.0
+thiamine,168,42.0
+thiazinam,168,42.0
+thiethylperazine,168,42.0
+sitosterol,168,42.0
+simvastatin,168,42.0
+propizepine,168,42.0
+rebamipide,168,42.0
+norelgestromin,168,42.0
+propyromazine,168,42.0
+protokylol,168,42.0
+quercetin,168,42.0
+quinagolide,168,42.0
+quinbolone,168,42.0
+quinidine,168,42.0
+quinine,168,42.0
+ranitidine,168,42.0
+revaprazan,168,42.0
+selexipag,168,42.0
+nomegestrol acetate,168,42.0
+riboflavin,168,42.0
+risedronic acid,168,42.0
+rolapitant,168,42.0
+rucaparib,168,42.0
+nizatidine,168,42.0
+nitroxoline,168,42.0
+salazosulfadimidine,168,42.0
+secalciferol,168,42.0
+nandrolone cyclotate,168,42.0
+(2-benzhydryloxyethyl)diethyl-methylammonium iodide,168,42.0
+dehydrocholic acid,168,42.0
+guanoxabenz,168,42.0
+benzalkonium,168,42.0
+benexate,168,42.0
+bendamustine,168,42.0
+ethisterone,168,42.0
+bemotrizinol,168,42.0
+levallorphan,168,42.0
+levamlodipine,168,42.0
+levobetaxolol,168,42.0
+ethylhydrocupreine,168,42.0
+fosfestrol,168,42.0
+fosdenopterin,168,42.0
+delapril,168,42.0
+levonorgestrel,168,42.0
+lidoflazine,168,42.0
+clioquinol,168,42.0
+latanoprost,168,42.0
+decamethoxine,168,42.0
+enarodustat,168,42.0
+lasmiditan,168,42.0
+cefprozil,168,42.0
+bepotastine,168,42.0
+bephenium,168,42.0
+cefroxadine,168,42.0
+benzthiazide,168,42.0
+ketotifen,168,42.0
+benzquinamide,168,42.0
+benzoxonium chloride,168,42.0
+debrisoquine,168,42.0
+emepronium,168,42.0
+benzomethamine,168,42.0
+lansoprazole,168,42.0
+emedastine,168,42.0
+lapyrium chloride,168,42.0
+benzilonium,168,42.0
+clindamycin phosphate,168,42.0
+lincomycin,168,42.0
+guaiazulen,168,42.0
+eletriptan,168,42.0
+lovastatin,168,42.0
+fluspirilene,168,42.0
+loxapine,168,42.0
+artisone acetate,168,42.0
+clindamycin,168,42.0
+lubiprostone,168,42.0
+lucanthone,168,42.0
+efloxate,168,42.0
+desonide,168,42.0
+arformoterol,168,42.0
+efinaconazole,168,42.0
+clinafloxacin,168,42.0
+desoxycorticosterone acetate,168,42.0
+apremilast,168,42.0
+etizolam,168,42.0
+cholic acid,168,42.0
+fleroxacin,168,42.0
+desaspidin,168,42.0
+lofepramine,168,42.0
+delmadinone acetate,168,42.0
+lisinopril,168,42.0
+lisuride,168,42.0
+aztreonam,168,42.0
+formoterol,168,42.0
+azlocillin,168,42.0
+lomefloxacin,168,42.0
+lornoxicam,168,42.0
+demecolcine,168,42.0
+cefathiamidine,168,42.0
+deoxycholic acid,168,42.0
+loracarbef,168,42.0
+flutropium,168,42.0
+gestodene,168,42.0
+enalapril,168,42.0
+fexofenadine,168,42.0
+eburnamonine,168,42.0
+cloprednol,168,42.0
+esomeprazole,168,42.0
+iloprost,168,42.0
+calcipotriene,168,42.0
+calcifediol,168,42.0
+gemeprost,168,42.0
+imidapril,168,42.0
+indacaterol,168,42.0
+clotiapine,168,42.0
+indisetron,168,42.0
+cloxacillin,168,42.0
+indoramin,168,42.0
+cloxotestosterone,168,42.0
+buzepide metiodide,168,42.0
+clozapine,168,42.0
+cefaclor,168,42.0
+estradiol acetate,168,42.0
+canrenone,168,42.0
+fenticonazole,168,42.0
+estradiol enanthate,168,42.0
+clobetasol propionate,168,42.0
+hycanthone,168,42.0
+hydrocodone,168,42.0
+estrone sulphate,168,42.0
+gentian violet,168,42.0
+carfimate,168,42.0
+cinchocaine,168,42.0
+estradiol valerate,168,42.0
+carfecillin,168,42.0
+hydroquinidine,168,42.0
+hydroquinine,168,42.0
+hydroxychloroquine,168,42.0
+hydroxyethylpromethazine,168,42.0
+carbocromen,168,42.0
+ibandronic acid,168,42.0
+haloxazolam,168,42.0
+bufeniode,168,42.0
+iodocholesterol (131I),168,42.0
+iodohippurate sodium I125,168,42.0
+haletazole,168,42.0
+bibenzonium,168,42.0
+biapenem,168,42.0
+bevonium,168,42.0
+betoxycaine,168,42.0
+betaxolol,168,42.0
+ipragliflozin,168,42.0
+ipratropium,168,42.0
+furamicid,168,42.0
+furaltadone,168,42.0
+irofulven,168,42.0
+encainide,168,42.0
+isopropamide,168,42.0
+floxacillin,168,42.0
+istradefylline,168,42.0
+fursultiamine,168,42.0
+fenpiverinium,168,42.0
+fenoxedil,168,42.0
+halometasone,168,42.0
+iodohippurate sodium I131,168,42.0
+colecalciferol,168,42.0
+cefaloglycin,168,42.0
+brilliant green,168,42.0
+iomazenil (123I),168,42.0
+ergometrine,168,42.0
+cyfluthrin,168,42.0
+bisbentiamine,168,42.0
+epimestrol,168,42.0
+cynarine,168,42.0
+bopindolol,168,42.0
+bolandiol dipropionate,168,42.0
+cyproterone acetate,168,42.0
+enzalutamide,168,42.0
+echothiophate,168,42.0
+finasteride,168,42.0
+hexocyclium,168,42.0
+mezlocillin,168,42.0
+metopimazine,168,42.0
+dextromethorphan,168,42.0
+chloramphenicol succinate,168,42.0
+metralindole,168,42.0
+alpelisib,168,42.0
+famprofazone,168,42.0
+alosetron,168,42.0
+cefetamet,168,42.0
+doripenem,168,42.0
+almitrine,168,42.0
+micronomicin,168,42.0
+acebutolol,168,42.0
+cerivastatin,168,42.0
+cetalkonium chloride,168,42.0
+alpidem,168,42.0
+flunisolide,168,42.0
+alpiropride,168,42.0
+chloramphenicol palmitate,168,42.0
+chloroprednisone,168,42.0
+glipizide,168,42.0
+methylprednisolone acetate,168,42.0
+faropenem medoxil,168,42.0
+dronabinol,168,42.0
+methylhomatropine,168,42.0
+glisentide,168,42.0
+dihydrocodeine,168,42.0
+methylatropine,168,42.0
+methoxsalen,168,42.0
+ambutonium,168,42.0
+glisolamide,168,42.0
+methanthelinium,168,42.0
+donepezil,168,42.0
+flumedroxone acetate,168,42.0
+alfentanil,168,42.0
+cetiedil,168,42.0
+fludarabine phosphate,168,42.0
+mozavaptan,168,42.0
+cinmetacin,168,42.0
+diphemanil,168,42.0
+diflucortolone,168,42.0
+fludroxycortide,168,42.0
+evocalcet,168,42.0
+docarpamine,168,42.0
+aclidinium bromide,168,42.0
+cetylpyridinium,168,42.0
+evogliptin,168,42.0
+acrivastine,168,42.0
+adapalene,168,42.0
+cetotiamine,168,42.0
+adinazolam,168,42.0
+ciprofloxacin,168,42.0
+cethexonium,168,42.0
+morniflumate,168,42.0
+ajmaline,168,42.0
+alacepril,168,42.0
+dodeclonium bromide,168,42.0
+acenocoumarol,168,42.0
+alcaftadine,168,42.0
+flumazenil,168,42.0
+domiphen,168,42.0
+aldosterone,168,42.0
+mitopodozide,168,42.0
+cinromide,168,42.0
+dicloxacillin,168,42.0
+alfadolone acetate,168,42.0
+dexlansoprazole,168,42.0
+methylthioninium chloride,168,42.0
+chlorbenzoxamine,168,42.0
+mepiperphenidol,168,42.0
+androisoxazole,168,42.0
+lysergide,168,42.0
+ceftizoxime,168,42.0
+fluacizine,168,42.0
+mepixanox,168,42.0
+chlorzoxazone,168,42.0
+mepenzolate,168,42.0
+drotebanol,168,42.0
+diltiazem,168,42.0
+menadiol sodium diphosphate,168,42.0
+amlodipine,168,42.0
+nafcillin,168,42.0
+lynestrenol,168,42.0
+memantine,168,42.0
+cinepazet,168,42.0
+clebopride,168,42.0
+clevidipine,168,42.0
+fluclorolone,168,42.0
+fluphenazine,168,42.0
+flubendazole,168,42.0
+glycopyrronium bromide,168,42.0
+cefdinir,168,42.0
+megestrol acetate,168,42.0
+chloroquine,168,42.0
+fabomotizole,168,42.0
+mesoridazine,168,42.0
+meropenem,168,42.0
+medroxyprogesterone,168,42.0
+anagestone acetate,168,42.0
+tenofovir disoproxil,166,43.0
+gemigliptin,166,43.0
+loxiglumide,166,43.0
+iopydol,166,43.0
+hexapropymate,166,43.0
+bismuth subsalicylate,166,43.0
+maxacalcitol,166,43.0
+entacapone,166,43.0
+mebeverine,166,43.0
+pazufloxacin,166,43.0
+fenproporex,166,43.0
+desogestrel,166,43.0
+arginine hydrochloride,166,43.0
+halofantrine,166,43.0
+Rilpivirine,166,43.0
+dipyrithione,166,43.0
+zuclopenthixol,166,43.0
+ethinamate,166,43.0
+iobenguane (123I),166,43.0
+iobenguane (131I),166,43.0
+lutein,166,43.0
+cinalukast,166,43.0
+apatinib,166,43.0
+diiodohydroxyquinoline,166,43.0
+terazosin,166,43.0
+acetophenazine,166,43.0
+morazone,166,43.0
+lumefantrine,166,43.0
+lycopene,166,43.0
+flurazepam,166,43.0
+omapatrilat,166,43.0
+prucalopride,166,43.0
+colfosceril palmitate,166,43.0
+piperacillin,166,43.0
+desomorphine,166,43.0
+creatinolfosfate,166,43.0
+nemonapride,166,43.0
+bezitramide,166,43.0
+nifurfoline,166,43.0
+tolonium,166,43.0
+bentiromide,166,43.0
+glimepiride,166,43.0
+melphalan flufenamide,166,43.0
+verapamil,166,43.0
+hydromorphone,166,43.0
+benziodarone,166,43.0
+guanoxan,166,43.0
+linsidomine,166,43.0
+oxatomide,166,43.0
+fluorometholone acetate,166,43.0
+guanoclor,166,43.0
+amiloride,166,43.0
+guanfacine,166,43.0
+trazodone,166,43.0
+guanabenz,166,43.0
+spiclomazine,166,43.0
+benazepril,166,43.0
+nitroxazepine,166,43.0
+dexloxiglumide,166,43.0
+falecalcitriol,166,43.0
+guancidine,166,43.0
+levoverbenone,166,43.0
+propyliodone,166,43.0
+clascoterone,166,43.0
+levocabastine,166,43.0
+siccanin,166,43.0
+periciazine,166,43.0
+traxanox,166,43.0
+enbucrilate,166,43.0
+dimyristoylphosphatidylcholine,166,43.0
+enocitabine,166,43.0
+camostat,166,43.0
+acecarbromal,166,43.0
+milrinone,166,43.0
+paramethasone acetate,166,43.0
+clopenthixol,166,43.0
+guabenxan,166,43.0
+alogliptin,166,43.0
+nabilone,166,43.0
+cefalotin,166,43.0
+sorafenib,166,43.0
+carbarsone,166,43.0
+pretomanid,166,43.0
+diiodotyrosine,166,43.0
+vesnarinone,166,43.0
+carbromal,166,43.0
+etoglucid,166,43.0
+nandrolone decanoate,164,44.0
+estradiol dipropionate,164,44.0
+fluclorolone acetonide,164,44.0
+carfenazine,164,44.0
+estradiol cypionate,164,44.0
+estradiol undecylate,164,44.0
+homofenazine,164,44.0
+neostigmine,164,44.0
+olanzapine,164,44.0
+hexachlorophene,164,44.0
+ramatroban,164,44.0
+tilbroquinol,164,44.0
+baricitinib,164,44.0
+prednisolone acetate,164,44.0
+azosemide,164,44.0
+carvedilol,164,44.0
+oxabolone cipionate,164,44.0
+fipexide,164,44.0
+urapidil,164,44.0
+fluvastatin,164,44.0
+repirinast,164,44.0
+anagliptin,164,44.0
+fluprednidene,164,44.0
+pivmecillinam,164,44.0
+anecortave,164,44.0
+phosphocreatine,164,44.0
+ebrotidine,164,44.0
+sisomicin,164,44.0
+metaclazepam,164,44.0
+flupentixol,164,44.0
+panobinostat,164,44.0
+quetiapine,164,44.0
+ethinylestradiol,164,44.0
+fenetylline,164,44.0
+gallopamil,164,44.0
+gestonorone caproate,164,44.0
+danazol,164,44.0
+mexazolam,164,44.0
+quinapril,164,44.0
+alizapride,164,44.0
+quinestradol,164,44.0
+olaparib,164,44.0
+betadex,164,44.0
+ertugliflozin,164,44.0
+colchicine,164,44.0
+propamidine,162,45.0
+hexamidine,162,45.0
+sacubitril,162,45.0
+clobenoside,162,45.0
+etomidoline,162,45.0
+etonogestrel,162,45.0
+pimozide,162,45.0
+etravirine,162,45.0
+isosorbide dinitrate,162,45.0
+clobetasone butyrate,162,45.0
+fominoben,162,45.0
+eszopiclone,162,45.0
+edrophonium,162,45.0
+tryparsamide,162,45.0
+pivampicillin,162,45.0
+ulobetasol propionate,162,45.0
+fluperolone,162,45.0
+norgestrienone,162,45.0
+rimazolium,162,45.0
+amezinium metilsulfate,162,45.0
+amenamevir,162,45.0
+rimonabant,162,45.0
+valsartan,162,45.0
+prazosin,162,45.0
+diaziquone,162,45.0
+mitobronitol,162,45.0
+mitolactol,162,45.0
+prajmalium,162,45.0
+aclatonium,162,45.0
+chlormadinone,162,45.0
+acetarsol,162,45.0
+nafamostat,162,45.0
+ruboxistaurin,162,45.0
+zopiclone,162,45.0
+prednival,162,45.0
+artesunate,162,45.0
+oxapropanium,162,45.0
+raltegravir,162,45.0
+cefoxitin,162,45.0
+incadronic acid,162,45.0
+perimetazine,162,45.0
+pergolide,162,45.0
+bunazosin,162,45.0
+codeine,162,45.0
+piperacetazine,162,45.0
+pentamidine,162,45.0
+fenoverine,162,45.0
+enprostil,162,45.0
+elvitegravir,162,45.0
+gestrinone,162,45.0
+leteprinim,162,45.0
+spirapril,162,45.0
+delgocitinib,162,45.0
+levocarnitine propionate,162,45.0
+ramipril,162,45.0
+ciclesonide,160,46.0
+ciclosporin,160,46.0
+suramin,160,46.0
+suvorexant,160,46.0
+cimetropium,160,46.0
+cilazapril,160,46.0
+cilostazol,160,46.0
+chlortetracycline,160,46.0
+tafenoquine,160,46.0
+tadalafil,160,46.0
+tacrolimus,160,46.0
+syrosingopine,160,46.0
+sunitinib,160,46.0
+cilnidipine,160,46.0
+sulprostone,160,46.0
+naloxegol,160,46.0
+cinitapride,160,46.0
+dexrabeprazole,160,46.0
+dexniguldipine,160,46.0
+sertaconazole,160,46.0
+sertindole,160,46.0
+dexamethasone valerate,160,46.0
+setmelanotide,160,46.0
+dexamethasone phosphate,160,46.0
+dexamethasone palmitate,160,46.0
+sildenafil,160,46.0
+dexamethasone dipropionate,160,46.0
+silodosin,160,46.0
+dexamethasone acetate,160,46.0
+dexamethasone acefurate,160,46.0
+detajmium,160,46.0
+sincalide,160,46.0
+siponimod,160,46.0
+sirolimus,160,46.0
+sitagliptin,160,46.0
+desoxycorticosterone pivalate,160,46.0
+desmopressin,160,46.0
+serdexmethylphenidate,160,46.0
+selumetinib,160,46.0
+deserpidine,160,46.0
+selinexor,160,46.0
+dihydroergocryptine,160,46.0
+dihydroergocristine,160,46.0
+dihydroergocornine,160,46.0
+dihydroemetine,160,46.0
+digoxin,160,46.0
+digitoxin,160,46.0
+digitalin,160,46.0
+difluprednate,160,46.0
+salmeterol,160,46.0
+samidorphan,160,46.0
+sancycline,160,46.0
+diflorasone diacetate,160,46.0
+saquinavir,160,46.0
+sarecycline,160,46.0
+saroglitazar,160,46.0
+sarpogrelate,160,46.0
+dichlorisone,160,46.0
+diamorphine,160,46.0
+diacetyl benzoyl lathyrol,160,46.0
+deslanoside,160,46.0
+sofosbuvir,160,46.0
+cinnoxicam,160,46.0
+dactinomycin,160,46.0
+dabrafenib,160,46.0
+cytarabine ocfosfate,160,46.0
+cymarin,160,46.0
+crizotinib,160,46.0
+cortivazol,160,46.0
+cortisone acetate,160,46.0
+copanlisib,160,46.0
+colforsin daropate,160,46.0
+cobimetinib,160,46.0
+cobicistat,160,46.0
+sulfamazone,160,46.0
+cloricromen,160,46.0
+clomocycline,160,46.0
+clofazimine,160,46.0
+clocortolone pivalate,160,46.0
+clocapramine,160,46.0
+clindamycin palmitate,160,46.0
+clarithromycin,160,46.0
+cisapride,160,46.0
+dacomitinib,160,46.0
+dalfopristin,160,46.0
+sofpironium bromide,160,46.0
+darifenacin,160,46.0
+depreotide,160,46.0
+demoxytocin,160,46.0
+somatostatin,160,46.0
+sonidegib,160,46.0
+demeclocycline,160,46.0
+demecarium,160,46.0
+sotorasib,160,46.0
+delavirdine,160,46.0
+delamanid,160,46.0
+delafloxacin,160,46.0
+deflazacort,160,46.0
+davercin,160,46.0
+daunorubicinol,160,46.0
+daunorubicin,160,46.0
+dasatinib,160,46.0
+dasabuvir,160,46.0
+strychnine,160,46.0
+darunavir,160,46.0
+darolutamide,160,46.0
+talampicillin,160,46.0
+cefalexin pivoxil,160,46.0
+talazoparib tosylate,160,46.0
+aspoxicillin,160,46.0
+trimazosin,160,46.0
+azithromycin,160,46.0
+azimilide,160,46.0
+azelastine,160,46.0
+axitinib,160,46.0
+avatrombopag,160,46.0
+avapritinib,160,46.0
+avanafil,160,46.0
+atosiban,160,46.0
+atorvastatin,160,46.0
+atazanavir,160,46.0
+asulacrine,160,46.0
+astemizole,160,46.0
+tritoqualine,160,46.0
+bacampicillin,160,46.0
+troleandomycin,160,46.0
+aripiprazole lauroxil,160,46.0
+aripiprazole,160,46.0
+tropesin,160,46.0
+arbekacin,160,46.0
+aprepitant,160,46.0
+trovafloxacin,160,46.0
+troxerutin,160,46.0
+apixaban,160,46.0
+apalutamide,160,46.0
+apalcillin,160,46.0
+tucatinib,160,46.0
+antrafenine,160,46.0
+trilaciclib,160,46.0
+baicalin,160,46.0
+betamethasone benzoate,160,46.0
+tretinoin tocoferil,160,46.0
+betamethasone acibutate,160,46.0
+betamethasone acetate,160,46.0
+tosufloxacin,160,46.0
+trabectedin,160,46.0
+beta-Ergocryptine,160,46.0
+besifloxacin,160,46.0
+trametinib,160,46.0
+trandolapril,160,46.0
+berotralstat,160,46.0
+travoprost,160,46.0
+trenbolone hexahydrobenzylcarbonate,160,46.0
+treprostinil,160,46.0
+tretamine,160,46.0
+triamcinolone acetonide,160,46.0
+balofloxacin,160,46.0
+triamcinolone benetonide,160,46.0
+triamcinolone diacetate,160,46.0
+triamcinolone hexacetonide,160,46.0
+benperidol,160,46.0
+benidipine,160,46.0
+benfotiamine,160,46.0
+belotecan,160,46.0
+beclometasone dipropionate,160,46.0
+beclabuvir,160,46.0
+bazedoxifene,160,46.0
+barnidipine,160,46.0
+bamifylline,160,46.0
+baloxavir marboxil,160,46.0
+anidulafungin,160,46.0
+ubrogepant,160,46.0
+udenafil,160,46.0
+yohimbine,160,46.0
+voclosporin,160,46.0
+alclometasone dipropionate,160,46.0
+vorapaxar,160,46.0
+alatrofloxacin,160,46.0
+afatinib,160,46.0
+ademetionine,160,46.0
+adefovir dipivoxil,160,46.0
+acotiamide,160,46.0
+ximelagatran,160,46.0
+aclarubicin,160,46.0
+acetyldihydrocodeine,160,46.0
+acetyldigoxin,160,46.0
+acetyldigitoxin,160,46.0
+zafirlukast,160,46.0
+anazolene,160,46.0
+acetoxolone,160,46.0
+zanubrutinib,160,46.0
+acemetacin,160,46.0
+acarbose,160,46.0
+ziprasidone,160,46.0
+abiraterone acetate,160,46.0
+abemaciclib,160,46.0
+Spiramycin III,160,46.0
+Spiramycin II,160,46.0
+zorubicin,160,46.0
+zotarolimus,160,46.0
+Spiramycin I,160,46.0
+Cabotegravir,160,46.0
+viomycin,160,46.0
+vinpocetine,160,46.0
+vincamine,160,46.0
+alfuzosin,160,46.0
+ulipristal,160,46.0
+umbralisib,160,46.0
+umifenovir,160,46.0
+amrubicin,160,46.0
+amprenavir,160,46.0
+upadacitinib,160,46.0
+ampiroxicam,160,46.0
+amphotericin B,160,46.0
+amodiaquine,160,46.0
+aminopterin,160,46.0
+valbenazine,160,46.0
+amikacin,160,46.0
+valganciclovir,160,46.0
+amcinonide,160,46.0
+valrubicin,160,46.0
+vandetanib,160,46.0
+vardenafil,160,46.0
+alvimopan,160,46.0
+vasopressin,160,46.0
+vecuronium,160,46.0
+vemurafenib,160,46.0
+alpha-Ergocryptine,160,46.0
+vericiguat,160,46.0
+vibegron,160,46.0
+vilanterol,160,46.0
+aliskiren,160,46.0
+algestone acetophenide,160,46.0
+topotecan,160,46.0
+betamethasone butyrate propionate,160,46.0
+chidamide,160,46.0
+cefminox,160,46.0
+cefozopran,160,46.0
+terbinafine,160,46.0
+terconazole,160,46.0
+cefotiam hexetil,160,46.0
+terguride,160,46.0
+cefotiam,160,46.0
+terlipressin,160,46.0
+cefotaxime,160,46.0
+cefoselis,160,46.0
+ceforanide,160,46.0
+cefoperazone,160,46.0
+cefonicid,160,46.0
+cefodizime,160,46.0
+cefmetazole,160,46.0
+cefpimizole,160,46.0
+cefmenoxime,160,46.0
+cefixime,160,46.0
+cefiderocol,160,46.0
+cefetamet pivoxil,160,46.0
+tetracycline,160,46.0
+cefepime,160,46.0
+cefditoren pivoxil,160,46.0
+cefcapene pivoxil,160,46.0
+cefcapene,160,46.0
+cefbuperazone,160,46.0
+cefazolin,160,46.0
+cefazedone,160,46.0
+tezacaftor,160,46.0
+tepotinib,160,46.0
+cefpiramide,160,46.0
+betamethasone dipropionate,160,46.0
+cefteram,160,46.0
+ceritinib,160,46.0
+tasosartan,160,46.0
+cefuzonam,160,46.0
+cefuroxime pivoxetil,160,46.0
+cefuroxime axetil,160,46.0
+cefuroxime,160,46.0
+tazemetostat,160,46.0
+ceftriaxone,160,46.0
+ceftolozane,160,46.0
+ceftobiprole medocaril,160,46.0
+ceftezole,160,46.0
+tedizolid phosphate,160,46.0
+cefteram pivoxil,160,46.0
+telaprevir,160,46.0
+tenofovir alafenamide,160,46.0
+ceftazidime,160,46.0
+telithromycin,160,46.0
+ceftaroline fosamil,160,46.0
+telotristat ethyl,160,46.0
+temafloxacin,160,46.0
+cefsulodin,160,46.0
+temocapril,160,46.0
+temsirolimus,160,46.0
+tenapanor,160,46.0
+teneligliptin,160,46.0
+cefpodoxime proxetil,160,46.0
+teniposide,160,46.0
+cefpirome,160,46.0
+cefatrizine,160,46.0
+thebacon,160,46.0
+cefapirin,160,46.0
+tivozanib,160,46.0
+bufogenin,160,46.0
+budesonide,160,46.0
+bucladesine,160,46.0
+brovincamine,160,46.0
+bromocriptine,160,46.0
+brigatinib,160,46.0
+tipranavir,160,46.0
+brexpiprazole,160,46.0
+tirbanibulin,160,46.0
+tirilazad,160,46.0
+tirofiban,160,46.0
+tiropramide,160,46.0
+bremelanotide,160,46.0
+tixocortol,160,46.0
+cefamandole nafate,160,46.0
+bosentan,160,46.0
+tocofibrate,160,46.0
+tocopherol succinate,160,46.0
+tocopheryl nicotinate,160,46.0
+biriperone,160,46.0
+binimetinib,160,46.0
+bimatoprost,160,46.0
+bilastine,160,46.0
+bietaserpine,160,46.0
+bictegravir,160,46.0
+betamethasone valerate,160,46.0
+betamethasone phosphate,160,46.0
+tolvaptan,160,46.0
+bulaquine,160,46.0
+timiperone,160,46.0
+buprenorphine,160,46.0
+butaperazine,160,46.0
+theodrenaline,160,46.0
+cefamandole,160,46.0
+cefaloridine,160,46.0
+caspofungin,160,46.0
+casopitant,160,46.0
+carumonam,160,46.0
+carubicin,160,46.0
+thiocolchicoside,160,46.0
+carindacillin,160,46.0
+cargutocin,160,46.0
+thiopropazate,160,46.0
+thioproperazine,160,46.0
+carfilzomib,160,46.0
+carboquone,160,46.0
+carbetocin,160,46.0
+carbenoxolone,160,46.0
+capmatinib,160,46.0
+canfosfamide,160,46.0
+tianeptine,160,46.0
+candesartan cilexetil,160,46.0
+canagliflozin,160,46.0
+ticagrelor,160,46.0
+cafedrine,160,46.0
+cabozantinib,160,46.0
+cabergoline,160,46.0
+tigecycline,160,46.0
+butinoline,160,46.0
+dihydroergotamine,160,46.0
+rilmazafone,160,46.0
+zuclopenthixol acetate,160,46.0
+gilteritinib,160,46.0
+gliquidone,160,46.0
+pifarnine,160,46.0
+glibenclamide,160,46.0
+glecaprevir,160,46.0
+glafenine,160,46.0
+gitoxin,160,46.0
+pimavanserin,160,46.0
+gitoformate,160,46.0
+pimecrolimus,160,46.0
+pimefylline,160,46.0
+norgestimate,160,46.0
+noscapine,160,46.0
+pimobendan,160,46.0
+gemifloxacin,160,46.0
+pipazetate,160,46.0
+mepacrine,160,46.0
+gefitinib,160,46.0
+gatifloxacin,160,46.0
+garenoxacin,160,46.0
+meproscillarin,160,46.0
+metacycline,160,46.0
+fusidic acid,160,46.0
+glisoxepide,160,46.0
+novobiocin,160,46.0
+methohexital,160,46.0
+lypressin,160,46.0
+hydrocortisone aceponate,160,46.0
+hydrocortamate,160,46.0
+ofloxacin,160,46.0
+hidrosmin,160,46.0
+octreotide,160,46.0
+octotiamine,160,46.0
+lymecycline,160,46.0
+halopredone acetate,160,46.0
+haloperidol decanoate,160,46.0
+halcinonide,160,46.0
+macimorelin,160,46.0
+glucametacin,160,46.0
+manidipine,160,46.0
+maraviroc,160,46.0
+grepafloxacin,160,46.0
+mazipredone,160,46.0
+meclocycline,160,46.0
+pholcodine,160,46.0
+glycyrrhizic acid,160,46.0
+nystatin,160,46.0
+medroxalol,160,46.0
+glucosaminylmuramyl dipeptide,160,46.0
+metergoline,160,46.0
+pipotiazine palmitate,160,46.0
+prednisolamate,160,46.0
+metildigoxin,160,46.0
+methysergide,160,46.0
+plicamycin,160,46.0
+fluocortin butyl,160,46.0
+fluocinonide,160,46.0
+fluocinolone acetonide,160,46.0
+ponesimod,160,46.0
+posaconazole,160,46.0
+flumetasone pivalate,160,46.0
+pralidoxime,160,46.0
+pralmorelin,160,46.0
+pralsetinib,160,46.0
+plazomicin,160,46.0
+fludrocortisone acetate,160,46.0
+pranlukast,160,46.0
+fluazacort,160,46.0
+metofenazate,160,46.0
+prasugrel,160,46.0
+niperotidine,160,46.0
+nintedanib,160,46.0
+flomoxef,160,46.0
+floctafenine,160,46.0
+prednicarbate,160,46.0
+methylprednisolone suleptanate,160,46.0
+methylprednisolone succinate,160,46.0
+nizofenone,160,46.0
+methotrexate,160,46.0
+fulvestrant,160,46.0
+pirarubicin,160,46.0
+framycetin,160,46.0
+fostemsavir,160,46.0
+methoserpidine,160,46.0
+fostamatinib,160,46.0
+fosnetupitant,160,46.0
+fosinopril,160,46.0
+fosaprepitant,160,46.0
+fosamprenavir,160,46.0
+formocortal,160,46.0
+fluphenazine decanoate,160,46.0
+fondaparinux,160,46.0
+folic acid,160,46.0
+methylergometrine,160,46.0
+fluticasone propionate,160,46.0
+fluticasone furoate,160,46.0
+pitavastatin,160,46.0
+methylprednisolone aceponate,160,46.0
+flurithromycin,160,46.0
+fluprednidene acetate,160,46.0
+lenvatinib,160,46.0
+hydrocortisone acetate,160,46.0
+hydrocortisone butyrate,160,46.0
+hydrocortisone cypionate,160,46.0
+pargeverine,160,46.0
+ixabepilone,160,46.0
+ivosidenib,160,46.0
+ivabradine,160,46.0
+levomefolic acid,160,46.0
+itraconazole,160,46.0
+isoflupredone acetate,160,46.0
+isepamicin,160,46.0
+irinotecan,160,46.0
+irbesartan,160,46.0
+lifitegrast,160,46.0
+(S)-nicardipine,160,46.0
+levofolinic acid,160,46.0
+paromomycin,160,46.0
+pasireotide,160,46.0
+lividomycin,160,46.0
+pazopanib,160,46.0
+lobeglitazone,160,46.0
+oxaflumazine,160,46.0
+pemafibrate,160,46.0
+pemetrexed,160,46.0
+pemigatinib,160,46.0
+lomitapide,160,46.0
+josamycin,160,46.0
+paliperidone palmitate,160,46.0
+hydrocortisone phosphate,160,46.0
+laropiprant,160,46.0
+oxybutynin,160,46.0
+lemborexant,160,46.0
+letermovir,160,46.0
+leucovorin,160,46.0
+lauroguadine,160,46.0
+latanoprostene bunod,160,46.0
+latamoxef,160,46.0
+lasofoxifene,160,46.0
+lascufloxacin,160,46.0
+larotrectinib,160,46.0
+lapatinib,160,46.0
+paliperidone,160,46.0
+lanreotide,160,46.0
+landiolol,160,46.0
+lanatoside C,160,46.0
+lafutidine,160,46.0
+oxytetracycline,160,46.0
+oxytocin,160,46.0
+ketoconazole,160,46.0
+ketanserin,160,46.0
+levofloxacin,160,46.0
+palbociclib,160,46.0
+ouabain,160,46.0
+lopinavir,160,46.0
+loprazolam,160,46.0
+iloperidone,160,46.0
+olmesartan medoxomil,160,46.0
+infigratinib,160,46.0
+oliceridine,160,46.0
+indinavir,160,46.0
+imiclopazine,160,46.0
+imatinib,160,46.0
+peruvoside,160,46.0
+oleandrin,160,46.0
+oleandomycin,160,46.0
+pexidartinib,160,46.0
+ilaprazole,160,46.0
+osimertinib,160,46.0
+idelalisib,160,46.0
+idarubicin,160,46.0
+ibrutinib,160,46.0
+lusutrombopag,160,46.0
+ibrexafungerp,160,46.0
+hydroxyprogesterone caproate,160,46.0
+hydroxyestrone diacetate,160,46.0
+hydrocortisone valerate,160,46.0
+hydrocortisone succinate,160,46.0
+hydrocortisone probutate,160,46.0
+olmutinib,160,46.0
+intoplicine,160,46.0
+olodaterol,160,46.0
+lurasidone,160,46.0
+lorajmine,160,46.0
+loratadine,160,46.0
+lorlatinib,160,46.0
+pentagastrin,160,46.0
+pentagestrone,160,46.0
+pentagestrone acetate,160,46.0
+lorpiprazole,160,46.0
+pentamycin,160,46.0
+losartan,160,46.0
+loteprednol etabonate,160,46.0
+ornipressin,160,46.0
+ormeloxifene,160,46.0
+lubeluzole,160,46.0
+omidenepag isopropyl,160,46.0
+lumacaftor,160,46.0
+ombitasvir,160,46.0
+omarigliptin,160,46.0
+omadacycline,160,46.0
+omacetaxine mepesuccinate,160,46.0
+peplomycin,160,46.0
+lumateperone,160,46.0
+prednimustine,160,46.0
+fluphenazine enanthate,160,46.0
+flibanserin,160,46.0
+reproterol,160,46.0
+eldecalcitol,160,46.0
+regadenoson,160,46.0
+regorafenib,160,46.0
+relugolix,160,46.0
+remdesivir,160,46.0
+moxidectin,160,46.0
+remikiren,160,46.0
+elagolix,160,46.0
+repaglinide,160,46.0
+moxifloxacin,160,46.0
+netupitant,160,46.0
+moracizine,160,46.0
+rescimetol,160,46.0
+rescinnamine,160,46.0
+reserpiline,160,46.0
+reserpine,160,46.0
+netilmicin,160,46.0
+edoxaban,160,46.0
+edatrexate,160,46.0
+netarsudil,160,46.0
+revefenacin,160,46.0
+mupirocin,160,46.0
+eledoisin,160,46.0
+mosapride,160,46.0
+prednisolone farnesylate,160,46.0
+rapacuronium,160,46.0
+enoxolone,160,46.0
+morphine,160,46.0
+encorafenib,160,46.0
+enasidenib,160,46.0
+quingestanol acetate,160,46.0
+mosapramine,160,46.0
+empagliflozin,160,46.0
+nicergoline,160,46.0
+emetine,160,46.0
+quinupristin,160,46.0
+quizartinib,160,46.0
+rabeprazole,160,46.0
+radotinib,160,46.0
+raloxifene,160,46.0
+raltitrexed,160,46.0
+nicardipine,160,46.0
+eluxadoline,160,46.0
+eltrombopag,160,46.0
+elobixibat,160,46.0
+eliglustat,160,46.0
+elexacaftor,160,46.0
+ribociclib,160,46.0
+riboflavin phosphate,160,46.0
+duvelisib,160,46.0
+nadifloxacin,160,46.0
+natamycin,160,46.0
+naldemedine,160,46.0
+domperidone,160,46.0
+rocuronium,160,46.0
+naproxcinod,160,46.0
+dolutegravir,160,46.0
+rokitamycin,160,46.0
+rolitetracycline,160,46.0
+romidepsin,160,46.0
+nalfurafine,160,46.0
+nandrolone phenpropionate,160,46.0
+nalmefene,160,46.0
+dirithromycin,160,46.0
+nalorphine,160,46.0
+rosuvastatin,160,46.0
+diosmin,160,46.0
+naltrexone,160,46.0
+roxithromycin,160,46.0
+rubitecan,160,46.0
+rufloxacin,160,46.0
+rupatadine,160,46.0
+doravirine,160,46.0
+nefazodone,160,46.0
+dutasteride,160,46.0
+rivaroxaban,160,46.0
+ridaforolimus,160,46.0
+rifabutin,160,46.0
+rifaximin,160,46.0
+naloxone,160,46.0
+drospirenone,160,46.0
+rimegepant,160,46.0
+droperidol,160,46.0
+dronedarone,160,46.0
+riociguat,160,46.0
+doxycycline,160,46.0
+mycophenolate mofetil,160,46.0
+doxorubicin,160,46.0
+ripretinib,160,46.0
+risdiplam,160,46.0
+mydecamycin,160,46.0
+doxazosin,160,46.0
+nemonoxacin,160,46.0
+risperidone,160,46.0
+nelfinavir,160,46.0
+myrophine,160,46.0
+ritonavir,160,46.0
+nicocodine,160,46.0
+lenampicillin,160,46.0
+entrectinib,160,46.0
+protoverine,160,46.0
+erythromycin ethyl succinate,160,46.0
+erythromycin acistrate,160,46.0
+erythromycin,160,46.0
+micafungin,160,46.0
+etoposide phosphate,160,46.0
+ertapenem,160,46.0
+nifekalant,160,46.0
+etynodiol,160,46.0
+proscillaridin,160,46.0
+mitoguazone,160,46.0
+mizolastine,160,46.0
+everolimus,160,46.0
+eribulin,160,46.0
+exatecan,160,46.0
+ergotamine,160,46.0
+mibefradil,160,46.0
+erythromycin propionate,160,46.0
+estradiol benzoate,160,46.0
+fedratinib,160,46.0
+ethinylestradiol sulfonate,160,46.0
+miocamycin,160,46.0
+etofylline clofibrate,160,46.0
+enviomycin,160,46.0
+etimicin,160,46.0
+etofylline nicotinate,160,46.0
+ethylmorphine,160,46.0
+mirabegron,160,46.0
+etoperidone,160,46.0
+minocycline,160,46.0
+ethacizine,160,46.0
+mirodenafil,160,46.0
+estriol succinate,160,46.0
+estramustine phosphate,160,46.0
+estramustine,160,46.0
+estradiol mustard,160,46.0
+etoposide,160,46.0
+prulifloxacin,160,46.0
+proglumetacin,160,46.0
+felypressin,160,46.0
+filgotinib,160,46.0
+pyridostigmine,160,46.0
+fendosal,160,46.0
+eprosartan,160,46.0
+eplerenone,160,46.0
+flavoxate,160,46.0
+epirubicin,160,46.0
+epicriptine,160,46.0
+prednisolone valerate acetate,160,46.0
+prednisolone tebutate,160,46.0
+nicomorphine,160,46.0
+prednisolone sulfobenzoate,160,46.0
+pyronaridine,160,46.0
+metopon,160,46.0
+prednisolone succinate,160,46.0
+montelukast,160,46.0
+prednisolone steaglate,160,46.0
+prednisolone sodium phosphate,160,46.0
+eptifibatide,160,46.0
+fimasartan,160,46.0
+etiprednol dicloacetate,160,46.0
+mometasone furoate,160,46.0
+nilotinib,160,46.0
+moexipril,160,46.0
+fidaxomicin,160,46.0
+erdafitinib,160,46.0
+eravacycline dihydrochloride,160,46.0
+lercanidipine,158,47.0
+ponatinib,158,47.0
+azilsartan medoxomil,158,47.0
+fentonium,158,47.0
+bosutinib,158,47.0
+iophenoic acid,158,47.0
+azidamfenicol,158,47.0
+selpercatinib,158,47.0
+linaclotide,158,47.0
+nifurzide,158,47.0
+ioversol,158,47.0
+ozanimod,158,47.0
+saralasin,158,47.0
+dithiazanine,158,47.0
+riodoxol,158,47.0
+ceruletide,158,47.0
+liothyronine,158,47.0
+finafloxacin,158,47.0
+laninamivir octanoate hydrate,158,47.0
+pralatrexate,158,47.0
+vilazodone,158,47.0
+betrixaban,158,47.0
+tiratricol,158,47.0
+thymopentin,158,47.0
+elliptinium,158,47.0
+icotinib,158,47.0
+glasdegib,158,47.0
+indocyanine green,158,47.0
+remimazolam,158,47.0
+alectinib,158,47.0
+lurbinectedin,158,47.0
+monoxerutin,158,47.0
+copper dotatate Cu-64,158,47.0
+iobenzamic acid,158,47.0
+moxestrol,158,47.0
+conivaptan,158,47.0
+pinazepam,158,47.0
+iopamidol,158,47.0
+olanexidine,158,47.0
+thyropropic acid,158,47.0
+rutoside,158,47.0
+mestranol,158,47.0
+efonidipine,158,47.0
+dabigatran etexilate,158,47.0
+clonitrate,158,47.0
+argatroban,158,47.0
+hexcarbacholine,158,47.0
+pibrentasvir,158,47.0
+epanolol,158,47.0
+moroxydine,158,47.0
+iomeprol,158,47.0
+neratinib,158,47.0
+daclatasvir,158,47.0
+gusperimus,158,47.0
+bedaquiline,156,48.0
+nalbuphine,156,48.0
+beraprost,156,48.0
+chlorproguanil,156,48.0
+gonadorelin,156,48.0
+angiotensin II,156,48.0
+niclofolan,156,48.0
+hydroxystilbamidine,156,48.0
+tyropanoate,156,48.0
+angiotensinamide,156,48.0
+benzquercin,156,48.0
+venetoclax,156,48.0
+leuprorelin,156,48.0
+xenytropium,156,48.0
+cepharanthine,156,48.0
+rifapentine,156,48.0
+iobitridol,156,48.0
+ioxilan,156,48.0
+asunaprevir,156,48.0
+methylnaltrexone,156,48.0
+tegaserod,156,48.0
+rifampicin,156,48.0
+arsthinol,156,48.0
+cangrelor,156,48.0
+nitrefazole,156,48.0
+rilmenidine,156,48.0
+parsalmide,156,48.0
+linagliptin,156,48.0
+iopronic acid,156,48.0
+petrichloral,156,48.0
+ziconotide,156,48.0
+proguanil,156,48.0
+rifamycin,156,48.0
+tonzonium,156,48.0
+isavuconazonium,156,48.0
+iopentol,156,48.0
+selegiline,156,48.0
+iopanoic acid,156,48.0
+iohexol,156,48.0
+Streptomycin B,154,49.0
+azelnidipine,154,49.0
+triptorelin,154,49.0
+meturedepa,154,49.0
+uridine triphosphate,154,49.0
+tubocurarine,154,49.0
+melarsoprol,154,49.0
+nadide,154,49.0
+amiodarone,154,49.0
+dihydrostreptomycin,154,49.0
+ioglicic acid,154,49.0
+paritaprevir,154,49.0
+iotalamic acid,154,49.0
+tazarotene,154,49.0
+streptomycin,154,49.0
+desoxymycin,154,49.0
+telmisartan,154,49.0
+rasagiline,154,49.0
+phenobutiodil,154,49.0
+buserelin,154,49.0
+ioxitalamic acid,154,49.0
+histrelin,154,49.0
+pargyline,154,49.0
+bretylium,154,49.0
+pyrvinium,154,49.0
+sugammadex,154,49.0
+guamecycline,154,49.0
+goserelin,154,49.0
+simeprevir,154,49.0
+trolnitrate,152,50.0
+iodamide,152,50.0
+pentrinitrol,152,50.0
+elbasvir,152,50.0
+bunamiodyl,152,50.0
+uredepa,152,50.0
+iocetamic acid,152,50.0
+tibezonium,152,50.0
+butropium,152,50.0
+quinestrol,152,50.0
+daptomycin,152,50.0
+mifepristone,152,50.0
+phenformin,152,50.0
+norethindrone enanthate,152,50.0
+pipecuronium,152,50.0
+citicoline,152,50.0
+alexidine,152,50.0
+picloxydine,152,50.0
+vaniprevir,152,50.0
+chlorhexidine,152,50.0
+brilliant Blue G,152,50.0
+keracyanin,152,50.0
+difetarsone,152,50.0
+pancuronium,152,50.0
+acetrizoic acid,152,50.0
+sitafloxacin,152,50.0
+iopodic acid,152,50.0
+acalabrutinib,152,50.0
+zabofloxacin,152,50.0
+cetrorelix,152,50.0
+romurtide,152,50.0
+metrizoic acid,152,50.0
+flusalan,152,50.0
+suxamethonium,152,50.0
+diatrizoate,152,50.0
+abarelix,152,50.0
+iomeglamic acid,152,50.0
+otilonium bromide,152,50.0
+nafarelin,150,51.0
+etiroxate,150,51.0
+levothyroxine,150,51.0
+obidoxime,150,51.0
+ledipasvir,150,51.0
+propatylnitrate,150,51.0
+ganirelix,150,51.0
+dextrothyroxine,150,51.0
+buformin,150,51.0
+sodium stibogluconate,150,51.0
+bismuth subgallate,150,51.0
+tenitramine,150,51.0
+ingenol mebutate,150,51.0
+degarelix,150,51.0
+cefotetan,148,52.0
+teicoplanin aglycone,148,52.0
+tirabrutinib hydrochloride,148,52.0
+fazadinium,148,52.0
+ambenonium,148,52.0
+distigmine,148,52.0
+velpatasvir,148,52.0
+temoporfin,148,52.0
+midostaurin,148,52.0
+voxilaprevir,148,52.0
+metrizamide,148,52.0
+bismuth camphocarbonate,148,52.0
+glyceryl trinitrate,148,52.0
+fumagillin,146,53.0
+vancomycin,146,53.0
+erlotinib,146,53.0
+adenosine triphosphate,146,53.0
+diquafosol,146,53.0
+pentacynium chloride,146,53.0
+nesiritide,146,53.0
+glycobiarsol,146,53.0
+adamexine,146,53.0
+hexafluronium,146,53.0
+dalbavancin,146,53.0
+iodoxamic acid,144,54.0
+pentaerithrityl tetranitrate,144,54.0
+triaziquone,144,54.0
+iotrolan,144,54.0
+iodixanol,144,54.0
+iopromide,144,54.0
+eritrityl tetranitrate,144,54.0
+afamelanotide,144,54.0
+grazoprevir,142,55.0
+iotroxic acid,142,55.0
+alsactide,142,55.0
+sultamicillin,142,55.0
+carperitide,142,55.0
+ioglycamic acid,142,55.0
+opicapone,142,55.0
+telavancin,142,55.0
+hematoporphyrin,142,55.0
+cisatracurium,142,55.0
+iocarmic acid,142,55.0
+adipiodone,142,55.0
+oritavancin,142,55.0
+talaporfin,140,56.0
+mifamurtide,140,56.0
+icatibant,140,56.0
+phenylmercuric nitrate,140,56.0
+mannite hexanitrate,140,56.0
+tebipenem pivoxil,140,56.0
+bisdequalinium chloride,140,56.0
+lucimycin,138,57.0
+dibromol,138,57.0
+mivacurium,136,58.0
+dequalinium,136,58.0
+pentolonium,136,58.0
+plecanatide,136,58.0
+sulfobromophthalein,136,58.0
+decamethrin,136,58.0
+calcitonin human,136,58.0
+ambroxol,134,59.0
+dibrompropamidine,134,59.0
+bromhexine,134,59.0
+protoporphyrin,134,59.0
+eritoran,134,59.0
+trimethidinium,134,59.0
+haloprogin,134,59.0
+doxacurium,132,60.0
+selenium (75Se) tauroselcholic acid,132,60.0
+pipobroman,132,60.0
+benzbromarone,132,60.0
+eosin,132,60.0
+gallamine,132,60.0
+candicidin,132,60.0
+calcitonin (salmon synthetic),130,61.0
+bibrocathol,130,61.0
+cicaprost,130,61.0
+trinitrophenol,128,62.0
+dezocine,128,62.0
+ioxaglic acid,128,62.0
+broxyquinoline,128,62.0
+elcatonin,128,62.0
+dibromotyrosine,128,62.0
+iprindole,128,62.0
+dimethyltubocurarinium,128,62.0
+nefopam,128,62.0
+chlorisondamine,128,62.0
+tribromometacresol,128,62.0
+guanethidine,128,62.0
+guanazodine,128,62.0
+pinaverium,128,62.0
+macitentan,128,62.0
+etelcalcetide,128,62.0
+teriparatide,126,63.0
+sermorelin,126,63.0
+bivalirudin,126,63.0
+atracurium,126,63.0
+glucagon,124,64.0
+teduglutide,124,64.0
+abaloparatide,124,64.0
+tetracosactide,124,64.0
+neltenexine,124,64.0
+thymalfasin,124,64.0
+lonafarnib,124,64.0
+corticorelin ovine,124,64.0
+corticorelin,124,64.0
+alcuronium,122,65.0
+secretin human,122,65.0
+secretin porcine,122,65.0
+albiglutide,122,65.0
+calcitonin (pork natural),122,65.0
+enfuvirtide,122,65.0
+dasiglucagon,120,66.0
+brovanexine,120,66.0
+liraglutide,120,66.0
+paclitaxel,118,67.0
+docetaxel,118,67.0
+cabazitaxel,118,67.0
+vinorelbine,118,67.0
+vinflunine,118,67.0
+lefamulin,116,68.0
+gallium (68Ga) gozetotide,116,68.0
+vinblastine,116,68.0
+pramlintide,116,68.0
+vindesine,116,68.0
+lixisenatide,116,68.0
+vincristine,116,68.0
+retapamulin,116,68.0
+semaglutide,116,68.0
+voacamine,116,68.0
+anhydrovinblastine,116,68.0
+exenatide,114,69.0
+corticotropin,112,70.0
+seractide,112,70.0
+blonanserin,112,70.0
+vintafolide,110,71.0
+zinostatin,104,72.0
