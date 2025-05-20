@@ -20,29 +20,29 @@ class Metrics(Obj):
 
     def compute(self):
         #logging.debug("computing metrics")
-        self.data.y_validation=self.data.y_validation.flatten()
-        self.data.y_pred_validation=self.data.y_pred_validation.flatten()
-        self.data.y_pred_validation=np.round(self.data.y_pred_validation,0).astype(int)
+        self.data.y_test=self.data.y_test.flatten()
+        self.data.y_pred_test=self.data.y_pred_test.flatten()
+        self.data.y_pred_test=np.round(self.data.y_pred_test,0).astype(int)
 
         self.data.y_train=self.data.y_train.flatten()
         self.data.y_pred_train=self.data.y_pred_train.flatten()
         self.data.y_pred_train=np.round(self.data.y_pred_train,0).astype(int)
 
         tn_tr,fp_tr,fn_tr,tp_tr=metrics.confusion_matrix(self.data.y_train,self.data.y_pred_train).ravel()
-        tn_val,fp_val,fn_val,tp_val=metrics.confusion_matrix(self.data.y_validation,self.data.y_pred_validation).ravel()
+        tn_val,fp_val,fn_val,tp_val=metrics.confusion_matrix(self.data.y_test,self.data.y_pred_test).ravel()
 
         acc_train=metrics.accuracy_score(self.data.y_train,self.data.y_pred_train)
-        acc_val=metrics.accuracy_score(self.data.y_validation,self.data.y_pred_validation)
+        acc_val=metrics.accuracy_score(self.data.y_test,self.data.y_pred_test)
         
-        pre=metrics.precision_score(self.data.y_validation,self.data.y_pred_validation,labels=[0,1],zero_division=0.0)
-        rec=metrics.recall_score(self.data.y_validation,self.data.y_pred_validation,zero_division=0.0)
-        f1=metrics.f1_score(self.data.y_validation,self.data.y_pred_validation)
-        fpr,tpr,thresholds = metrics.roc_curve(self.data.y_validation,self.data.y_pred_validation)
+        pre=metrics.precision_score(self.data.y_test,self.data.y_pred_test,labels=[0,1],zero_division=0.0)
+        rec=metrics.recall_score(self.data.y_test,self.data.y_pred_test,zero_division=0.0)
+        f1=metrics.f1_score(self.data.y_test,self.data.y_pred_test)
+        fpr,tpr,thresholds = metrics.roc_curve(self.data.y_test,self.data.y_pred_test)
         auc=metrics.auc(fpr,tpr)
-        mcc=metrics.matthews_corrcoef(self.data.y_validation,self.data.y_pred_validation)
+        mcc=metrics.matthews_corrcoef(self.data.y_test,self.data.y_pred_test)
 
         ll_tr=metrics.log_loss(self.data.y_train,self.data.y_pred_train,labels=[0,1])
-        ll_val=metrics.log_loss(self.data.y_validation,self.data.y_pred_validation,labels=[0,1])
+        ll_val=metrics.log_loss(self.data.y_test,self.data.y_pred_test,labels=[0,1])
         
         self.met={}
         self.met["model"]=self.data.model

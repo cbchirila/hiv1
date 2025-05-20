@@ -25,12 +25,12 @@ class Data():
         self.x_train=np.array([])
         self.y_train=np.array([])        
         # 20% x,y or 25% x_w,y_w
-        self.x_test=np.array([])
-        self.y_test=np.array([])        
-        # 20% x,y
         self.x_validation=np.array([])
-        self.y_validation=np.array([])
-        self.y_pred_validation=np.array([])
+        self.y_validation=np.array([])        
+        # 20% x,y
+        self.x_test=np.array([])
+        self.y_test=np.array([])
+        self.y_pred_test=np.array([])
         self.model=""
         self.descriptor=None
         self.enzyme=None

@@ -45,6 +45,7 @@ class Model:
         self.prediction_t=Prediction(self.data)
         self.data.history=History(self.data)
 
+        # descriptor enzyme scaler split
         self.steps=3*3*2*4
         self.step=0
         #logging.info("iterating elements")
@@ -73,9 +74,9 @@ class Model:
         #logging.debug("scaled")
         #logging.debug(self.data.x[:10])
 
-        #logging.debug("splitting data for external validation")
+        #logging.debug("splitting data for external testing")
         self.data.x_sc,self.data.y=shuffle(self.data.x_sc,self.data.y,random_state=7)
-        self.data.x_w,self.data.x_validation,self.data.y_w,self.data.y_validation=train_test_split(self.data.x_sc,self.data.y,test_size=1/5,shuffle=False)
+        self.data.x_w,self.data.x_test,self.data.y_w,self.data.y_test=train_test_split(self.data.x_sc,self.data.y,test_size=1/5,shuffle=False)
 
         ###
         #dfxw=pd.DataFrame(self.data.x_w)
@@ -86,25 +87,26 @@ class Model:
         #dfyw.columns=["pIC50"]
         #dfyw.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work.csv",index=False)
         ###
-        #dfxh=pd.DataFrame(self.data.x_validation)
+        #dfxh=pd.DataFrame(self.data.x_test)
         #dfxh.columns=self.data.df.columns
-        #dfxh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_validation.csv",index=False)
+        #dfxh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_test.csv",index=False)
         ###
-        #dfyh=pd.DataFrame(self.data.y_validation)
+        #dfyh=pd.DataFrame(self.data.y_test)
         #dfyw.columns=["pIC50"]
-        #dfyh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_validation.csv",index=False)
+        #dfyh.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_test.csv",index=False)
         ###
 
         #logging.debug("training the data in stratified k folds")
         skf = StratifiedKFold(n_splits=4,shuffle=False)
         self.data.split=0
-        for train,test in skf.split(self.data.x_w,self.data.y_w):
+        # train, validation
+        for train,validation in skf.split(self.data.x_w,self.data.y_w):
             self.data.split+=1
 
             self.data.x_train=self.data.x_w[train]
             self.data.y_train=self.data.y_w[train]
-            self.data.x_test=self.data.x_w[test]
-            self.data.y_test=self.data.y_w[test]
+            self.data.x_validation=self.data.x_w[validation]
+            self.data.y_validation=self.data.y_w[validation]
 
             ###
             #dfxwtr=pd.DataFrame(self.data.x_train)
@@ -115,11 +117,11 @@ class Model:
             #dfywtr.columns=["pIC50"]
             #dfywtr.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-train"+".csv",index=False)
             ###
-            #dfxwte=pd.DataFrame(self.data.x_test)
+            #dfxwte=pd.DataFrame(self.data.x_test2)
             #dfxwte.columns=self.data.df.columns
             #dfxwte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
             ###
-            #dfywte=pd.DataFrame(self.data.y_test)
+            #dfywte=pd.DataFrame(self.data.y_test2)
             #dfywte.columns=["pIC50"]
             #dfywte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
             ###

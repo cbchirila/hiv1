@@ -1,6 +1,6 @@
 
-# Multi-Layer Perceptron
-# versiunea functionala pe straturi
+# Convolutional Neural Network
+# functional version with early stop
 # https://pub.aimind.so/never-use-restore-best-weights-true-with-earlystopping-754ba5f9b0c6
 
 import logging
@@ -18,25 +18,31 @@ from tensorflow import keras
 from keras import layers
 from keras import optimizers
 
-class MLP(Model):
+class CNN(Model):
 
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
-        self.name="mlp"
+        self.name="cnn"
         self.data.model=self.name
         return
 
     def build(self):
         inputs = keras.Input(shape=self.shape)
-        x = layers.Flatten()(inputs)
-        x = layers.Dropout(0.1)(x)
-        x = layers.Dense(self.size, activation='relu')(x)
-        x = layers.Dropout(0.2)(x)
-        x = layers.Dense(self.size, activation='relu')(x)
-        x = layers.Dropout(0.3)(x)
-        x = layers.Dense(self.size, activation='relu')(x)
-        x = layers.Dropout(0.2)(x)
-        outputs = layers.Dense(1, activation='sigmoid')(x)
+
+        x = layers.Conv1D(filters=6, kernel_size=7, padding="same")(inputs)
+        x = layers.BatchNormalization()(x)
+        x = keras.activations.relu(x)
+        x = layers.MaxPooling1D(pool_size=3)(x)
+
+        x = layers.Conv1D(filters=12, kernel_size=7, padding="same")(x)
+        x = layers.BatchNormalization()(x)
+        x = keras.activations.relu(x)
+        x = layers.MaxPooling1D(pool_size=3)(x)
+
+        x = layers.Flatten()(x)
+
+        x = layers.Dense(64, activation="relu")(x)
+        outputs = layers.Dense(1, activation="sigmoid")(x)
 
         model = keras.Model(inputs=inputs, outputs=outputs)
         model.compile(
@@ -50,8 +56,8 @@ class MLP(Model):
     def run(self,epochs):
         #logging.info("to transform from a single line to a line of columns")
         self.data.y_train=np.array([[v] for v in self.data.y_train])
-        self.data.y_test=np.array([[v] for v in self.data.y_test])
         self.data.y_validation=np.array([[v] for v in self.data.y_validation])
+        self.data.y_test=np.array([[v] for v in self.data.y_test])
         # iterating parameters if any
 
         #logging.debug("x_train")
@@ -68,7 +74,7 @@ class MLP(Model):
         #     monitor="val_loss", mode="min", save_best_only=True, verbose=1)
         self.data.t1=time.time()
         self.model=self.build()
-        h=self.model.fit(self.data.x_train,self.data.y_train,batch_size=16,epochs=epochs,verbose=0,validation_data=(self.data.x_test,self.data.y_test),callbacks=[es],shuffle=False)
+        h=self.model.fit(self.data.x_train,self.data.y_train,batch_size=16,epochs=epochs,verbose=0,validation_data=(self.data.x_validation,self.data.y_validation),callbacks=[es],shuffle=False)
         self.data.t2=time.time()
 
         #logging.debug("to add history")
@@ -101,10 +107,9 @@ def main():
     logging.info("run")
     data=Data("./train-ch/","chembl")
     predictions=[
-        Prediction(Data("./pred-dc","drugcentral"))
-    ]
+        Prediction(Data("./pred-dc","drugcentral"))]
 
-    model=MLP(data,predictions)
+    model=CNN(data,predictions)
     model.process_files(epochs)
     return
 

@@ -44,20 +44,20 @@ class Prediction(Obj):
         #     logging.debug("titles")
         #     logging.debug(self.data.titles[:5])
 
-        #logging.debug("copying the data from x to x_validation since x_validation is the variable used in the prediction sequence")
-        self.data.x_validation=self.data.x_sc
-        self.data.y_validation=self.data.y
+        #logging.debug("copying the data from x to x_test since x_test is the variable used in the prediction sequence")
+        self.data.x_test=self.data.x_sc
+        self.data.y_test=self.data.y
 
         #logging.debug("data_t.x")
         #logging.debug(data_t.x[:10])
 
-        #logging.debug("data.x_validation")
-        #logging.debug(self.data.x_validation[:10])
-        #logging.debug(self.data.x_validation.shape)
+        #logging.debug("data.x_test")
+        #logging.debug(self.data.x_test[:10])
+        #logging.debug(self.data.x_test.shape)
 
         #logging.debug("executing predictions "+self.data.descriptor+" "+self.data.sn+" "+str(self.data.split))
         self.data.t3=time.time()
-        self.data.y_pred_validation=model.predict(self.data.x_validation)
+        self.data.y_pred_test=model.predict(self.data.x_test)
         self.data.t4=time.time()
 
         self.data.x_train=data_t.x_train
@@ -65,18 +65,18 @@ class Prediction(Obj):
         self.data.y_pred_train=model.predict(self.data.x_train)
 
         predictions=pd.DataFrame()
-        l=len(self.data.y_pred_validation.flatten())
+        l=len(self.data.y_pred_test.flatten())
         predictions["title"]=pd.Series([self.data.titles[i] for i in range(l)])
         predictions["descriptor"]=pd.Series([self.data.descriptor for i in range(l)])
         predictions["enzyme"]=pd.Series([self.data.enzyme for i in range(l)])
         predictions["scaler"]=pd.Series([self.data.sn for i in range(l)])
         predictions["split"]=pd.Series([self.data.split for i in range(l)])
         predictions["signature"]=pd.Series([self.data.sign for i in range(l)])
-        predictions["y_validation"]=pd.Series(self.data.y_validation.flatten())
+        predictions["y_test"]=pd.Series(self.data.y_test.flatten())
 
-        predictions["y_pred_validation"]=pd.Series(self.data.y_pred_validation.flatten())
-        y_pred_validation_int=np.round(self.data.y_pred_validation,0).astype(int)
-        predictions["y_pred_validation_int"]=pd.Series(y_pred_validation_int.flatten())
+        predictions["y_pred_test"]=pd.Series(self.data.y_pred_test.flatten())
+        y_pred_test_int=np.round(self.data.y_pred_test,0).astype(int)
+        predictions["y_pred_test_int"]=pd.Series(y_pred_test_int.flatten())
         
         self.df=pd.concat([self.df,predictions],ignore_index=True)
 
@@ -84,12 +84,12 @@ class Prediction(Obj):
         #     logging.debug("length "+str(l))
         #     logging.debug(self.df.head())
 
-        #logging.debug(self.data.y_validation.flatten()[:10])
-        #logging.debug(self.data.y_pred_validation.flatten()[:10])
-        #logging.debug(y_pred_validation_int[:10])
+        #logging.debug(self.data.y_test.flatten()[:10])
+        #logging.debug(self.data.y_pred_test.flatten()[:10])
+        #logging.debug(y_pred_test_int[:10])
         #logging.debug(self.metrics.met)
 
-        #logging.debug("computing metrics comparing y_validation with y_pred_validation")
+        #logging.debug("computing metrics comparing y_test with y_pred_test")
         if(len(self.data.y)>0):
             self.metrics.compute()
         return
