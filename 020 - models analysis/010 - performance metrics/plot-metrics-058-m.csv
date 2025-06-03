@@ -1,4 +1,4 @@
-Model,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
+te_,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
 RFC,0.9664,0.9737,0.9629,0.9698,0.9203,0.8781
 MLP,0.9472,0.9491,0.9364,0.9478,0.8886,0.7967
 CNN,0.9319,0.9565,0.9316,0.9438,0.8698,0.7846

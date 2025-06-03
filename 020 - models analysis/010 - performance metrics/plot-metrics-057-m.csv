@@ -1,4 +1,4 @@
-Model,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
+te_,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
 ABC,0.8199,0.8842,0.8141,0.8444,0.6337,0.3019
 CNN,0.9319,0.9565,0.9316,0.9438,0.8698,0.7846
 DTC,0.9132,0.9268,0.9033,0.918,0.8336,0.6932

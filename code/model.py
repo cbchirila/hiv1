@@ -119,11 +119,11 @@ class Model:
             ###
             #dfxwte=pd.DataFrame(self.data.x_test2)
             #dfxwte.columns=self.data.df.columns
-            #dfxwte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
+            #dfxwte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"x_work"+"-"+str(self.data.split)+"-validation"+".csv",index=False)
             ###
             #dfywte=pd.DataFrame(self.data.y_test2)
             #dfywte.columns=["pIC50"]
-            #dfywte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-test"+".csv",index=False)
+            #dfywte.to_csv("./train-ch/data-decomposed/"+enzyme+"-"+descriptor+"-"+"y_work"+"-"+str(self.data.split)+"-validation"+".csv",index=False)
             ###
 
             self.step+=1

@@ -1,4 +1,4 @@
-Model,Enzyme,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
+te_,Enzyme,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
 RFC,PR,0.9822,0.9968,0.9803,0.9894,0.8825,0.8445
 CNN,PR,0.9728,0.9957,0.9702,0.9841,0.8193,0.753
 MLP,PR,0.9775,0.9903,0.9697,0.9838,0.8481,0.7525

@@ -32,7 +32,7 @@ class Metrics(Obj):
         tn_val,fp_val,fn_val,tp_val=metrics.confusion_matrix(self.data.y_test,self.data.y_pred_test).ravel()
 
         acc_train=metrics.accuracy_score(self.data.y_train,self.data.y_pred_train)
-        acc_val=metrics.accuracy_score(self.data.y_test,self.data.y_pred_test)
+        acc_test=metrics.accuracy_score(self.data.y_test,self.data.y_pred_test)
         
         pre=metrics.precision_score(self.data.y_test,self.data.y_pred_test,labels=[0,1],zero_division=0.0)
         rec=metrics.recall_score(self.data.y_test,self.data.y_pred_test,zero_division=0.0)
@@ -56,19 +56,19 @@ class Metrics(Obj):
         self.met["tr_tn"]=tn_tr
         self.met["tr_fn"]=fn_tr
 
-        self.met["va_tp"]=tp_val
-        self.met["va_fp"]=fp_val
-        self.met["va_tn"]=tn_val
-        self.met["va_fn"]=fn_val
+        self.met["te_tp"]=tp_val
+        self.met["te_fp"]=fp_val
+        self.met["te_tn"]=tn_val
+        self.met["te_fn"]=fn_val
 
         self.met["tr_accuracy"]=acc_train
-        self.met["va_accuracy"]=acc_val
+        self.met["te_accuracy"]=acc_test
 
-        self.met["va_precision"]=pre
-        self.met["va_recall"]=rec
-        self.met["va_f1"]=f1
-        self.met["va_auc"]=auc
-        self.met["va_mcc"]=mcc
+        self.met["te_precision"]=pre
+        self.met["te_recall"]=rec
+        self.met["te_f1"]=f1
+        self.met["te_auc"]=auc
+        self.met["te_mcc"]=mcc
 
         self.met["tr_loss"]=ll_tr
         self.met["va_loss"]=ll_val
