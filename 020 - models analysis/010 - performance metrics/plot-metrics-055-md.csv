@@ -1,4 +1,4 @@
-te_,Descriptor,va_precision,va_recall,va_accuracy,va_f1,va_auc,va_mcc
+Model,Descriptor,te_precision,te_recall,te_accuracy,te_f1,te_auc,te_mcc
 ABC,PC,0.8139,0.8921,0.8138,0.8465,0.6395,0.3173
 ABC,ECFP4,0.8202,0.8756,0.8095,0.8383,0.6121,0.2481
 ABC,MIX,0.8256,0.8849,0.8189,0.8483,0.6494,0.3404
