@@ -1,0 +1,25 @@
+enzyme,title,rfc,knn,mlp,svc
+RT,nevirapine,39.0,33.0,2.0,44.0
+RT,doravirine,22.0,34.0,1.0,15.0
+RT,etravirine,10.0,25.0,1.0,30.0
+RT,stavudine,41.0,45.0,1.0,24.0
+RT,abacavir,41.0,43.0,1.0,12.0
+RT,zidovudine,41.0,43.0,1.0,33.0
+RT,efavirenz,41.0,33.0,1.0,27.0
+RT,rilpivirine,28.0,24.0,1.0,12.0
+RT,ethacridine,41.0,41.0,2.0,71.0
+RT,doxorubicin,34.0,33.0,3.0,57.0
+RT,tenofovir,41.0,47.0,1.0,18.0
+RT,elvitegravir,33.0,33.0,1.0,105.0
+RT,foscarnet,80.0,45.0,2.0,88.0
+RT,delavirdine,5.0,33.0,3.0,82.0
+RT,primaquine,40.0,57.0,3.0,99.0
+RT,oleic acid,41.0,53.0,2.0,94.0
+RT,tenofovir alafenamide,20.0,27.0,1.0,15.0
+RT,cabotegravir,39.0,25.0,3.0,83.0
+RT,tenofovir disoproxil,38.0,40.0,1.0,41.0
+RT,entecavir,41.0,41.0,7.0,99.0
+RT,emtricitabine,41.0,55.0,1.0,80.0
+RT,didanosine,41.0,37.0,3.0,57.0
+RT,zalcitabine,41.0,41.0,2.0,106.0
+RT,lamivudine,41.0,42.0,3.0,99.0

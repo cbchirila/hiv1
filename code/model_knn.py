@@ -20,7 +20,7 @@ class KNN(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="knn"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self,n_neighbors=5,weights="uniform",algorithm="auto"):
@@ -40,7 +40,7 @@ class KNN(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=self.fix4ch(str(p["n_neighbors"]))+"-"+p["weights"]+"-"+p["algorithm"]
-            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.scalerName+" "+str(self.data.split)+" "+self.data.sign)
 
             #logging.debug("x_train")
             #logging.debug(self.data.x_train[:10])

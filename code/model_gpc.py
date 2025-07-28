@@ -26,7 +26,7 @@ class GPC(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="gpc"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self,kernel=1.0 * RBF(1.0)):
@@ -55,7 +55,7 @@ class GPC(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=p["kernel"]
-            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split))
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.scalerName+" "+str(self.data.split))
 
             #logging.debug("x_train")
             #logging.debug(self.data.x_train[:10])

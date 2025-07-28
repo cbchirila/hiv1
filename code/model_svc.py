@@ -20,7 +20,7 @@ class SVC(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="svc"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self,kernel="rbf",degree=3,C=1.0):
@@ -40,7 +40,7 @@ class SVC(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=self.fix4ch(str(p["C"]))+"-"+str(p["degree"])+"-"+p["kernel"]
-            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.scalerName+" "+str(self.data.split)+" "+self.data.sign)
 
             # logging.info("x_train")
             # logging.info(self.data.x_train.shape)

@@ -21,11 +21,11 @@ class ABC(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="abc"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self,estimator=DecisionTreeClassifier(max_depth=1),n_estimators=50,learning_rate=1.0):
-        return AdaBoostClassifier(estimator=estimator,n_estimators=n_estimators,learning_rate=learning_rate,random_state=7)
+        return AdaBoostClassifier(algorithm='SAMME',estimator=estimator,n_estimators=n_estimators,learning_rate=learning_rate,random_state=7)
     
     # running the model    
     def run(self,epochs=0):
@@ -41,7 +41,7 @@ class ABC(Model):
         for p in list(ParameterGrid(grid)):
             self.data.params=p
             self.data.sign=f"{p['estimator']}-{p['n_estimators']}-{p['learning_rate']}"
-            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.sn+" "+str(self.data.split)+" "+self.data.sign)
+            logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.scalerName+" "+str(self.data.split)+" "+self.data.sign)
 
             #logging.debug("x_train")
             #logging.debug(self.data.x_train[:10])
@@ -79,7 +79,6 @@ def main():
     else:
         logging.info("running on cpu / no gpu")
     
-
     logging.info("run")
     data=Data("./train-ch/","chembl")
     predictions=[

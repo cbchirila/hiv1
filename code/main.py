@@ -2,11 +2,13 @@ import datetime
 import logging
 import socket
 import sys
+from obj import create_directory
 
 def config_log(model):
+	create_directory("./logs/")
 	logging.root.handlers = []
 	logging.basicConfig(
-		level=logging.DEBUG,
+		level=logging.INFO,
 		format="%(asctime)s [%(levelname)s] %(message)s",    
 		handlers=[
 			logging.FileHandler("./logs/hiv1"+
@@ -17,41 +19,40 @@ def config_log(model):
 			logging.StreamHandler(sys.stdout),
 		]
 	)
+	logging.getLogger("matplotlib").setLevel(logging.WARNING)
 	logging.info("machine "+socket.gethostname().lower())
 	return
 
 def main():
-    config_log("abc")
-    import model_abc as model_abc
+	config_log("abc")
+	import model_abc as model_abc
 
-    config_log("cnn")
-    import model_cnn as model_cnn
+	config_log("cnn")
+	import model_cnn as model_cnn
 
-    config_log("dtc")
-    import model_dtc as model_dtc
+	config_log("dtc")
+	import model_dtc as model_dtc
 
-    config_log("gnb")
-    import model_gnb as model_gnb
+	config_log("gnb")
+	import model_gnb as model_gnb
 
-    config_log("gpc")
-    import model_gpc as model_gpc
+	config_log("gpc")
+	import model_gpc as model_gpc
 
-    config_log("knn")
-    import model_knn as model_knn
+	config_log("knn")
+	import model_knn as model_knn
 
-    config_log("mlp")
-    import model_mlp as model_mlp
+	config_log("mlp")
+	import model_mlp as model_mlp
 
-    config_log("qda")
-    import model_qda as model_qda
+	config_log("qda")
+	import model_qda as model_qda
 
-    config_log("rfc")
-    import model_rfc as model_rfc
+	config_log("rfc")
+	import model_rfc as model_rfc
 
-    config_log("svc")
-    import model_svc as model_svc
-
-    return
+	config_log("svc")
+	import model_svc as model_svc
+	return
 
 main()
-

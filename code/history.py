@@ -6,9 +6,9 @@ import os
 import pandas as pd
 import socket
 
-from obj import Obj
+from obj import create_directory
 
-class History(Obj):
+class History():
 
     def __init__(self,data):
         self.data=data
@@ -19,7 +19,7 @@ class History(Obj):
         df_h=pd.DataFrame(h)
         df_h["descriptor"]=pd.Series([self.data.descriptor for i in range(len(df_h))])
         df_h["enzyme"]=pd.Series([self.data.enzyme for i in range(len(df_h))])
-        df_h["scaler"]=pd.Series([self.data.sn for i in range(len(df_h))])
+        df_h["scaler"]=pd.Series([self.data.scalerName for i in range(len(df_h))])
         df_h["split"]=pd.Series([self.data.split for i in range(len(df_h))])
         df_h["sign"]=pd.Series([self.data.sign for i in range(len(df_h))])
         self.df=self.df._append(df_h)
@@ -29,8 +29,8 @@ class History(Obj):
         return
 
     def save(self):
-        self.create_directory(self.data.root+"/history/")
-        self.df.to_csv(self.data.root+"/history/"+self.data.model+"-acc-loss-hist.csv",index=False)
+        create_directory(self.data.root+"/history/")
+        self.df.to_csv(self.data.root+"/history/"+self.data.modelName+"-acc-loss-hist.csv",index=False)
         return
 
     def plot(self,h):
@@ -39,14 +39,14 @@ class History(Obj):
         plt.plot(h["val_binary_accuracy"])
         plt.plot(h["val_loss"])
 
-        plt.title(self.data.model.upper()+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.sn+" "+str(self.data.split))
+        plt.title(self.data.modelName.upper()+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.scalerName+" "+str(self.data.split))
         plt.ylabel("Accuracy/Loss")
         plt.xlabel("Epoch")
         plt.legend(["Train Acc", "Train Loss", "Val. Acc", "Val. Loss"], loc="upper left")
 
-        self.create_directory(self.data.root+"/history-plots/"+self.data.model+"/")
+        create_directory(self.data.root+"/history-plots/"+self.data.modelName+"/")
         self.save_fig(self.data.root+"/history-plots/"+
-        self.data.model+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.sn+"-"+str(self.data.split)+
+        self.data.modelName+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.modelName+"-"+self.data.scalerName+"-"+str(self.data.split)+
         "-acc-loss"+
         #datetime.datetime.now().strftime("%Y.%m.%d-%H.%M.%S")+"-"+socket.gethostname().lower()+
         "")
@@ -60,7 +60,7 @@ class History(Obj):
 
     def clean(self):
         r=self.data.root
-        m=self.data.model
+        m=self.data.modelName
         p=r+"/history/"+m+"-acc-loss-hist-ch.csv"
         if os.path.exists(p):
             os.remove(p)

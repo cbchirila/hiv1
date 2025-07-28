@@ -20,7 +20,7 @@ class Test(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="tst"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
     
     # running the model    

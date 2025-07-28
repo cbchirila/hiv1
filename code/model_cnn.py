@@ -23,7 +23,7 @@ class CNN(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="cnn"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self):
@@ -57,7 +57,6 @@ class CNN(Model):
         #logging.info("to transform from a single line to a line of columns")
         self.data.y_train=np.array([[v] for v in self.data.y_train])
         self.data.y_validation=np.array([[v] for v in self.data.y_validation])
-        self.data.y_test=np.array([[v] for v in self.data.y_test])
         # iterating parameters if any
 
         #logging.debug("x_train")

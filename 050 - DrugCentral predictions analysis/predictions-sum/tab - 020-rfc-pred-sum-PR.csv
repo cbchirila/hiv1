@@ -1,0 +1,4100 @@
+title,sum,rank
+cetrorelix,80,1.0
+depreotide,80,1.0
+felypressin,80,1.0
+angiotensinamide,80,1.0
+ornipressin,80,1.0
+abarelix,80,1.0
+buserelin,80,1.0
+gonadorelin,80,1.0
+eledoisin,80,1.0
+sincalide,80,1.0
+tenapanor,80,1.0
+histrelin,80,1.0
+lypressin,80,1.0
+leuprorelin,80,1.0
+terlipressin,80,1.0
+micafungin,80,1.0
+ceruletide,80,1.0
+icatibant,80,1.0
+vasopressin,80,1.0
+angiotensin II,80,1.0
+goserelin,80,1.0
+nafarelin,80,1.0
+desmopressin,80,1.0
+triptorelin,80,1.0
+copper dotatate Cu-64,80,1.0
+setmelanotide,79,2.0
+fidaxomicin,79,2.0
+vancomycin,79,2.0
+quinupristin,79,2.0
+lanreotide,79,2.0
+pasireotide,79,2.0
+candicidin,79,2.0
+eritoran,78,3.0
+oxytocin,78,3.0
+linaclotide,77,4.0
+octreotide,77,4.0
+dactinomycin,77,4.0
+ganirelix,76,5.0
+peplomycin,76,5.0
+solasulfone,76,5.0
+anidulafungin,75,6.0
+elobixibat,75,6.0
+suramin,75,6.0
+temsirolimus,74,7.0
+nystatin,74,7.0
+evans blue,74,7.0
+ceftaroline fosamil,73,8.0
+atosiban,72,9.0
+fondaparinux,72,9.0
+teicoplanin aglycone,71,10.0
+bremelanotide,71,10.0
+caspofungin,70,11.0
+ridaforolimus,70,11.0
+amphotericin B,70,11.0
+voclosporin,70,11.0
+ciclosporin,70,11.0
+ombitasvir,70,11.0
+pibrentasvir,70,11.0
+demoxytocin,70,11.0
+mifamurtide,70,11.0
+trypan blue,69,12.0
+everolimus,69,12.0
+plicamycin,69,12.0
+carbetocin,68,13.0
+venetoclax,68,13.0
+iotrolan,68,13.0
+ritonavir,67,14.0
+gitoformate,67,14.0
+cefpimizole,67,14.0
+anazolene,66,15.0
+ceftobiprole medocaril,66,15.0
+cefotiam hexetil,65,16.0
+lanatoside C,65,16.0
+cobicistat,65,16.0
+zotarolimus,65,16.0
+saralasin,65,16.0
+cefsulodin,64,17.0
+cefoperazone,63,18.0
+mydecamycin,63,18.0
+bisbentiamine,62,19.0
+etelcalcetide,62,19.0
+somatostatin,62,19.0
+temocapril,62,19.0
+iodixanol,62,19.0
+rifaximin,62,19.0
+velpatasvir,61,20.0
+eluxadoline,61,20.0
+eptifibatide,61,20.0
+cefpiramide,61,20.0
+josamycin,61,20.0
+cefamandole nafate,60,21.0
+cefazolin,60,21.0
+cefamandole,60,21.0
+sulfobromophthalein,60,21.0
+phthalylsulfathiazole,60,21.0
+cefodizime,60,21.0
+cargutocin,60,21.0
+sulfamazone,60,21.0
+benzthiazide,60,21.0
+cefditoren pivoxil,59,22.0
+rokitamycin,59,22.0
+avatrombopag,59,22.0
+cefiderocol,59,22.0
+cefatrizine,59,22.0
+telavancin,59,22.0
+cefonicid,59,22.0
+sitaxentan,59,22.0
+cefazedone,59,22.0
+zofenopril,58,23.0
+pentagastrin,58,23.0
+spirapril,58,23.0
+atazanavir,58,23.0
+lucimycin,57,24.0
+ceforanide,57,24.0
+doxacurium,57,24.0
+sirolimus,57,24.0
+ceftazidime,57,24.0
+elagolix,57,24.0
+miocamycin,56,25.0
+plecanatide,56,25.0
+Spiramycin III,56,25.0
+cabazitaxel,56,25.0
+brilliant Blue G,56,25.0
+vincristine,56,25.0
+relugolix,56,25.0
+cefteram pivoxil,56,25.0
+ceftezole,56,25.0
+ledipasvir,55,26.0
+rifapentine,55,26.0
+deslanoside,55,26.0
+docetaxel,55,26.0
+oritavancin,55,26.0
+ripretinib,55,26.0
+simeprevir,55,26.0
+proglumetacin,55,26.0
+mivacurium,55,26.0
+cefotetan,55,26.0
+indocyanine green,55,26.0
+daptomycin,55,26.0
+betadex,54,27.0
+cefuzonam,54,27.0
+degarelix,54,27.0
+cefozopran,54,27.0
+cefaloridine,54,27.0
+romurtide,54,27.0
+sulisatin,54,27.0
+apalcillin,54,27.0
+bemetizide,53,28.0
+cefpirome,53,28.0
+quizartinib,53,28.0
+gallium (68Ga) gozetotide,53,28.0
+glycyrrhizic acid,53,28.0
+baicalin,53,28.0
+tartrazine,53,28.0
+dabrafenib,53,28.0
+benzylhydrochlorothiazide,52,29.0
+tropesin,52,29.0
+Spiramycin II,52,29.0
+spiclomazine,52,29.0
+paritaprevir,52,29.0
+cangrelor,52,29.0
+rifampicin,52,29.0
+cromoglicic acid,51,30.0
+remdesivir,51,30.0
+azosemide,51,30.0
+darunavir,51,30.0
+fosamprenavir,51,30.0
+natamycin,51,30.0
+montelukast,51,30.0
+paclitaxel,51,30.0
+mezlocillin,51,30.0
+sulbenicillin,51,30.0
+zorubicin,51,30.0
+vinblastine,50,31.0
+afamelanotide,50,31.0
+vindesine,50,31.0
+lifitegrast,50,31.0
+carindacillin,50,31.0
+macitentan,50,31.0
+bivalirudin,50,31.0
+ergotamine,50,31.0
+alsactide,50,31.0
+tenofovir alafenamide,50,31.0
+aclarubicin,50,31.0
+cefmenoxime,50,31.0
+talampicillin,50,31.0
+bosentan,50,31.0
+atorvastatin,49,32.0
+ritiometan,49,32.0
+glucosulfone,49,32.0
+omapatrilat,49,32.0
+zafirlukast,49,32.0
+diquafosol,49,32.0
+letermovir,49,32.0
+meticillin,49,32.0
+afatinib,49,32.0
+doripenem,49,32.0
+arotinolol,49,32.0
+cloxacillin,49,32.0
+nemonapride,49,32.0
+elbasvir,49,32.0
+melarsoprol,48,33.0
+cefteram,48,33.0
+fenbenicillin,48,33.0
+azilsartan medoxomil,48,33.0
+ceftriaxone,48,33.0
+floxacillin,48,33.0
+dicloxacillin,48,33.0
+pranlukast,48,33.0
+fostemsavir,48,33.0
+taurolidine,48,33.0
+indigo carmine,48,33.0
+methotrexate,48,33.0
+amprenavir,48,33.0
+netarsudil,48,33.0
+cystine,48,33.0
+famotidine,47,34.0
+serdexmethylphenidate,47,34.0
+betiatide,47,34.0
+cefotiam,47,34.0
+pipotiazine palmitate,47,34.0
+dihydroergocristine,47,34.0
+mirabegron,47,34.0
+vibegron,47,34.0
+nedocromil,47,34.0
+ceftibuten,47,34.0
+vemurafenib,47,34.0
+asunaprevir,47,34.0
+benazepril,47,34.0
+dalbavancin,47,34.0
+romidepsin,47,34.0
+regorafenib,47,34.0
+fosnetupitant,47,34.0
+tipranavir,47,34.0
+vintafolide,46,35.0
+zinostatin,46,35.0
+ziconotide,46,35.0
+pazufloxacin,46,35.0
+aldesulfone,46,35.0
+valrubicin,46,35.0
+dihydroergotamine,46,35.0
+acetyldigoxin,46,35.0
+enarodustat,46,35.0
+clobuzarit,46,35.0
+dorzolamide,46,35.0
+cefalotin,46,35.0
+nilotinib,46,35.0
+raltitrexed,46,35.0
+ambrisentan,46,35.0
+carfecillin,46,35.0
+pirarubicin,46,35.0
+bisantrene,46,35.0
+rifabutin,46,35.0
+anhydrovinblastine,46,35.0
+metolazone,46,35.0
+metopimazine,46,35.0
+thiethylperazine,45,36.0
+sulfachrysoidine,45,36.0
+trichlormethiazide,45,36.0
+letosteine,45,36.0
+ceftolozane,45,36.0
+tetracosactide,45,36.0
+cefathiamidine,45,36.0
+spaglumic acid,45,36.0
+ibandronic acid,45,36.0
+elexacaftor,45,36.0
+enalaprilat,45,36.0
+ibrexafungerp,45,36.0
+oxaceprol,45,36.0
+voxilaprevir,45,36.0
+zanamivir,45,36.0
+arsthinol,45,36.0
+sotorasib,45,36.0
+gluconic acid,45,36.0
+cefoselis,45,36.0
+itraconazole,45,36.0
+amino(diphenylhydantoin) valeric acid,45,36.0
+metofenazate,45,36.0
+parecoxib,45,36.0
+casopitant,45,36.0
+sultamicillin,45,36.0
+imidafenacin,45,36.0
+aclidinium bromide,45,36.0
+tibezonium,45,36.0
+pralmorelin,45,36.0
+trabectedin,45,36.0
+selpercatinib,45,36.0
+losartan,45,36.0
+antimony pentasulfide,45,36.0
+thioridazine,45,36.0
+tazemetostat,45,36.0
+etoposide phosphate,45,36.0
+teclothiazide,45,36.0
+carfilzomib,45,36.0
+lurbinectedin,45,36.0
+nadide,45,36.0
+piretanide,45,36.0
+racecadotril,45,36.0
+vorapaxar,45,36.0
+bumetanide,45,36.0
+pemafibrate,45,36.0
+naldemedine,45,36.0
+sugammadex,45,36.0
+tybamate,45,36.0
+dalfopristin,45,36.0
+rolapitant,45,36.0
+sorafenib,44,37.0
+tiotropium bromide,44,37.0
+vinflunine,44,37.0
+vaniprevir,44,37.0
+osimertinib,44,37.0
+aceglutamide,44,37.0
+disufenton,44,37.0
+cyclopenthiazide,44,37.0
+darifenacin,44,37.0
+imatinib,44,37.0
+succinylsulfathiazole,44,37.0
+taurosteine,44,37.0
+mosapramine,44,37.0
+dofetilide,44,37.0
+oxacillin,44,37.0
+bendroflumethiazide,44,37.0
+alanyl glutamine,44,37.0
+ethoxzolamide,44,37.0
+cefbuperazone,44,37.0
+lornoxicam,44,37.0
+meticrane,44,37.0
+flumethiazide,44,37.0
+cefmetazole,44,37.0
+roxithromycin,44,37.0
+cefapirin,44,37.0
+cyclothiazide,44,37.0
+tenoxicam,44,37.0
+morazone,44,37.0
+tinofedrine,44,37.0
+amenamevir,44,37.0
+sofosbuvir,44,37.0
+epalrestat,44,37.0
+clorexolone,44,37.0
+quinapril,44,37.0
+metampicillin,44,37.0
+chloramphenicol succinate,44,37.0
+eprosartan,44,37.0
+epitizide,44,37.0
+altizide,44,37.0
+flomoxef,44,37.0
+captodiame,44,37.0
+axitinib,44,37.0
+glisentide,44,37.0
+clebopride,44,37.0
+meglutol,44,37.0
+erdosteine,44,37.0
+selexipag,44,37.0
+olmutinib,44,37.0
+olmesartan medoxomil,44,37.0
+troxerutin,44,37.0
+fenticonazole,44,37.0
+valdecoxib,44,37.0
+iocarmic acid,44,37.0
+lisinopril,43,38.0
+maraviroc,43,38.0
+metipamide,43,38.0
+candesartan cilexetil,43,38.0
+unithiol,43,38.0
+sulfametrole,43,38.0
+lenvatinib,43,38.0
+carumonam,43,38.0
+flutropium,43,38.0
+udenafil,43,38.0
+tribuzone,43,38.0
+ebrotidine,43,38.0
+cefpodoxime proxetil,43,38.0
+enasidenib,43,38.0
+chlorothiazide,43,38.0
+ubrogepant,43,38.0
+cefcapene pivoxil,43,38.0
+lopinavir,43,38.0
+telotristat ethyl,43,38.0
+mebutizide,43,38.0
+oftasceine,43,38.0
+pipamazine,43,38.0
+clocapramine,43,38.0
+darolutamide,43,38.0
+ambuside,43,38.0
+novobiocin,43,38.0
+xipamide,43,38.0
+cefminox,43,38.0
+isavuconazonium,43,38.0
+bucillamine,43,38.0
+hexcarbacholine,43,38.0
+copanlisib,43,38.0
+cefetamet pivoxil,43,38.0
+delapril,43,38.0
+stepronin,43,38.0
+tiagabine,43,38.0
+amtolmetin guacil,43,38.0
+glyconiazide,43,38.0
+hydrochlorothiazide,43,38.0
+pheneticillin,43,38.0
+sultosilic acid,43,38.0
+subathizone,43,38.0
+fenquizone,43,38.0
+pazopanib,43,38.0
+metergoline,43,38.0
+infigratinib,43,38.0
+indapamide,43,38.0
+hydroxyproline,43,38.0
+conivaptan,43,38.0
+avanafil,43,38.0
+butazolamide,43,38.0
+ceftizoxime,43,38.0
+Spiramycin I,43,38.0
+vaborbactam,43,38.0
+glybuzole,43,38.0
+disulfamide,43,38.0
+sulprostone,43,38.0
+butizide,43,38.0
+fosfestrol,43,38.0
+prednisolone sulfobenzoate,43,38.0
+succimer,43,38.0
+benfotiamine,43,38.0
+diseptal B,43,38.0
+pantoprazole,43,38.0
+tiazofurine,43,38.0
+polythiazide,42,39.0
+cefetamet,42,39.0
+lascufloxacin,42,39.0
+fosphenytoin,42,39.0
+ubenimex,42,39.0
+daclatasvir,42,39.0
+dacomitinib,42,39.0
+meloxicam,42,39.0
+cefepime,42,39.0
+bisoctrizole,42,39.0
+etersalate,42,39.0
+ramatroban,42,39.0
+sulbutiamine,42,39.0
+temocillin,42,39.0
+lorajmine,42,39.0
+edetic acid,42,39.0
+bortezomib,42,39.0
+repaglinide,42,39.0
+tenofovir,42,39.0
+rimonabant,42,39.0
+cefcapene,42,39.0
+garenoxacin,42,39.0
+raltegravir,42,39.0
+bisorcic,42,39.0
+aminopterin,42,39.0
+menadiol sulfate,42,39.0
+midostaurin,42,39.0
+mazaticol,42,39.0
+delavirdine,42,39.0
+omidenepag isopropyl,42,39.0
+ampicillin,42,39.0
+ioglycamic acid,42,39.0
+thioproperazine,42,39.0
+iobenzamic acid,42,39.0
+acalabrutinib,42,39.0
+talinolol,42,39.0
+oxycinchophen,42,39.0
+cilazapril,42,39.0
+carglumic acid,42,39.0
+grazoprevir,42,39.0
+canagliflozin,42,39.0
+capecitabine,42,39.0
+cefotaxime,42,39.0
+carpipramine,42,39.0
+nipradilol,42,39.0
+cyclarbamate,42,39.0
+ecamsule,42,39.0
+phosphocreatine,42,39.0
+fostamatinib,42,39.0
+cinnoxicam,41,40.0
+moxidectin,41,40.0
+olodaterol,41,40.0
+droxidopa,41,40.0
+sulmarin,41,40.0
+rosuvastatin,41,40.0
+glibenclamide,41,40.0
+ramipril,41,40.0
+camazepam,41,40.0
+zipeprol,41,40.0
+glecaprevir,41,40.0
+bromocriptine,41,40.0
+telithromycin,41,40.0
+telaprevir,41,40.0
+sulfasomizole,41,40.0
+cynarine,41,40.0
+myrophine,41,40.0
+cafedrine,41,40.0
+suclofenide,41,40.0
+lincomycin,41,40.0
+mycophenolic acid,41,40.0
+lonazolac,41,40.0
+ranolazine,41,40.0
+zanubrutinib,41,40.0
+lomitapide,41,40.0
+nafcillin,41,40.0
+Florbetapir F-18,41,40.0
+proxyphylline,41,40.0
+cisatracurium,41,40.0
+dronedarone,41,40.0
+lidofenin,41,40.0
+carisoprodol,41,40.0
+roxadustat,41,40.0
+limaprost,41,40.0
+fenbufen,41,40.0
+felbinac,41,40.0
+butoconazole,41,40.0
+carbenicillin,41,40.0
+radotinib,41,40.0
+canfosfamide,41,40.0
+gliquidone,41,40.0
+ruboxistaurin,41,40.0
+clavulanic acid,41,40.0
+lobeglitazone,41,40.0
+benzylpenicillin,41,40.0
+telmisartan,41,40.0
+macimorelin,41,40.0
+iodoxamic acid,41,40.0
+trandolapril,41,40.0
+ponesimod,41,40.0
+vadadustat,41,40.0
+tolvaptan,41,40.0
+pralsetinib,41,40.0
+alloclamide,41,40.0
+disofenin,41,40.0
+chloramphenicol,41,40.0
+atracurium,41,40.0
+fentiazac,41,40.0
+alizapride,41,40.0
+lapatinib,41,40.0
+dexpanthenol,41,40.0
+fosaprepitant,41,40.0
+octotiamine,41,40.0
+estramustine phosphate,41,40.0
+brinzolamide,41,40.0
+azelnidipine,41,40.0
+imipenem,41,40.0
+remoxipride,41,40.0
+azlocillin,41,40.0
+lysine,41,40.0
+tirbanibulin,41,40.0
+valsartan,41,40.0
+panipenem,41,40.0
+eltrombopag,41,40.0
+difenoxin,41,40.0
+piflufolastat F-18,41,40.0
+piketoprofen,41,40.0
+mebrofenin,41,40.0
+diperodon,41,40.0
+saroglitazar,41,40.0
+dinoprostone,41,40.0
+dinoprost,41,40.0
+enfenamic acid,41,40.0
+troglitazone,41,40.0
+flavoxate,41,40.0
+flavodic acid,41,40.0
+enprostil,41,40.0
+enviomycin,41,40.0
+selinexor,41,40.0
+mefruside,41,40.0
+enalapril,41,40.0
+perindopril,41,40.0
+rifamycin,41,40.0
+epicriptine,41,40.0
+saquinavir,41,40.0
+riboflavin phosphate,41,40.0
+epoprostenol,41,40.0
+fexofenadine,41,40.0
+ioxaglic acid,41,40.0
+nintedanib,41,40.0
+triamcinolone benetonide,41,40.0
+revefenacin,41,40.0
+fosinopril,41,40.0
+betamethasone benzoate,41,40.0
+tioclomarol,41,40.0
+benzylsulfamide,41,40.0
+cefoxitin,41,40.0
+beraprost,41,40.0
+metildigoxin,41,40.0
+thiamphenicol glycinate,41,40.0
+clinofibrate,41,40.0
+cerivastatin,41,40.0
+betrixaban,41,40.0
+tezacaftor,41,40.0
+etofylline clofibrate,41,40.0
+rivaroxaban,41,40.0
+delafloxacin,41,40.0
+cinchophen,41,40.0
+sacubitril,41,40.0
+deferasirox,41,40.0
+binifibrate,41,40.0
+micinicate,41,40.0
+biotin,41,40.0
+fudosteine,41,40.0
+acetyldigitoxin,41,40.0
+voriconazole,41,40.0
+terguride,41,40.0
+boceprevir,41,40.0
+levocabastine,41,40.0
+temoporfin,41,40.0
+xenysalate,41,40.0
+leteprinim,41,40.0
+clindamycin phosphate,41,40.0
+vesnarinone,41,40.0
+benzyl benzoate,41,40.0
+adipiodone,41,40.0
+tigemonam,41,40.0
+vilazodone,41,40.0
+benzpiperylone,41,40.0
+benzquercin,41,40.0
+bendazac,41,40.0
+lenampicillin,41,40.0
+neratinib,41,40.0
+adenosine triphosphate,41,40.0
+eliglustat,41,40.0
+ceritinib,41,40.0
+norgestimate,40,41.0
+norgesterone,40,41.0
+oleic acid,40,41.0
+obeticholic acid,40,41.0
+noxytiolin,40,41.0
+octocrylene,40,41.0
+octyltriethoxysilane,40,41.0
+noxiptiline,40,41.0
+norfenefrine,40,41.0
+noscapine,40,41.0
+oleandrin,40,41.0
+norvinisterone,40,41.0
+norethynodrel,40,41.0
+ofloxacin,40,41.0
+norethisterone,40,41.0
+nortriptyline,40,41.0
+norethindrone enanthate,40,41.0
+norethindrone acetate,40,41.0
+octabenzone,40,41.0
+oleandomycin,40,41.0
+norethandrolone,40,41.0
+octisalate,40,41.0
+olanzapine,40,41.0
+octinoxate,40,41.0
+octenidine,40,41.0
+octatropine methylbromide,40,41.0
+octanoic acid,40,41.0
+olaparib,40,41.0
+octamylamine,40,41.0
+olanexidine,40,41.0
+norgestrienone,40,41.0
+octamoxin,40,41.0
+octodrine,40,41.0
+octopamine,40,41.0
+normethadone,40,41.0
+norpipanone,40,41.0
+octacaine,40,41.0
+olaflur,40,41.0
+norfloxacin,40,41.0
+obidoxime,40,41.0
+oliceridine,40,41.0
+(2-benzhydryloxyethyl)diethyl-methylammonium iodide,40,41.0
+olopatadine,40,41.0
+perflenapent,40,41.0
+pentacynium chloride,40,41.0
+pentaerithrityl tetranitrate,40,41.0
+pentaerythritol,40,41.0
+pentagestrone,40,41.0
+pentagestrone acetate,40,41.0
+pentamethonium bromide,40,41.0
+pentamidine,40,41.0
+pentamycin,40,41.0
+pentapiperium metilsulfate,40,41.0
+pentazocine,40,41.0
+pentetic acid,40,41.0
+pentetrazol,40,41.0
+penthienate,40,41.0
+pentifylline,40,41.0
+pentobarbital,40,41.0
+pentolonium,40,41.0
+pentorex,40,41.0
+pentostatin,40,41.0
+pentoxifylline,40,41.0
+pentoxyverine,40,41.0
+pentrinitrol,40,41.0
+peramivir,40,41.0
+perampanel,40,41.0
+penmesterol,40,41.0
+penicillamine,40,41.0
+penfluridol,40,41.0
+paroxypropione,40,41.0
+paramethasone acetate,40,41.0
+paraoxon,40,41.0
+parapenzolate,40,41.0
+parathiazine,40,41.0
+parethoxycaine,40,41.0
+pargeverine,40,41.0
+pargyline,40,41.0
+paricalcitol,40,41.0
+paromomycin,40,41.0
+paroxetine,40,41.0
+parsalmide,40,41.0
+penciclovir,40,41.0
+pecazine,40,41.0
+pecilocin,40,41.0
+pefloxacin,40,41.0
+pemetrexed,40,41.0
+pemigatinib,40,41.0
+pemirolast,40,41.0
+pemoline,40,41.0
+pempidine,40,41.0
+penamecillin,40,41.0
+penbutolol,40,41.0
+perazine,40,41.0
+perflexane,40,41.0
+olprinone,40,41.0
+perfluamine,40,41.0
+phenamine,40,41.0
+phenazocine,40,41.0
+phenazone,40,41.0
+phenazopyridine,40,41.0
+phenbenzamine,40,41.0
+phenbutamide,40,41.0
+phencyclidine,40,41.0
+phendimetrazine,40,41.0
+phenelzine,40,41.0
+pheneturide,40,41.0
+phenformin,40,41.0
+phenglutarimide,40,41.0
+phenibut,40,41.0
+phenicarbazide,40,41.0
+phenindamine,40,41.0
+phenindione,40,41.0
+pheniodol sodium,40,41.0
+pheniprazine,40,41.0
+pheniramine,40,41.0
+phenmetrazine,40,41.0
+phenobarbital,40,41.0
+phenobutiodil,40,41.0
+phenol,40,41.0
+phenamacide,40,41.0
+phenallymal,40,41.0
+phenaglycodol,40,41.0
+perlapine,40,41.0
+perflubron,40,41.0
+perflubutane,40,41.0
+perflunafene,40,41.0
+perflutren,40,41.0
+perfosfamide,40,41.0
+pergolide,40,41.0
+perhexiline,40,41.0
+periciazine,40,41.0
+perimetazine,40,41.0
+perisoxal,40,41.0
+permethrin,40,41.0
+phenadoxone,40,41.0
+perospirone,40,41.0
+perphenazine,40,41.0
+peruvoside,40,41.0
+pethidine,40,41.0
+petrichloral,40,41.0
+pexidartinib,40,41.0
+phanquinone,40,41.0
+phenacaine,40,41.0
+phenacemide,40,41.0
+phenacetin,40,41.0
+paramethadione,40,41.0
+paraldehyde,40,41.0
+paracetamol,40,41.0
+papaveroline,40,41.0
+oxabolone,40,41.0
+oxabolone cipionate,40,41.0
+oxaflozane,40,41.0
+oxaflumazine,40,41.0
+oxagrelate,40,41.0
+oxamarin,40,41.0
+oxametacin,40,41.0
+oxamniquine,40,41.0
+oxanamide,40,41.0
+oxandrolone,40,41.0
+oxantel,40,41.0
+oxapropanium,40,41.0
+oxaprozin,40,41.0
+oxatomide,40,41.0
+oxazepam,40,41.0
+oxazolam,40,41.0
+oxcarbazepine,40,41.0
+oxedrine,40,41.0
+oxeladin,40,41.0
+oxendolone,40,41.0
+oxetacaine,40,41.0
+oxetorone,40,41.0
+oxiconazole,40,41.0
+ouabain,40,41.0
+otilonium bromide,40,41.0
+oteracil,40,41.0
+orciprenaline,40,41.0
+olsalazine,40,41.0
+omacetaxine mepesuccinate,40,41.0
+omadacycline,40,41.0
+omarigliptin,40,41.0
+omeprazole,40,41.0
+omoconazole,40,41.0
+ondansetron,40,41.0
+opicapone,40,41.0
+opipramol,40,41.0
+orazamide,40,41.0
+orlistat,40,41.0
+ospemifene,40,41.0
+ormeloxifene,40,41.0
+ornidazole,40,41.0
+ornithine,40,41.0
+ornoprostil,40,41.0
+orotic acid,40,41.0
+orphenadrine,40,41.0
+orthocaine,40,41.0
+osalmid,40,41.0
+oseltamivir,40,41.0
+osilodrostat,40,41.0
+oxidronic acid,40,41.0
+oxiglutatione,40,41.0
+oxilofrine,40,41.0
+palbociclib,40,41.0
+oxyphencyclimine,40,41.0
+oxyphenisatine,40,41.0
+oxyphenisatine acetate,40,41.0
+oxyphenonium,40,41.0
+oxyquinoline,40,41.0
+oxysonium,40,41.0
+oxytetracycline,40,41.0
+ozagrel,40,41.0
+ozanimod,40,41.0
+ozenoxacin,40,41.0
+paliperidone,40,41.0
+oxypertine,40,41.0
+paliperidone palmitate,40,41.0
+palmidrol,40,41.0
+palonosetron,40,41.0
+pamabrom,40,41.0
+pamaquine,40,41.0
+pamidronic acid,40,41.0
+pancuronium,40,41.0
+panobinostat,40,41.0
+pantethine,40,41.0
+papaverine,40,41.0
+oxyphenbutazone,40,41.0
+oxypendyl,40,41.0
+oxiniacic acid,40,41.0
+oxybuprocaine,40,41.0
+oxiracetam,40,41.0
+oxitriptan,40,41.0
+oxitropium,40,41.0
+oxolamine,40,41.0
+oxolinic acid,40,41.0
+norelgestromin,40,41.0
+oxomemazine,40,41.0
+oxophenarsine,40,41.0
+oxprenolol,40,41.0
+oxybenzone,40,41.0
+oxybutynin,40,41.0
+oxymorphone,40,41.0
+oxyclipine,40,41.0
+oxycodone,40,41.0
+oxydibutanol,40,41.0
+oxyfedrine,40,41.0
+oxyfenamate,40,41.0
+oxygen,40,41.0
+oxymesterone,40,41.0
+oxymetazoline,40,41.0
+oxymetholone,40,41.0
+oxymethurea,40,41.0
+norepinephrine,40,41.0
+nandrolone decanoate,40,41.0
+nordefrin,40,41.0
+mercuric iodide,40,41.0
+meprotixol,40,41.0
+meprylcaine,40,41.0
+meptazinol,40,41.0
+mepyramine,40,41.0
+mequinol,40,41.0
+mequitazine,40,41.0
+meradimate,40,41.0
+mercaptamine,40,41.0
+mercaptopurine,40,41.0
+mercuric amidochloride,40,41.0
+mercuric chloride,40,41.0
+meropenem,40,41.0
+meprobamate,40,41.0
+mesalazine,40,41.0
+mesna,40,41.0
+mesoridazine,40,41.0
+mestanolone,40,41.0
+mesterolone,40,41.0
+mestranol,40,41.0
+mesulfen,40,41.0
+metabutethamine,40,41.0
+metabutoxycaine,40,41.0
+metaclazepam,40,41.0
+metacycline,40,41.0
+meproscillarin,40,41.0
+meprednisone,40,41.0
+nordazepam,40,41.0
+meobentine,40,41.0
+melperone,40,41.0
+melphalan,40,41.0
+melphalan flufenamide,40,41.0
+memantine,40,41.0
+menadiol sodium diphosphate,40,41.0
+menadione,40,41.0
+menadione sodium bisulfite,40,41.0
+menadoxime,40,41.0
+menatetrenone,40,41.0
+menbutone,40,41.0
+menthyl salicylate,40,41.0
+mepacrine,40,41.0
+mepixanox,40,41.0
+mepenzolate,40,41.0
+mephenesin,40,41.0
+mephenesin carbamate,40,41.0
+mephenoxalone,40,41.0
+mephentermine,40,41.0
+mephenytoin,40,41.0
+mepindolol,40,41.0
+mepiperphenidol,40,41.0
+mepiprazole,40,41.0
+mepitiostane,40,41.0
+mepivacaine,40,41.0
+metahexamide,40,41.0
+metamfepramone,40,41.0
+metamizole,40,41.0
+methyl nicotinate,40,41.0
+methocarbamol,40,41.0
+methohexital,40,41.0
+methopromazine,40,41.0
+methoserpidine,40,41.0
+methoxamine,40,41.0
+methoxsalen,40,41.0
+methoxyflurane,40,41.0
+methoxyphenamine,40,41.0
+methscopolamine,40,41.0
+methsuximide,40,41.0
+methyl aminolevulinate,40,41.0
+methyl salicylate,40,41.0
+metandienone,40,41.0
+methylatropine,40,41.0
+methylchromone,40,41.0
+methylclothiazide,40,41.0
+methyldopa,40,41.0
+methyldopate,40,41.0
+methylephedrine,40,41.0
+methylergometrine,40,41.0
+methylestrenolone,40,41.0
+methylhexaneamine,40,41.0
+methylhomatropine,40,41.0
+methylnaltrexone,40,41.0
+methitural,40,41.0
+methiosulfonium chloride,40,41.0
+methionine,40,41.0
+methiodal,40,41.0
+metapramine,40,41.0
+metaraminol,40,41.0
+metaxalone,40,41.0
+metesculetol,40,41.0
+metformin,40,41.0
+methacholine,40,41.0
+methadone,40,41.0
+methallatal,40,41.0
+methallenestril,40,41.0
+methamphetamine,40,41.0
+methandriol,40,41.0
+methaniazide,40,41.0
+methanthelinium,40,41.0
+methaphenilene,40,41.0
+methapyrilene,40,41.0
+methaqualone,40,41.0
+metharbital,40,41.0
+methazolamide,40,41.0
+methdilazine,40,41.0
+methenamine,40,41.0
+methenolone,40,41.0
+methestrol,40,41.0
+methestrol dipropionate,40,41.0
+melitracen,40,41.0
+melinamide,40,41.0
+melevodopa,40,41.0
+luliconazole,40,41.0
+lorlatinib,40,41.0
+lormetazepam,40,41.0
+lorpiprazole,40,41.0
+loteprednol etabonate,40,41.0
+lovastatin,40,41.0
+loxapine,40,41.0
+loxiglumide,40,41.0
+loxoprofen,40,41.0
+lubeluzole,40,41.0
+lubiprostone,40,41.0
+lucanthone,40,41.0
+lumacaftor,40,41.0
+mabuterol,40,41.0
+lumateperone,40,41.0
+lumefantrine,40,41.0
+lumiracoxib,40,41.0
+lurasidone,40,41.0
+luseogliflozin,40,41.0
+lusutrombopag,40,41.0
+lutein,40,41.0
+lycopene,40,41.0
+lymecycline,40,41.0
+lynestrenol,40,41.0
+lysergide,40,41.0
+loretin,40,41.0
+lorcaserin,40,41.0
+lorcainide,40,41.0
+lorazepam,40,41.0
+linsidomine,40,41.0
+liothyronine,40,41.0
+liranaftate,40,41.0
+lisdexamfetamine,40,41.0
+lisuride,40,41.0
+lividomycin,40,41.0
+lobenzarit,40,41.0
+lodoxamide,40,41.0
+lofepramine,40,41.0
+lofexidine,40,41.0
+loflucarban,40,41.0
+lomefloxacin,40,41.0
+lomerizine,40,41.0
+lomifylline,40,41.0
+lomustine,40,41.0
+lonafarnib,40,41.0
+lonidamine,40,41.0
+loperamide,40,41.0
+loperamide oxide,40,41.0
+loprazolam,40,41.0
+loprodiol,40,41.0
+loracarbef,40,41.0
+loratadine,40,41.0
+mabuprofen,40,41.0
+mafenide,40,41.0
+meldonium,40,41.0
+medroxalol,40,41.0
+meclofenoxate,40,41.0
+mecloqualone,40,41.0
+mecloralurea,40,41.0
+mecloxamine,40,41.0
+meclozine,40,41.0
+mecysteine,40,41.0
+medazepam,40,41.0
+medetomidine,40,41.0
+medibazine,40,41.0
+medifoxamine,40,41.0
+medrogestone,40,41.0
+medroxyprogesterone,40,41.0
+magnesium hydroxide,40,41.0
+medrylamine,40,41.0
+medrysone,40,41.0
+mefenamic acid,40,41.0
+mefenorex,40,41.0
+mefexamide,40,41.0
+mefloquine,40,41.0
+mefuparib,40,41.0
+megestrol acetate,40,41.0
+meglumine,40,41.0
+meladrazine,40,41.0
+melatonin,40,41.0
+meclofenamic acid,40,41.0
+meclocycline,40,41.0
+mecillinam,40,41.0
+mechlorethamine,40,41.0
+magnesium oxide,40,41.0
+magnesium peroxide,40,41.0
+malathion,40,41.0
+malotilate,40,41.0
+maltose,40,41.0
+mandelic acid,40,41.0
+manidipine,40,41.0
+mannite hexanitrate,40,41.0
+mannitol,40,41.0
+mannomustine,40,41.0
+mannosulfan,40,41.0
+maprotiline,40,41.0
+masoprocol,40,41.0
+maxacalcitol,40,41.0
+mazindol,40,41.0
+mazipredone,40,41.0
+mebanazine,40,41.0
+mebendazole,40,41.0
+mebeverine,40,41.0
+mebhydrolin,40,41.0
+mebicar,40,41.0
+mebutamate,40,41.0
+mecamylamine,40,41.0
+methylparaben,40,41.0
+methylpentynol,40,41.0
+methylphenidate,40,41.0
+nevirapine,40,41.0
+nelarabine,40,41.0
+nelfinavir,40,41.0
+neltenexine,40,41.0
+nemonoxacin,40,41.0
+neostigmine,40,41.0
+nepafenac,40,41.0
+nepinalone,40,41.0
+neridronic acid,40,41.0
+neticonazole,40,41.0
+netilmicin,40,41.0
+netupitant,40,41.0
+nialamide,40,41.0
+nicomol,40,41.0
+niaprazine,40,41.0
+nicametate,40,41.0
+nicardipine,40,41.0
+nicergoline,40,41.0
+niceritrol,40,41.0
+niclofolan,40,41.0
+niclosamide,40,41.0
+nicoclonate,40,41.0
+nicocodine,40,41.0
+nicofetamide,40,41.0
+nicofibrate,40,41.0
+nefopam,40,41.0
+nefiracetam,40,41.0
+nefazodone,40,41.0
+nebivolol,40,41.0
+naftazone,40,41.0
+naftidrofuryl,40,41.0
+naftifine,40,41.0
+naftopidil,40,41.0
+nalbuphine,40,41.0
+nalfurafine,40,41.0
+nalidixic acid,40,41.0
+nalmefene,40,41.0
+nalorphine,40,41.0
+naloxegol,40,41.0
+naloxone,40,41.0
+naltrexone,40,41.0
+nandrolone,40,41.0
+nandrolone cyclotate,40,41.0
+phenolphthalol,40,41.0
+nandrolone phenpropionate,40,41.0
+naphazoline,40,41.0
+naproxcinod,40,41.0
+naproxen,40,41.0
+naratriptan,40,41.0
+narcobarbital,40,41.0
+nateglinide,40,41.0
+nealbarbital,40,41.0
+nicofuranose,40,41.0
+nicomorphine,40,41.0
+nafamostat,40,41.0
+nitrendipine,40,41.0
+nimorazole,40,41.0
+nimustine,40,41.0
+niperotidine,40,41.0
+niraparib,40,41.0
+niridazole,40,41.0
+nisoldipine,40,41.0
+nitazoxanide,40,41.0
+nitisinone,40,41.0
+nitracrine,40,41.0
+nitrazepam,40,41.0
+nitrefazole,40,41.0
+nitric oxide,40,41.0
+nicorandil,40,41.0
+nitrofurantoin,40,41.0
+nitrofurazone,40,41.0
+nitrogen,40,41.0
+nitrous oxide,40,41.0
+nitroxazepine,40,41.0
+nitroxoline,40,41.0
+nizatidine,40,41.0
+nizofenone,40,41.0
+nomegestrol,40,41.0
+nomegestrol acetate,40,41.0
+nomifensine,40,41.0
+nimodipine,40,41.0
+nimetazepam,40,41.0
+nimesulide,40,41.0
+nilvadipine,40,41.0
+nicotinamide,40,41.0
+nicotine,40,41.0
+nicotinic acid,40,41.0
+nicotinyl alcohol,40,41.0
+nicotinyl methylamide,40,41.0
+nidroxyzone,40,41.0
+nifedipine,40,41.0
+nifekalant,40,41.0
+nifenalol,40,41.0
+nifenazone,40,41.0
+niflumic acid,40,41.0
+nifuradene,40,41.0
+nifuratel,40,41.0
+nifurfoline,40,41.0
+nifuroxazide,40,41.0
+nifuroxime,40,41.0
+nifurpirinol,40,41.0
+nifurprazine,40,41.0
+nifurtimox,40,41.0
+nifurtoinol,40,41.0
+nifurzide,40,41.0
+nikethamide,40,41.0
+nilutamide,40,41.0
+nafiverine,40,41.0
+naepaine,40,41.0
+methylphenobarbital,40,41.0
+midodrine,40,41.0
+metronidazole,40,41.0
+meturedepa,40,41.0
+metyrapone,40,41.0
+mexazolam,40,41.0
+mexenone,40,41.0
+mexiletine,40,41.0
+mianserin,40,41.0
+mibefradil,40,41.0
+miconazole,40,41.0
+micronomicin,40,41.0
+midazolam,40,41.0
+mifepristone,40,41.0
+minoxidil,40,41.0
+migalastat,40,41.0
+miglitol,40,41.0
+miglustat,40,41.0
+milnacipran,40,41.0
+miloxacin,40,41.0
+milrinone,40,41.0
+miltefosine,40,41.0
+milverine,40,41.0
+mimosine,40,41.0
+minaprine,40,41.0
+minocycline,40,41.0
+metrizoic acid,40,41.0
+metrizamide,40,41.0
+metrifonate,40,41.0
+metralindole,40,41.0
+methylprednisolone,40,41.0
+methylprednisolone aceponate,40,41.0
+methylprednisolone acetate,40,41.0
+methylprednisolone succinate,40,41.0
+methylprednisolone suleptanate,40,41.0
+methylrosaniline,40,41.0
+methylsulfonal,40,41.0
+methyltestosterone,40,41.0
+methylthioninium chloride,40,41.0
+methylthiouracil,40,41.0
+methyprylon,40,41.0
+methysergide,40,41.0
+metiazinic acid,40,41.0
+metipranolol,40,41.0
+metirosine,40,41.0
+metisazone,40,41.0
+metixene,40,41.0
+metizoline,40,41.0
+metochalcone,40,41.0
+metoclopramide,40,41.0
+metofoline,40,41.0
+metopon,40,41.0
+metoprolol,40,41.0
+minodronic acid,40,41.0
+mirodenafil,40,41.0
+nadoxolol,40,41.0
+moxestrol,40,41.0
+moracizine,40,41.0
+morclofone,40,41.0
+morinamide,40,41.0
+morinidazole,40,41.0
+morniflumate,40,41.0
+moroxydine,40,41.0
+morphine,40,41.0
+mosapride,40,41.0
+motretinide,40,41.0
+moxastine,40,41.0
+moxaverine,40,41.0
+moxifloxacin,40,41.0
+mirtazapine,40,41.0
+moxisylyte,40,41.0
+moxonidine,40,41.0
+mozavaptan,40,41.0
+mupirocin,40,41.0
+muzolimine,40,41.0
+mycophenolate mofetil,40,41.0
+myrtecaine,40,41.0
+nabilone,40,41.0
+nabumetone,40,41.0
+nadifloxacin,40,41.0
+nadolol,40,41.0
+moquizone,40,41.0
+moprolol,40,41.0
+mopidamol,40,41.0
+moperone,40,41.0
+misoprostol,40,41.0
+mitiglinide,40,41.0
+mitobronitol,40,41.0
+mitoguazone,40,41.0
+mitolactol,40,41.0
+mitomycin,40,41.0
+mitopodozide,40,41.0
+mitotane,40,41.0
+mitoxantrone,40,41.0
+mivotilate,40,41.0
+mizolastine,40,41.0
+mizoribine,40,41.0
+moclobemide,40,41.0
+modafinil,40,41.0
+moexipril,40,41.0
+mofebutazone,40,41.0
+mofezolac,40,41.0
+molindone,40,41.0
+molsidomine,40,41.0
+mometasone furoate,40,41.0
+monobenzone,40,41.0
+monoctanoin,40,41.0
+monoxerutin,40,41.0
+phenolphthalein,40,41.0
+procaine,40,41.0
+phenolsulfonphthalein,40,41.0
+terodiline,40,41.0
+thialbarbital,40,41.0
+thiamazole,40,41.0
+thiamine,40,41.0
+thiamphenicol,40,41.0
+thiamylal,40,41.0
+thiazinam,40,41.0
+thiazosulfone,40,41.0
+thioacetazone,40,41.0
+thiocolchicoside,40,41.0
+thioctic acid,40,41.0
+thioguanine,40,41.0
+thiopental,40,41.0
+thiopropazate,40,41.0
+thiotepa,40,41.0
+thiothixene,40,41.0
+thiouracil,40,41.0
+thiram,40,41.0
+thonzylamine,40,41.0
+threonine,40,41.0
+thurfyl nicotinate,40,41.0
+thymol,40,41.0
+thymopentin,40,41.0
+thyropropic acid,40,41.0
+tiadenol,40,41.0
+tiamenidine,40,41.0
+thiabendazole,40,41.0
+theophylline,40,41.0
+theodrenaline,40,41.0
+tetracycline,40,41.0
+tertatolol,40,41.0
+testolactone,40,41.0
+testosterone,40,41.0
+testosterone cypionate,40,41.0
+testosterone enantate,40,41.0
+testosterone propionate,40,41.0
+testosterone undecanoate,40,41.0
+tetrabarbital,40,41.0
+tetrabenazine,40,41.0
+tetracaine,40,41.0
+tetrachloroethylene,40,41.0
+tetraethylphthalamide,40,41.0
+theobromine,40,41.0
+tetragalacturonic acid hydroxymethylester,40,41.0
+tetramethrin,40,41.0
+tetrazepam,40,41.0
+tetrofosmin,40,41.0
+tetroxoprim,40,41.0
+tetryzoline,40,41.0
+tevenel,40,41.0
+thalidomide,40,41.0
+thallous chloride Tl-201,40,41.0
+thebacon,40,41.0
+thenalidine,40,41.0
+tiamiprine,40,41.0
+tianeptine,40,41.0
+tiapride,40,41.0
+tisopurine,40,41.0
+tiopronin,40,41.0
+tioxolone,40,41.0
+tipepidine,40,41.0
+tipiracil,40,41.0
+tiquizium,40,41.0
+tirabrutinib hydrochloride,40,41.0
+tiracizine,40,41.0
+tiratricol,40,41.0
+tirilazad,40,41.0
+tirofiban,40,41.0
+tiropramide,40,41.0
+titanium dioxide,40,41.0
+tioconazole,40,41.0
+tivozanib,40,41.0
+tixocortol,40,41.0
+tizanidine,40,41.0
+tobramycin,40,41.0
+tobuterol,40,41.0
+tocainide,40,41.0
+tocofersolan,40,41.0
+tocofibrate,40,41.0
+tocopherol succinate,40,41.0
+tocopheryl nicotinate,40,41.0
+todralazine,40,41.0
+tiomesterone,40,41.0
+tiocarlide,40,41.0
+tiaprofenic acid,40,41.0
+tigecycline,40,41.0
+tiaramide,40,41.0
+tiazesim,40,41.0
+tibolone,40,41.0
+ticagrelor,40,41.0
+ticarcillin,40,41.0
+ticlatone,40,41.0
+ticlopidine,40,41.0
+tidiacic,40,41.0
+tiemonium,40,41.0
+tienilic acid,40,41.0
+tifenamil,40,41.0
+tigloidine,40,41.0
+tinoridine,40,41.0
+tilbroquinol,40,41.0
+tilidine,40,41.0
+tiliquinol,40,41.0
+tilisolol,40,41.0
+tiludronic acid,40,41.0
+timepidium,40,41.0
+timiperone,40,41.0
+timolol,40,41.0
+timonacic,40,41.0
+tinazoline,40,41.0
+tinidazole,40,41.0
+terpin,40,41.0
+terizidone,40,41.0
+tofenacin,40,41.0
+teriflunomide,40,41.0
+sulfasymazine,40,41.0
+sulfathiazole,40,41.0
+sulfathiourea,40,41.0
+sulfinalol,40,41.0
+sulfinpyrazone,40,41.0
+sulfiram,40,41.0
+sulfisomidine,40,41.0
+sulfisoxazole acetyl,40,41.0
+sulforidazine,40,41.0
+sulfur,40,41.0
+sulfur hexafluoride,40,41.0
+sulindac,40,41.0
+sulisobenzone,40,41.0
+sulmazole,40,41.0
+suloctidil,40,41.0
+sulpiride,40,41.0
+sultiame,40,41.0
+sultopride,40,41.0
+sumatriptan,40,41.0
+sunitinib,40,41.0
+suplatast,40,41.0
+suprofen,40,41.0
+suvorexant,40,41.0
+suxamethonium,40,41.0
+suxibuzone,40,41.0
+sulfasalazine,40,41.0
+sulfarside,40,41.0
+sulfapyridine,40,41.0
+sulfaloxic acid,40,41.0
+sulfadiasulfone,40,41.0
+sulfadiazine,40,41.0
+sulfadicramide,40,41.0
+sulfadimethoxine,40,41.0
+sulfadimidine,40,41.0
+sulfadoxine,40,41.0
+sulfaethidole,40,41.0
+sulfafurazole,40,41.0
+sulfaguanidine,40,41.0
+sulfaguanole,40,41.0
+sulfalene,40,41.0
+sulfamerazine,40,41.0
+sulfaphenazole,40,41.0
+sulfameter,40,41.0
+sulfamethizole,40,41.0
+sulfamethoxazole,40,41.0
+sulfamethoxypyridazine,40,41.0
+sulfamethylthiazole,40,41.0
+sulfametomidine,40,41.0
+sulfamidochrysoidine,40,41.0
+sulfamonomethoxine,40,41.0
+sulfamoxole,40,41.0
+sulfanilamide,40,41.0
+sulfaperin,40,41.0
+symclosene,40,41.0
+syrosingopine,40,41.0
+tacalcitol,40,41.0
+teneligliptin,40,41.0
+tecovirimat,40,41.0
+tedisamil,40,41.0
+tedizolid phosphate,40,41.0
+teflurane,40,41.0
+tegafur,40,41.0
+tegaserod,40,41.0
+telbivudine,40,41.0
+telmesteine,40,41.0
+temafloxacin,40,41.0
+temazepam,40,41.0
+temozolomide,40,41.0
+tenidap,40,41.0
+tebipenem pivoxil,40,41.0
+teniposide,40,41.0
+tenitramine,40,41.0
+tenofovir disoproxil,40,41.0
+tenonitrozole,40,41.0
+tepotinib,40,41.0
+teprenone,40,41.0
+terazosin,40,41.0
+terbinafine,40,41.0
+terbutaline,40,41.0
+terconazole,40,41.0
+terfenadine,40,41.0
+teclozan,40,41.0
+tazobactam,40,41.0
+tacrine,40,41.0
+taltirelin,40,41.0
+tacrolimus,40,41.0
+tadalafil,40,41.0
+tafamidis,40,41.0
+tafenoquine,40,41.0
+tafluprost,40,41.0
+talaporfin,40,41.0
+talastine,40,41.0
+talazoparib tosylate,40,41.0
+talbutal,40,41.0
+talipexole,40,41.0
+talniflumate,40,41.0
+tamibarotene,40,41.0
+tazarotene,40,41.0
+tamoxifen,40,41.0
+tamsulosin,40,41.0
+tandospirone,40,41.0
+tapentadol,40,41.0
+taribavirin,40,41.0
+tartaric acid,40,41.0
+tasimelteon,40,41.0
+tasosartan,40,41.0
+taurine,40,41.0
+tavaborole,40,41.0
+tazanolast,40,41.0
+tofacitinib,40,41.0
+tofisopam,40,41.0
+sulfachlorpyridazine,40,41.0
+troxipide,40,41.0
+valethamate,40,41.0
+valganciclovir,40,41.0
+valine,40,41.0
+valnoctamide,40,41.0
+valproic acid,40,41.0
+valpromide,40,41.0
+vandetanib,40,41.0
+vanitiolide,40,41.0
+vardenafil,40,41.0
+varenicline,40,41.0
+vecuronium,40,41.0
+vedaprofen,40,41.0
+velnacrine,40,41.0
+venlafaxine,40,41.0
+veralipride,40,41.0
+verapamil,40,41.0
+vericiguat,40,41.0
+vernakalant,40,41.0
+vidarabine,40,41.0
+vigabatrin,40,41.0
+vilanterol,40,41.0
+vildagliptin,40,41.0
+viloxazine,40,41.0
+viminol,40,41.0
+vinbarbital,40,41.0
+valdetamide,40,41.0
+valbenazine,40,41.0
+valaciclovir,40,41.0
+ulipristal,40,41.0
+tryptophan,40,41.0
+tuaminoheptane,40,41.0
+tubocurarine,40,41.0
+tucatinib,40,41.0
+tulobuterol,40,41.0
+tymazoline,40,41.0
+tyramine,40,41.0
+tyropanoate,40,41.0
+tyrosine,40,41.0
+ubidecarenone,40,41.0
+ufenamate,40,41.0
+ulobetasol propionate,40,41.0
+ursodiol,40,41.0
+umbralisib,40,41.0
+umeclidinium,40,41.0
+umifenovir,40,41.0
+undecylenic acid,40,41.0
+unoprostone isopropyl,40,41.0
+upadacitinib,40,41.0
+uracil mustard,40,41.0
+urapidil,40,41.0
+uredepa,40,41.0
+uridine triacetate,40,41.0
+uridine triphosphate,40,41.0
+vinburnine,40,41.0
+vincamine,40,41.0
+vinorelbine,40,41.0
+zinc oxide,40,41.0
+xylose,40,41.0
+xyloylsulfamine,40,41.0
+yohimbine,40,41.0
+zabofloxacin,40,41.0
+zalcitabine,40,41.0
+zaleplon,40,41.0
+zaltoprofen,40,41.0
+zeranol,40,41.0
+zidovudine,40,41.0
+zileuton,40,41.0
+zimeldine,40,41.0
+ziprasidone,40,41.0
+xylitol,40,41.0
+zoledronic acid,40,41.0
+zolimidine,40,41.0
+zolmitriptan,40,41.0
+zolpidem,40,41.0
+zomepirac,40,41.0
+zonisamide,40,41.0
+zopiclone,40,41.0
+zotepine,40,41.0
+zoxazolamine,40,41.0
+zucapsaicin,40,41.0
+zuclopenthixol,40,41.0
+xylometazoline,40,41.0
+ximelagatran,40,41.0
+vinpocetine,40,41.0
+vorozole,40,41.0
+vinyl ether,40,41.0
+vinylbital,40,41.0
+viomycin,40,41.0
+viquidil,40,41.0
+vismodegib,40,41.0
+visnadine,40,41.0
+vitamin A palmitate,40,41.0
+voacamine,40,41.0
+voglibose,40,41.0
+vonoprazan,40,41.0
+vorinostat,40,41.0
+vortioxetine,40,41.0
+xibornol,40,41.0
+voxelotor,40,41.0
+warfarin,40,41.0
+xamoterol,40,41.0
+xanomeline,40,41.0
+xantinol,40,41.0
+xenbucin,40,41.0
+xenon,40,41.0
+xenon (127Xe) gas,40,41.0
+xenon (133Xe) gas,40,41.0
+xenytropium,40,41.0
+xibenolol,40,41.0
+tryparsamide,40,41.0
+troxacitabine,40,41.0
+tofogliflozin,40,41.0
+trovafloxacin,40,41.0
+trametinib,40,41.0
+tranexamic acid,40,41.0
+tranilast,40,41.0
+tranylcypromine,40,41.0
+trapidil,40,41.0
+travoprost,40,41.0
+traxanox,40,41.0
+trazodone,40,41.0
+trelagliptin,40,41.0
+trenbolone hexahydrobenzylcarbonate,40,41.0
+trengestone,40,41.0
+treosulfan,40,41.0
+trepibutone,40,41.0
+treprostinil,40,41.0
+tretamine,40,41.0
+tretinoin,40,41.0
+tretinoin tocoferil,40,41.0
+tretoquinol,40,41.0
+triacetin,40,41.0
+triamcinolone,40,41.0
+triamcinolone acetonide,40,41.0
+triamcinolone diacetate,40,41.0
+triamcinolone hexacetonide,40,41.0
+triamterene,40,41.0
+triaziquone,40,41.0
+tramazoline,40,41.0
+tramadol,40,41.0
+tosylchloramide sodium,40,41.0
+tolonium,40,41.0
+tolazamide,40,41.0
+tolazoline,40,41.0
+tolbutamide,40,41.0
+tolcapone,40,41.0
+tolciclate,40,41.0
+tolfenamic acid,40,41.0
+tolindate,40,41.0
+toliprolol,40,41.0
+tolmetin,40,41.0
+tolnaftate,40,41.0
+tolonidine,40,41.0
+toloxatone,40,41.0
+tosufloxacin,40,41.0
+tolperisone,40,41.0
+tolpropamine,40,41.0
+tolrestat,40,41.0
+tolterodine,40,41.0
+tolycaine,40,41.0
+tonzonium,40,41.0
+topiramate,40,41.0
+topiroxostat,40,41.0
+topotecan,40,41.0
+toremifene,40,41.0
+torsemide,40,41.0
+triazolam,40,41.0
+tribenoside,40,41.0
+tribromoethanol,40,41.0
+tritiozine,40,41.0
+trimethoprim,40,41.0
+trimethyldiphenylpropylamine,40,41.0
+trimetozine,40,41.0
+trimetrexate,40,41.0
+trimipramine,40,41.0
+trinitrophenol,40,41.0
+trioxsalen,40,41.0
+tripamide,40,41.0
+triparanol,40,41.0
+tripelennamine,40,41.0
+triprolidine,40,41.0
+tritoqualine,40,41.0
+trimethidinium,40,41.0
+trofosfamide,40,41.0
+trolamine,40,41.0
+troleandomycin,40,41.0
+trolnitrate,40,41.0
+tromantadine,40,41.0
+trometamol,40,41.0
+tropatepine,40,41.0
+tropicamide,40,41.0
+tropisetron,40,41.0
+trospectomycin,40,41.0
+trospium,40,41.0
+trimethobenzamide,40,41.0
+trimethadione,40,41.0
+tribromometacresol,40,41.0
+trifluperidol,40,41.0
+trichloroacetic acid,40,41.0
+trichloroethylene,40,41.0
+triclabendazole,40,41.0
+triclocarban,40,41.0
+triclofos,40,41.0
+triclosan,40,41.0
+tricyclamol chloride,40,41.0
+tridihexethyl,40,41.0
+trientine,40,41.0
+trifarotene,40,41.0
+trifluoperazine,40,41.0
+triflupromazine,40,41.0
+trimetazidine,40,41.0
+trifluridine,40,41.0
+triflusal,40,41.0
+triheptanoin,40,41.0
+trihexyphenidyl,40,41.0
+trilaciclib,40,41.0
+trilostane,40,41.0
+trimazosin,40,41.0
+trimebutine,40,41.0
+trimecaine,40,41.0
+trimegestone,40,41.0
+trimetaphan,40,41.0
+sulfacytine,40,41.0
+sulfacetamide,40,41.0
+phenoperidine,40,41.0
+podophyllotoxin,40,41.0
+prednisolone acetate,40,41.0
+prednisolone farnesylate,40,41.0
+prednisolone sodium phosphate,40,41.0
+prednisolone steaglate,40,41.0
+prednisolone succinate,40,41.0
+prednisolone tebutate,40,41.0
+prednisolone valerate acetate,40,41.0
+prednisone,40,41.0
+prednival,40,41.0
+prednylidene,40,41.0
+pregabalin,40,41.0
+pregnenolone succinate,40,41.0
+prenalterol,40,41.0
+prenderol,40,41.0
+prenoxdiazine,40,41.0
+prenylamine,40,41.0
+pretomanid,40,41.0
+pridinol,40,41.0
+prifinium,40,41.0
+prilocaine,40,41.0
+primaquine,40,41.0
+primidone,40,41.0
+probenecid,40,41.0
+probucol,40,41.0
+procainamide,40,41.0
+prednisolone,40,41.0
+prednisolamate,40,41.0
+prednimustine,40,41.0
+pramipexole,40,41.0
+polmacoxib,40,41.0
+polydatin,40,41.0
+pomalidomide,40,41.0
+ponatinib,40,41.0
+posaconazole,40,41.0
+posatirelin,40,41.0
+potassium canrenoate,40,41.0
+practolol,40,41.0
+prajmalium,40,41.0
+pralatrexate,40,41.0
+pralidoxime,40,41.0
+pramiracetam,40,41.0
+prednicarbate,40,41.0
+pramiverine,40,41.0
+pramocaine,40,41.0
+pranoprofen,40,41.0
+prasterone,40,41.0
+prasterone acetate,40,41.0
+prasterone sulfate,40,41.0
+prasugrel,40,41.0
+pravastatin,40,41.0
+prazepam,40,41.0
+praziquantel,40,41.0
+prazosin,40,41.0
+linolenic acid,40,41.0
+procarbazine,40,41.0
+procaterol,40,41.0
+propylene glycol,40,41.0
+propentofylline,40,41.0
+propicillin,40,41.0
+propiolactone,40,41.0
+propiomazine,40,41.0
+propipocaine,40,41.0
+propiram,40,41.0
+propiverine,40,41.0
+propizepine,40,41.0
+propofol,40,41.0
+propoxycaine,40,41.0
+propranolol,40,41.0
+propylhexedrine,40,41.0
+propatylnitrate,40,41.0
+propyliodone,40,41.0
+propylparaben,40,41.0
+propylthiouracil,40,41.0
+propyphenazone,40,41.0
+propyromazine,40,41.0
+proquazone,40,41.0
+proscillaridin,40,41.0
+protheobromine,40,41.0
+prothipendyl,40,41.0
+protiofate,40,41.0
+protionamide,40,41.0
+propenidazole,40,41.0
+proparacaine,40,41.0
+prochlorperazine,40,41.0
+promazine,40,41.0
+procodazole,40,41.0
+procyclidine,40,41.0
+procymate,40,41.0
+profenamine,40,41.0
+proflavine,40,41.0
+progabide,40,41.0
+progesterone,40,41.0
+proglumide,40,41.0
+proguanil,40,41.0
+proline,40,41.0
+prolintane,40,41.0
+promegestone,40,41.0
+propantheline,40,41.0
+promestriene,40,41.0
+promethazine,40,41.0
+promoxolane,40,41.0
+pronetalol,40,41.0
+pronilide,40,41.0
+propacetamol,40,41.0
+propafenone,40,41.0
+propallylonal,40,41.0
+propamidine,40,41.0
+propanidid,40,41.0
+propanol,40,41.0
+poldine,40,41.0
+plerixafor,40,41.0
+protizinic acid,40,41.0
+pleconaril,40,41.0
+pholcodine,40,41.0
+pholedrine,40,41.0
+phosphoric acid,40,41.0
+phosphorylcholine,40,41.0
+phthalylsulfacetamide,40,41.0
+physostigmine,40,41.0
+phytomenadione,40,41.0
+piberaline,40,41.0
+picilorex,40,41.0
+picloxydine,40,41.0
+picodralazine,40,41.0
+picoperine,40,41.0
+picotamide,40,41.0
+picrotin,40,41.0
+pidotimod,40,41.0
+pifarnine,40,41.0
+pildralazine,40,41.0
+pilocarpine,40,41.0
+pilsicainide,40,41.0
+pimavanserin,40,41.0
+pimeclone,40,41.0
+pimecrolimus,40,41.0
+pimefylline,40,41.0
+pimethixene,40,41.0
+piminodine,40,41.0
+phloroglucinol,40,41.0
+phethenylate,40,41.0
+phetharbital,40,41.0
+phentolamine,40,41.0
+phenosulfazole,40,41.0
+phenothrin,40,41.0
+phenoxybenzamine,40,41.0
+phenoxyethanol,40,41.0
+phenoxymethylpenicillin,40,41.0
+phenprobamate,40,41.0
+phenprocoumon,40,41.0
+phenpromethamine,40,41.0
+phensuximide,40,41.0
+phentermine,40,41.0
+phentetramine,40,41.0
+phenyl acetylsalicylate,40,41.0
+phenytoin,40,41.0
+phenyl salicylate,40,41.0
+phenylacetic acid,40,41.0
+phenylalanine,40,41.0
+phenylbutanoic acid,40,41.0
+phenylbutazone,40,41.0
+phenylephrine,40,41.0
+phenylethanolamine,40,41.0
+phenylmercuric nitrate,40,41.0
+phenylpropanol,40,41.0
+phenylpropanolamine,40,41.0
+phenyltoloxamine,40,41.0
+pimobendan,40,41.0
+pimozide,40,41.0
+pinacidil,40,41.0
+pirprofen,40,41.0
+piridocaine,40,41.0
+pirifibrate,40,41.0
+pirisudanol,40,41.0
+piritramide,40,41.0
+pirlindole,40,41.0
+pirmenol,40,41.0
+piroctone,40,41.0
+piroheptine,40,41.0
+piromidic acid,40,41.0
+piroxicam,40,41.0
+pirozadil,40,41.0
+pitavastatin,40,41.0
+pirfenidone,40,41.0
+pitofenone,40,41.0
+pitolisant,40,41.0
+pivagabine,40,41.0
+pivampicillin,40,41.0
+pivhydrazine,40,41.0
+pivmecillinam,40,41.0
+pixantrone,40,41.0
+pizotifen,40,41.0
+plafibride,40,41.0
+plaunotol,40,41.0
+plazomicin,40,41.0
+piribedil,40,41.0
+pirenzepine,40,41.0
+pinaverium,40,41.0
+piperaquine,40,41.0
+pinazepam,40,41.0
+pindolol,40,41.0
+pioglitazone,40,41.0
+pipamperone,40,41.0
+pipazetate,40,41.0
+pipebuzone,40,41.0
+pipecuronium,40,41.0
+pipemidic acid,40,41.0
+pipenzolate,40,41.0
+piperacetazine,40,41.0
+piperacillin,40,41.0
+piperazine,40,41.0
+pirenoxine,40,41.0
+piperidione,40,41.0
+piperidolate,40,41.0
+piperonyl butoxide,40,41.0
+pipethanate,40,41.0
+pipobroman,40,41.0
+piposulfan,40,41.0
+pipoxolan,40,41.0
+pipradrol,40,41.0
+piprozolin,40,41.0
+piracetam,40,41.0
+pirbuterol,40,41.0
+protirelin,40,41.0
+protocatechualdehyde,40,41.0
+sulfacarbamide,40,41.0
+rotigotine,40,41.0
+scopolamine,40,41.0
+scopolamine butylbromide,40,41.0
+secalciferol,40,41.0
+secbutabarbital,40,41.0
+secnidazole,40,41.0
+secobarbital,40,41.0
+selegiline,40,41.0
+selenium (75Se) tauroselcholic acid,40,41.0
+selenium sulfide,40,41.0
+selenomethionine,40,41.0
+selumetinib,40,41.0
+semustine,40,41.0
+sequifenadine,40,41.0
+seratrodast,40,41.0
+serine,40,41.0
+sertaconazole,40,41.0
+sertindole,40,41.0
+sertraline,40,41.0
+setastine,40,41.0
+setiptiline,40,41.0
+sevoflurane,40,41.0
+sibutramine,40,41.0
+siccanin,40,41.0
+sildenafil,40,41.0
+silicon dioxide,40,41.0
+scarlet red,40,41.0
+saxagliptin,40,41.0
+sarpogrelate,40,41.0
+salamidacetic acid,40,41.0
+roxatidine acetate,40,41.0
+rubitecan,40,41.0
+rucaparib,40,41.0
+rufinamide,40,41.0
+rufloxacin,40,41.0
+rupatadine,40,41.0
+rutoside,40,41.0
+ruxolitinib,40,41.0
+sabcomeline,40,41.0
+safinamide,40,41.0
+salacetamide,40,41.0
+salazosulfadimidine,40,41.0
+sarecycline,40,41.0
+salbutamol,40,41.0
+salicylamide,40,41.0
+salicylanilide,40,41.0
+salicylic acid,40,41.0
+salicylsulfuric acid,40,41.0
+salinazid,40,41.0
+salmeterol,40,41.0
+salsalate,40,41.0
+samidorphan,40,41.0
+sancycline,40,41.0
+sapropterin,40,41.0
+silodosin,40,41.0
+simetride,40,41.0
+simfibrate,40,41.0
+strychnine,40,41.0
+spiperone,40,41.0
+spironolactone,40,41.0
+spizofurone,40,41.0
+stallimycin,40,41.0
+stannous fluoride,40,41.0
+stanozolol,40,41.0
+stavudine,40,41.0
+stearic acid,40,41.0
+stiripentol,40,41.0
+streptomycin,40,41.0
+streptozocin,40,41.0
+styramate,40,41.0
+sparteine,40,41.0
+succinic acid,40,41.0
+succinimide,40,41.0
+succisulfone,40,41.0
+sucrose,40,41.0
+sufentanil,40,41.0
+sulbactam,40,41.0
+sulbactam pivoxyl,40,41.0
+sulbentine,40,41.0
+sulcaine,40,41.0
+sulconazole,40,41.0
+sulfabenzamide,40,41.0
+spectinomycin,40,41.0
+sparfloxacin,40,41.0
+simvastatin,40,41.0
+sodium stibogluconate,40,41.0
+siponimod,40,41.0
+sisomicin,40,41.0
+sitafloxacin,40,41.0
+sitagliptin,40,41.0
+sitosterol,40,41.0
+sivelestat,40,41.0
+sobrerol,40,41.0
+sobuzoxane,40,41.0
+sodium gualenate,40,41.0
+sodium hexacyclonate,40,41.0
+sodium myristyl sulfate,40,41.0
+sodium tetradecyl sulfate,40,41.0
+sozoiodolic acid,40,41.0
+sodium thiosalicylate,40,41.0
+sofalcone,40,41.0
+sofpironium bromide,40,41.0
+solifenacin,40,41.0
+solriamfetol,40,41.0
+sonidegib,40,41.0
+sorbinicate,40,41.0
+sorbitol,40,41.0
+sorivudine,40,41.0
+sotagliflozin,40,41.0
+sotalol,40,41.0
+rotraxate,40,41.0
+rosoxacin,40,41.0
+protokylol,40,41.0
+rosiglitazone,40,41.0
+quercetin,40,41.0
+quetiapine,40,41.0
+quifenadine,40,41.0
+quinagolide,40,41.0
+quinbolone,40,41.0
+quinestradol,40,41.0
+quinestrol,40,41.0
+quinethazone,40,41.0
+quinfamide,40,41.0
+quingestanol acetate,40,41.0
+quinidine,40,41.0
+quinine,40,41.0
+quinisocaine,40,41.0
+quinupramine,40,41.0
+rabeprazole,40,41.0
+racepinefrine,40,41.0
+radium Ra 223 dichloride,40,41.0
+raloxifene,40,41.0
+ramelteon,40,41.0
+ramifenazone,40,41.0
+ramosetron,40,41.0
+ranimustine,40,41.0
+ranitidine,40,41.0
+rapacuronium,40,41.0
+rasagiline,40,41.0
+quazepam,40,41.0
+pyrvinium,40,41.0
+pyrrolnitrin,40,41.0
+pyricarbate,40,41.0
+protoporphyrin,40,41.0
+protoverine,40,41.0
+protriptyline,40,41.0
+proxazole,40,41.0
+proxibarbal,40,41.0
+prozapine,40,41.0
+prucalopride,40,41.0
+prulifloxacin,40,41.0
+pseudoephedrine,40,41.0
+pyrantel,40,41.0
+pyrazinamide,40,41.0
+pyridostigmine,40,41.0
+pyrrocaine,40,41.0
+pyridoxal,40,41.0
+pyridoxal phosphate,40,41.0
+pyridoxine,40,41.0
+pyrimethamine,40,41.0
+pyrinoline,40,41.0
+pyrithione,40,41.0
+pyrithyldione,40,41.0
+pyritinol,40,41.0
+pyronaridine,40,41.0
+pyrovalerone,40,41.0
+pyrrobutamine,40,41.0
+razoxane,40,41.0
+rebamipide,40,41.0
+reboxetine,40,41.0
+ritodrine,40,41.0
+rimegepant,40,41.0
+rimexolone,40,41.0
+rimiterol,40,41.0
+riociguat,40,41.0
+riodoxol,40,41.0
+rioprostil,40,41.0
+ripasudil,40,41.0
+ripazepam,40,41.0
+risdiplam,40,41.0
+risedronic acid,40,41.0
+risperidone,40,41.0
+rivastigmine,40,41.0
+rimantadine,40,41.0
+rizatriptan,40,41.0
+rociverine,40,41.0
+rocuronium,40,41.0
+rofecoxib,40,41.0
+roflumilast,40,41.0
+rolitetracycline,40,41.0
+ronifibrate,40,41.0
+ropinirole,40,41.0
+ropivacaine,40,41.0
+roquinimex,40,41.0
+rosaprostol,40,41.0
+rimazolium,40,41.0
+riluzole,40,41.0
+regadenoson,40,41.0
+resorcinol,40,41.0
+relebactam,40,41.0
+remifentanil,40,41.0
+remikiren,40,41.0
+remimazolam,40,41.0
+repirinast,40,41.0
+reposal,40,41.0
+reproterol,40,41.0
+rescimetol,40,41.0
+rescinnamine,40,41.0
+reserpiline,40,41.0
+reserpine,40,41.0
+retapamulin,40,41.0
+rilmenidine,40,41.0
+retigabine,40,41.0
+retinol,40,41.0
+retinol acetate,40,41.0
+revaprazan,40,41.0
+rhodoquine,40,41.0
+ribavirin,40,41.0
+ribociclib,40,41.0
+riboflavin,40,41.0
+ribostamycin,40,41.0
+ricinoleic acid,40,41.0
+rilmazafone,40,41.0
+linopirdine,40,41.0
+ipidacrine,40,41.0
+linoleic acid,40,41.0
+chloropyramine,40,41.0
+chlordiazepoxide,40,41.0
+chlorfenethazine,40,41.0
+chlorhexidine,40,41.0
+chlorisondamine,40,41.0
+chlormadinone,40,41.0
+chlormezanone,40,41.0
+chlormidazole,40,41.0
+chlornaphazine,40,41.0
+chlorobutanol,40,41.0
+chloroform,40,41.0
+chloroprednisone,40,41.0
+chloroprocaine,40,41.0
+chloropyrilene,40,41.0
+cefuroxime axetil,40,41.0
+chloroquine,40,41.0
+chlorotrianisene,40,41.0
+chloroxine,40,41.0
+chloroxylenol,40,41.0
+chlorozotocin,40,41.0
+chlorphenamine,40,41.0
+chlorphenesin carbamate,40,41.0
+chlorphenoxamine,40,41.0
+chlorphentermine,40,41.0
+chlorproethazine,40,41.0
+chlorproguanil,40,41.0
+chlorpromazine,40,41.0
+chlorcyclizine,40,41.0
+chlorbetamide,40,41.0
+chlorbenzoxamine,40,41.0
+chlorazanil,40,41.0
+celecoxib,40,41.0
+celiprolol,40,41.0
+cenobamate,40,41.0
+cepharanthine,40,41.0
+cerulenin,40,41.0
+cetalkonium chloride,40,41.0
+cetamolol,40,41.0
+cethexonium,40,41.0
+cetiedil,40,41.0
+cetilistat,40,41.0
+cetirizine,40,41.0
+cetotiamine,40,41.0
+cetoxime,40,41.0
+cetraxate,40,41.0
+cetrimonium,40,41.0
+cetyl alcohol,40,41.0
+cetylpyridinium,40,41.0
+cevimeline,40,41.0
+chenodiol,40,41.0
+chidamide,40,41.0
+chloral hydrate,40,41.0
+chloralodol,40,41.0
+chloralose,40,41.0
+chlorambucil,40,41.0
+chloramphenicol palmitate,40,41.0
+chlorpropamide,40,41.0
+chlorprothixene,40,41.0
+chlorquinaldol,40,41.0
+cinacalcet,40,41.0
+cinametic acid,40,41.0
+cinchocaine,40,41.0
+cineole,40,41.0
+cinepazet,40,41.0
+cinepazide,40,41.0
+cinitapride,40,41.0
+cinmetacin,40,41.0
+cinnamaverine,40,41.0
+cinnarizine,40,41.0
+cinolazepam,40,41.0
+cinoxacin,40,41.0
+cinromide,40,41.0
+cioteronel,40,41.0
+ciprofibrate,40,41.0
+ciprofloxacin,40,41.0
+ciramadol,40,41.0
+cisapride,40,41.0
+citalopram,40,41.0
+citicoline,40,41.0
+citiolone,40,41.0
+citric acid,40,41.0
+citrulline,40,41.0
+cladribine,40,41.0
+clanobutin,40,41.0
+clarithromycin,40,41.0
+cinalukast,40,41.0
+cimetropium,40,41.0
+chlortalidone,40,41.0
+cimetidine,40,41.0
+chlortetracycline,40,41.0
+chlorthenoxazine,40,41.0
+chlorzoxazone,40,41.0
+cholic acid,40,41.0
+choline,40,41.0
+choline alfoscerate,40,41.0
+choline fenofibrate,40,41.0
+chromic chloride,40,41.0
+chromocarb,40,41.0
+cianidanol,40,41.0
+cibenzoline,40,41.0
+cicaprost,40,41.0
+ciclesonide,40,41.0
+cicletanine,40,41.0
+ciclobendazole,40,41.0
+ciclonicate,40,41.0
+ciclonium,40,41.0
+ciclopirox,40,41.0
+cicloprolol,40,41.0
+ciclosidomine,40,41.0
+cicrotoic acid,40,41.0
+cidofovir,40,41.0
+cilastatin,40,41.0
+cilnidipine,40,41.0
+cilostazol,40,41.0
+cefuroxime pivoxetil,40,41.0
+cefuroxime,40,41.0
+dichlorobenzyl alcohol,40,41.0
+buzepide metiodide,40,41.0
+butibufen,40,41.0
+butidrine,40,41.0
+butinoline,40,41.0
+butobarbital,40,41.0
+butobendine,40,41.0
+butoctamide,40,41.0
+butofilolol,40,41.0
+butorphanol,40,41.0
+butoxycaine,40,41.0
+butriptyline,40,41.0
+butropium,40,41.0
+butylphthalide,40,41.0
+cabergoline,40,41.0
+cefroxadine,40,41.0
+cabozantinib,40,41.0
+cacodylic acid,40,41.0
+cadralazine,40,41.0
+cafaminol,40,41.0
+caffeine,40,41.0
+calcifediol,40,41.0
+calcipotriene,40,41.0
+calcitriol,40,41.0
+calcium pantothenate,40,41.0
+calusterone,40,41.0
+camostat,40,41.0
+camphor,40,41.0
+buthalital,40,41.0
+butethamine,40,41.0
+butetamate,40,41.0
+butenafine,40,41.0
+bulaquine,40,41.0
+bumadizone,40,41.0
+bunaftine,40,41.0
+bunamiodyl,40,41.0
+bunazosin,40,41.0
+bunitrolol,40,41.0
+buphenine,40,41.0
+bupivacaine,40,41.0
+bupranolol,40,41.0
+buprenorphine,40,41.0
+bupropion,40,41.0
+buramate,40,41.0
+buspirone,40,41.0
+busulfan,40,41.0
+butacaine,40,41.0
+butacetin,40,41.0
+butalamine,40,41.0
+butalbital,40,41.0
+butamben,40,41.0
+butamirate,40,41.0
+butanilicaine,40,41.0
+butaperazine,40,41.0
+butaverine,40,41.0
+butazopyridine,40,41.0
+butedronic acid,40,41.0
+camylofin,40,41.0
+cannabidiol,40,41.0
+canrenone,40,41.0
+carbutamide,40,41.0
+carfenazine,40,41.0
+carfimate,40,41.0
+cariprazine,40,41.0
+carisbamate,40,41.0
+carmofur,40,41.0
+carmustine,40,41.0
+caroverine,40,41.0
+caroxazone,40,41.0
+carprofen,40,41.0
+carpronium,40,41.0
+carsalam,40,41.0
+carteolol,40,41.0
+carubicin,40,41.0
+carvedilol,40,41.0
+cathine,40,41.0
+cefacetrile,40,41.0
+cefaclor,40,41.0
+cefadroxil,40,41.0
+cefalexin,40,41.0
+cefalexin pivoxil,40,41.0
+cefaloglycin,40,41.0
+cefdinir,40,41.0
+cefixime,40,41.0
+cefprozil,40,41.0
+cefradine,40,41.0
+carbuterol,40,41.0
+carbubarb,40,41.0
+capmatinib,40,41.0
+carbromal,40,41.0
+capobenic acid,40,41.0
+capsaicin,40,41.0
+captopril,40,41.0
+capuride,40,41.0
+caramiphen,40,41.0
+carazolol,40,41.0
+carbachol,40,41.0
+carbamazepine,40,41.0
+carbamide,40,41.0
+carbarsone,40,41.0
+carbaryl,40,41.0
+carbazochrome,40,41.0
+carbenoxolone,40,41.0
+carbidopa,40,41.0
+carbifene,40,41.0
+carbimazole,40,41.0
+carbinoxamine,40,41.0
+carbocisteine,40,41.0
+carbocloral,40,41.0
+carbocromen,40,41.0
+carbocysteine-lysine,40,41.0
+carbon dioxide,40,41.0
+carbon tetrachloride,40,41.0
+carboprost,40,41.0
+carboquone,40,41.0
+clascoterone,40,41.0
+clefamide,40,41.0
+clemastine,40,41.0
+demegestone,40,41.0
+deferiprone,40,41.0
+deferoxamine,40,41.0
+deflazacort,40,41.0
+dehydrocholic acid,40,41.0
+delamanid,40,41.0
+delgocitinib,40,41.0
+delmadinone acetate,40,41.0
+delmopinol,40,41.0
+delorazepam,40,41.0
+demecarium,40,41.0
+demeclocycline,40,41.0
+demecolcine,40,41.0
+demexiptiline,40,41.0
+clemizole,40,41.0
+denaverine,40,41.0
+denopamine,40,41.0
+deoxycholic acid,40,41.0
+deptropine,40,41.0
+dequalinium,40,41.0
+desalkylflurazepam,40,41.0
+desaspidin,40,41.0
+deserpidine,40,41.0
+desflurane,40,41.0
+desipramine,40,41.0
+desloratadine,40,41.0
+desogestrel,40,41.0
+decitabine,40,41.0
+decimemide,40,41.0
+decamethrin,40,41.0
+decamethoxine,40,41.0
+cyproterone acetate,40,41.0
+cysteine,40,41.0
+cytarabine,40,41.0
+cytarabine ocfosfate,40,41.0
+cytisine,40,41.0
+cyverine,40,41.0
+dabigatran etexilate,40,41.0
+dacarbazine,40,41.0
+dacisteine,40,41.0
+danazol,40,41.0
+dantrolene,40,41.0
+dantron,40,41.0
+dapagliflozin,40,41.0
+dapiprazole,40,41.0
+dapoxetine,40,41.0
+daprodustat,40,41.0
+dapsone,40,41.0
+dasabuvir,40,41.0
+dasatinib,40,41.0
+daunorubicin,40,41.0
+daunorubicinol,40,41.0
+davercin,40,41.0
+deanol,40,41.0
+debrisoquine,40,41.0
+decamethonium,40,41.0
+desomorphine,40,41.0
+desonide,40,41.0
+desoximetasone,40,41.0
+dexrazoxane,40,41.0
+dextromethorphan,40,41.0
+dextromoramide,40,41.0
+dextropropoxyphene,40,41.0
+dextrothyroxine,40,41.0
+dezocine,40,41.0
+diacerein,40,41.0
+diacetazotol,40,41.0
+diacetyl benzoyl lathyrol,40,41.0
+diamorphine,40,41.0
+diampromide,40,41.0
+diathymosulfone,40,41.0
+diatrizoate,40,41.0
+diazepam,40,41.0
+diaziquone,40,41.0
+diazolidinylurea,40,41.0
+diazoxide,40,41.0
+dibekacin,40,41.0
+linezolid,40,41.0
+dibromol,40,41.0
+dibromotyrosine,40,41.0
+dibrompropamidine,40,41.0
+dibunate,40,41.0
+dibutylphthalate,40,41.0
+dibutylsuccinate,40,41.0
+dichlorisone,40,41.0
+dextrofemine,40,41.0
+dexrabeprazole,40,41.0
+desoxycorticosterone acetate,40,41.0
+dexniguldipine,40,41.0
+desoxycorticosterone pivalate,40,41.0
+desoxycortone,40,41.0
+desoxymycin,40,41.0
+desvenlafaxine,40,41.0
+detajmium,40,41.0
+deutetrabenazine,40,41.0
+dexamethasone,40,41.0
+dexamethasone acefurate,40,41.0
+dexamethasone acetate,40,41.0
+dexamethasone dipropionate,40,41.0
+dexamethasone palmitate,40,41.0
+dexamethasone phosphate,40,41.0
+dexamethasone valerate,40,41.0
+dexamfetamine,40,41.0
+dexbrompheniramine,40,41.0
+dexchlorpheniramine,40,41.0
+dexetimide,40,41.0
+dexfenfluramine,40,41.0
+dexfosfoserine,40,41.0
+dexibuprofen,40,41.0
+dexketoprofen,40,41.0
+dexlansoprazole,40,41.0
+dexloxiglumide,40,41.0
+dexmedetomidine,40,41.0
+dexmethylphenidate,40,41.0
+cyproheptadine,40,41.0
+cyprodenate,40,41.0
+cypermethrin,40,41.0
+clofibrate,40,41.0
+clofibride,40,41.0
+clofoctol,40,41.0
+cloforex,40,41.0
+clomacran,40,41.0
+clometacin,40,41.0
+clomethiazole,40,41.0
+clometocillin,40,41.0
+clomifene,40,41.0
+clomipramine,40,41.0
+clomocycline,40,41.0
+clonazepam,40,41.0
+clonidine,40,41.0
+clonitrate,40,41.0
+clonixin,40,41.0
+clopamide,40,41.0
+clopenthixol,40,41.0
+cloperastine,40,41.0
+clopidogrel,40,41.0
+clopirac,40,41.0
+cloprednol,40,41.0
+cloranolol,40,41.0
+clorazepate,40,41.0
+cloricromen,40,41.0
+cloridarol,40,41.0
+clorindione,40,41.0
+clofibric acid,40,41.0
+clofenotane,40,41.0
+clorprenaline,40,41.0
+clofenamide,40,41.0
+clenbuterol,40,41.0
+clevidipine,40,41.0
+clevudine,40,41.0
+clidanac,40,41.0
+clidinium,40,41.0
+climbazole,40,41.0
+clinafloxacin,40,41.0
+clindamycin,40,41.0
+clindamycin palmitate,40,41.0
+clioquinol,40,41.0
+clobazam,40,41.0
+clobenoside,40,41.0
+clobenzepam,40,41.0
+clobenzorex,40,41.0
+clobenztropine,40,41.0
+clobetasol propionate,40,41.0
+clobetasone butyrate,40,41.0
+clobutinol,40,41.0
+clocinizine,40,41.0
+clocortolone pivalate,40,41.0
+clodantoin,40,41.0
+clodronic acid,40,41.0
+clofarabine,40,41.0
+clofazimine,40,41.0
+clofedanol,40,41.0
+clorotepine,40,41.0
+clortermine,40,41.0
+cymarin,40,41.0
+croconazole,40,41.0
+crotamiton,40,41.0
+crotetamide,40,41.0
+cupric chloride,40,41.0
+cupric oxide,40,41.0
+cyamemazine,40,41.0
+cyclacillin,40,41.0
+cyclandelate,40,41.0
+cyclizine,40,41.0
+cyclobarbital,40,41.0
+cyclobenzaprine,40,41.0
+cyclobutyrol,40,41.0
+cyclocoumarol,40,41.0
+cyclodrine,40,41.0
+cyclofenil,40,41.0
+cycloguanil,40,41.0
+cyclomethycaine,40,41.0
+cyclopentamine,40,41.0
+cyclopentobarbital,40,41.0
+cyclopentolate,40,41.0
+cyclophosphamide,40,41.0
+cycloserine,40,41.0
+cyclovalone,40,41.0
+cycloxilic acid,40,41.0
+cycrimine,40,41.0
+cyfluthrin,40,41.0
+cropropamide,40,41.0
+crizotinib,40,41.0
+clostebol,40,41.0
+crisaborole,40,41.0
+clostebol acetate,40,41.0
+clotiapine,40,41.0
+clotiazepam,40,41.0
+clotrimazole,40,41.0
+cloxazolam,40,41.0
+cloxiquine,40,41.0
+cloxotestosterone,40,41.0
+clozapine,40,41.0
+cobimetinib,40,41.0
+cocaine,40,41.0
+codeine,40,41.0
+colchicine,40,41.0
+colecalciferol,40,41.0
+colforsin daropate,40,41.0
+colfosceril palmitate,40,41.0
+corbadrine,40,41.0
+cortisone acetate,40,41.0
+cortivazol,40,41.0
+cotinine,40,41.0
+coumarin,40,41.0
+coumetarol,40,41.0
+creatine,40,41.0
+creatinolfosfate,40,41.0
+cresatin,40,41.0
+cridanimod,40,41.0
+bufuralol,40,41.0
+buformin,40,41.0
+bufogenin,40,41.0
+aminitrozole,40,41.0
+amezinium metilsulfate,40,41.0
+amfecloral,40,41.0
+amfetamine,40,41.0
+amfetaminil,40,41.0
+amidefrine,40,41.0
+amifampridine,40,41.0
+amifostine,40,41.0
+amikacin,40,41.0
+amiloride,40,41.0
+amiloxate,40,41.0
+aminaphthone,40,41.0
+amineptine,40,41.0
+aminoacridine,40,41.0
+apronal,40,41.0
+aminobenzoic acid,40,41.0
+aminobutyric acid,40,41.0
+aminocaproic acid,40,41.0
+aminoglutethimide,40,41.0
+aminohippuric acid,40,41.0
+aminohydroxybutyric acid,40,41.0
+aminolevulinic acid,40,41.0
+aminomethylbenzoic acid,40,41.0
+aminometradine,40,41.0
+aminophenazone,40,41.0
+aminopicoline,40,41.0
+aminopromazine,40,41.0
+amcinonide,40,41.0
+ambutonium,40,41.0
+ambucetamide,40,41.0
+ambroxol,40,41.0
+allylestrenol,40,41.0
+almecillin,40,41.0
+alminoprofen,40,41.0
+almitrine,40,41.0
+almotriptan,40,41.0
+alogliptin,40,41.0
+alosetron,40,41.0
+alpelisib,40,41.0
+alpha-Ergocryptine,40,41.0
+alpha-tocopherol acetate,40,41.0
+alphaprodine,40,41.0
+alpidem,40,41.0
+alpiropride,40,41.0
+alprazolam,40,41.0
+alprenolol,40,41.0
+alprostadil,40,41.0
+altretamine,40,41.0
+altropane,40,41.0
+aluminium oxide,40,41.0
+alverine,40,41.0
+alvimopan,40,41.0
+amanozine,40,41.0
+amantadine,40,41.0
+ambazone,40,41.0
+ambenonium,40,41.0
+aminopropylone,40,41.0
+aminoquinuride,40,41.0
+aminorex,40,41.0
+amrubicin,40,41.0
+amylocaine,40,41.0
+anagestone acetate,40,41.0
+anagliptin,40,41.0
+anagrelide,40,41.0
+anastrozole,40,41.0
+ancitabine,40,41.0
+androisoxazole,40,41.0
+androstanolone,40,41.0
+androstenediol,40,41.0
+androstenedione,40,41.0
+anecortave,40,41.0
+anethole trithione,40,41.0
+anileridine,40,41.0
+aniracetam,40,41.0
+anisindione,40,41.0
+antazoline,40,41.0
+antrafenine,40,41.0
+apalutamide,40,41.0
+apatinib,40,41.0
+apixaban,40,41.0
+apomorphine,40,41.0
+apraclonidine,40,41.0
+apremilast,40,41.0
+aprepitant,40,41.0
+aprindine,40,41.0
+amsacrine,40,41.0
+amrinone,40,41.0
+aminosalicylic acid,40,41.0
+amprotropine,40,41.0
+aminosalicylic acid hydrazide,40,41.0
+aminoxytriphene,40,41.0
+amiodarone,40,41.0
+amiphenazole,40,41.0
+amisometradine,40,41.0
+amisulpride,40,41.0
+amitriptyline,40,41.0
+amitriptylinoxide,40,41.0
+amixetrine,40,41.0
+amlexanox,40,41.0
+amlodipine,40,41.0
+ammonia,40,41.0
+amobarbital,40,41.0
+amocarzine,40,41.0
+amodiaquine,40,41.0
+amolanone,40,41.0
+amorolfine,40,41.0
+amoscanate,40,41.0
+amosulalol,40,41.0
+amoxapine,40,41.0
+amoxicillin,40,41.0
+amperozide,40,41.0
+amphenidone,40,41.0
+amphotalide,40,41.0
+ampiroxicam,40,41.0
+allopurinol,40,41.0
+allomethadione,40,41.0
+allobarbital,40,41.0
+acamprosate,40,41.0
+acebutolol,40,41.0
+acecarbromal,40,41.0
+aceclidine,40,41.0
+aceclofenac,40,41.0
+acedapsone,40,41.0
+acediasulfone,40,41.0
+acefylline,40,41.0
+aceglatone,40,41.0
+acemetacin,40,41.0
+acenocoumarol,40,41.0
+acepromazine,40,41.0
+aceprometazine,40,41.0
+acetamidoeugenol,40,41.0
+acetaminosalol,40,41.0
+acetanilide,40,41.0
+acetarsol,40,41.0
+acetazolamide,40,41.0
+acetic acid,40,41.0
+acetohexamide,40,41.0
+acetohydroxamic acid,40,41.0
+acetophenazine,40,41.0
+acetoxolone,40,41.0
+acetrizoic acid,40,41.0
+acetylcarnitine,40,41.0
+acetylcholine,40,41.0
+acarbose,40,41.0
+acadesine,40,41.0
+acetyldihydrocodeine,40,41.0
+abiraterone acetate,40,41.0
+(S)-nitrendipine,40,41.0
+1-Octacosanol,40,41.0
+2-(4-chlorphenoxy)-ethanol,40,41.0
+4-dimethylaminophenol,40,41.0
+5-aminolevulinic acid hexyl ester,40,41.0
+AMMONIA N-13,40,41.0
+Cabotegravir,40,41.0
+Choline C-11,40,41.0
+DL-Alanine,40,41.0
+EIDD-1931,40,41.0
+Flutemetamol (18F),40,41.0
+Iofetamine (123I),40,41.0
+Ioflupane I-123,40,41.0
+Molybdenum Mo-99,40,41.0
+N-Acetylglucosamine,40,41.0
+N-Acetyltyrosine,40,41.0
+Padimate A,40,41.0
+Padimate O,40,41.0
+Rilpivirine,40,41.0
+Streptomycin B,40,41.0
+UREA C 14,40,41.0
+UREA C-13,40,41.0
+abacavir,40,41.0
+abametapir,40,41.0
+abemaciclib,40,41.0
+acetylcysteine,40,41.0
+acetylleucine,40,41.0
+allantoin,40,41.0
+ajmaline,40,41.0
+alanine,40,41.0
+alatrofloxacin,40,41.0
+albendazole,40,41.0
+albendazole sulfoxide,40,41.0
+albutoin,40,41.0
+alcaftadine,40,41.0
+alclofenac,40,41.0
+alclometasone dipropionate,40,41.0
+alcuronium,40,41.0
+aldosterone,40,41.0
+alectinib,40,41.0
+alendronic acid,40,41.0
+alexidine,40,41.0
+alfacalcidol,40,41.0
+alfadolone acetate,40,41.0
+alfaxalone,40,41.0
+alfentanil,40,41.0
+alfuzosin,40,41.0
+algeldrate,40,41.0
+algestone acetophenide,40,41.0
+alibendol,40,41.0
+alimemazine,40,41.0
+aliskiren,40,41.0
+alitretinoin,40,41.0
+alkofanone,40,41.0
+alacepril,40,41.0
+agomelatine,40,41.0
+acetylmethadol,40,41.0
+afloqualone,40,41.0
+acetylpheneturide,40,41.0
+acetylsalicylic acid,40,41.0
+acexamic acid,40,41.0
+acipimox,40,41.0
+acitazanolast,40,41.0
+acitretin,40,41.0
+aclatonium,40,41.0
+acotiamide,40,41.0
+acrivastine,40,41.0
+actarit,40,41.0
+actinoquinol,40,41.0
+acyclovir,40,41.0
+adamexine,40,41.0
+adapalene,40,41.0
+adefovir dipivoxil,40,41.0
+ademetionine,40,41.0
+adenine,40,41.0
+adenosine,40,41.0
+adenosine phosphate,40,41.0
+adicillin,40,41.0
+adinazolam,40,41.0
+adiphenine,40,41.0
+adipic acid,40,41.0
+adrafinil,40,41.0
+adrenalone,40,41.0
+aprobarbital,40,41.0
+aranidipine,40,41.0
+buflomedil,40,41.0
+bifemelane,40,41.0
+bexarotene,40,41.0
+bezafibrate,40,41.0
+bezitramide,40,41.0
+bialamicol,40,41.0
+biapenem,40,41.0
+bibenzonium,40,41.0
+bibrocathol,40,41.0
+bicalutamide,40,41.0
+bictegravir,40,41.0
+bidisomide,40,41.0
+bietamiverine,40,41.0
+bietaserpine,40,41.0
+bifluranol,40,41.0
+arbekacin,40,41.0
+bifonazole,40,41.0
+bilastine,40,41.0
+bimatoprost,40,41.0
+binimetinib,40,41.0
+bioallethrin,40,41.0
+biperiden,40,41.0
+biphenylol,40,41.0
+biriperone,40,41.0
+bisacodyl,40,41.0
+bisaramil,40,41.0
+bisdequalinium chloride,40,41.0
+bismuth camphocarbonate,40,41.0
+bevonium,40,41.0
+bevantolol,40,41.0
+betoxycaine,40,41.0
+bethanechol,40,41.0
+benzyl nicotinate,40,41.0
+benzylthiouracil,40,41.0
+bephenium,40,41.0
+bepotastine,40,41.0
+bepridil,40,41.0
+bergapten,40,41.0
+bermoprofen,40,41.0
+berotralstat,40,41.0
+besifloxacin,40,41.0
+beta-Ergocryptine,40,41.0
+betacarotene,40,41.0
+betahistine,40,41.0
+betaine,40,41.0
+betamethasone,40,41.0
+betamethasone acetate,40,41.0
+betamethasone acibutate,40,41.0
+betamethasone butyrate propionate,40,41.0
+betamethasone dipropionate,40,41.0
+betamethasone phosphate,40,41.0
+betamethasone valerate,40,41.0
+betamipron,40,41.0
+betanaphthol,40,41.0
+betanidine,40,41.0
+betaxolol,40,41.0
+betazole,40,41.0
+bismuth subgallate,40,41.0
+bismuth subsalicylate,40,41.0
+bisoprolol,40,41.0
+bromindione,40,41.0
+bromochlorosalicylanilide,40,41.0
+bromoform,40,41.0
+bromopride,40,41.0
+bromperidol,40,41.0
+brompheniramine,40,41.0
+bropirimine,40,41.0
+brotizolam,40,41.0
+brovanexine,40,41.0
+brovincamine,40,41.0
+broxuridine,40,41.0
+broxyquinoline,40,41.0
+bucetin,40,41.0
+bucladesine,40,41.0
+buclizine,40,41.0
+buclosamide,40,41.0
+bucloxic acid,40,41.0
+bucolome,40,41.0
+bucricaine,40,41.0
+bucumolol,40,41.0
+budesonide,40,41.0
+budipine,40,41.0
+budralazine,40,41.0
+bufeniode,40,41.0
+bufetolol,40,41.0
+bufexamac,40,41.0
+bromisoval,40,41.0
+bromhexine,40,41.0
+bisoxatin,40,41.0
+bromfenac,40,41.0
+bisoxatin acetate,40,41.0
+bisulepine,40,41.0
+bithionol,40,41.0
+bitolterol,40,41.0
+bitoscanate,40,41.0
+blonanserin,40,41.0
+bolandiol dipropionate,40,41.0
+bopindolol,40,41.0
+boric acid,40,41.0
+bornaprine,40,41.0
+borofalan (10B),40,41.0
+bosutinib,40,41.0
+brallobarbital,40,41.0
+bretylium,40,41.0
+brexanolone,40,41.0
+brexpiprazole,40,41.0
+brigatinib,40,41.0
+brilliant green,40,41.0
+brimonidine,40,41.0
+brivaracetam,40,41.0
+brivudine,40,41.0
+brodimoprim,40,41.0
+bromazepam,40,41.0
+bromazine,40,41.0
+bromebric acid,40,41.0
+benzyl alcohol,40,41.0
+benzydamine,40,41.0
+benzquinamide,40,41.0
+atenolol,40,41.0
+atovaquone,40,41.0
+atrolactamide,40,41.0
+atropine,40,41.0
+atropine oxyde,40,41.0
+avapritinib,40,41.0
+avibactam,40,41.0
+avobenzone,40,41.0
+azacitidine,40,41.0
+azacyclonol,40,41.0
+azanidazole,40,41.0
+azapetine,40,41.0
+azapropazone,40,41.0
+azaribine,40,41.0
+azasetron,40,41.0
+azatadine,40,41.0
+azathioprine,40,41.0
+azelaic acid,40,41.0
+azelastine,40,41.0
+azidamfenicol,40,41.0
+azidocillin,40,41.0
+azimilide,40,41.0
+azintamide,40,41.0
+azithromycin,40,41.0
+aztreonam,40,41.0
+bacampicillin,40,41.0
+atomoxetine,40,41.0
+ataluren,40,41.0
+bagrosin,40,41.0
+asulacrine,40,41.0
+arbutamine,40,41.0
+arbutin,40,41.0
+arformoterol,40,41.0
+argatroban,40,41.0
+arginine hydrochloride,40,41.0
+aripiprazole,40,41.0
+aripiprazole lauroxil,40,41.0
+armodafinil,40,41.0
+arsanilic acid,40,41.0
+arsenic trioxide,40,41.0
+artemether,40,41.0
+artemisinin,40,41.0
+artemotil,40,41.0
+artenimol,40,41.0
+arterolane,40,41.0
+artesunate,40,41.0
+articaine,40,41.0
+artisone acetate,40,41.0
+ascorbic acid,40,41.0
+asenapine,40,41.0
+asparagine,40,41.0
+aspartic acid,40,41.0
+aspoxicillin,40,41.0
+astemizole,40,41.0
+astromicin,40,41.0
+baclofen,40,41.0
+balofloxacin,40,41.0
+benzphetamine,40,41.0
+benidipine,40,41.0
+benorilate,40,41.0
+benoxaprofen,40,41.0
+benperidol,40,41.0
+benproperine,40,41.0
+benserazide,40,41.0
+bentazepam,40,41.0
+bentiromide,40,41.0
+benzalamide,40,41.0
+benzalkonium,40,41.0
+benzamidosalicylate,40,41.0
+benzarone,40,41.0
+benzatropine,40,41.0
+benzbromarone,40,41.0
+benzestrol,40,41.0
+benzethonium,40,41.0
+benzilonium,40,41.0
+benziodarone,40,41.0
+benznidazole,40,41.0
+benzocaine,40,41.0
+benzoctamine,40,41.0
+benzoic acid,40,41.0
+benzoin,40,41.0
+benzomethamine,40,41.0
+benzoxonium chloride,40,41.0
+benzoyl peroxide,40,41.0
+benmoxin,40,41.0
+benfluorex,40,41.0
+baloxavir marboxil,40,41.0
+benexate,40,41.0
+balsalazide,40,41.0
+bambuterol,40,41.0
+bamethan,40,41.0
+bamifylline,40,41.0
+bamipine,40,41.0
+barbital,40,41.0
+baricitinib,40,41.0
+barnidipine,40,41.0
+bazedoxifene,40,41.0
+beclabuvir,40,41.0
+beclamide,40,41.0
+beclobrate,40,41.0
+beclometasone dipropionate,40,41.0
+bedaquiline,40,41.0
+befunolol,40,41.0
+bekanamycin,40,41.0
+belinostat,40,41.0
+belotecan,40,41.0
+bemegride,40,41.0
+bemotrizinol,40,41.0
+bempedoic acid,40,41.0
+benactyzine,40,41.0
+bencyclane,40,41.0
+bendamustine,40,41.0
+bendazol,40,41.0
+dichloroacetic acid,40,41.0
+dibenzepin,40,41.0
+fluoxetine,40,41.0
+haletazole,40,41.0
+guanadrel,40,41.0
+guanazodine,40,41.0
+guancidine,40,41.0
+guanethidine,40,41.0
+guanfacine,40,41.0
+guanidine,40,41.0
+guanoclor,40,41.0
+guanoxabenz,40,41.0
+guanoxan,40,41.0
+gusperimus,40,41.0
+halazepam,40,41.0
+halcinonide,40,41.0
+halocarban,40,41.0
+heptaminol,40,41.0
+halofantrine,40,41.0
+halometasone,40,41.0
+haloperidol,40,41.0
+haloperidol decanoate,40,41.0
+halopredone acetate,40,41.0
+haloprogin,40,41.0
+halopropane,40,41.0
+halothane,40,41.0
+haloxazolam,40,41.0
+helium,40,41.0
+hematoporphyrin,40,41.0
+hepronicate,40,41.0
+guanacline,40,41.0
+guanabenz,40,41.0
+guamecycline,40,41.0
+guaimesal,40,41.0
+glycerol phenylbutyrate,40,41.0
+glyceryl trinitrate,40,41.0
+glycerylphosphorylcholine,40,41.0
+glycine,40,41.0
+glycobiarsol,40,41.0
+glycol salicylate,40,41.0
+glycolic acid,40,41.0
+glycopyrronium bromide,40,41.0
+glycyclamide,40,41.0
+glyhexamide,40,41.0
+glymidine,40,41.0
+glypinamide,40,41.0
+gossypol,40,41.0
+granisetron,40,41.0
+grepafloxacin,40,41.0
+griseofulvin,40,41.0
+guabenxan,40,41.0
+guacetisal,40,41.0
+guaiacol,40,41.0
+guaiacol benzoate,40,41.0
+guaiacol carbonate,40,41.0
+guaiacol phosphate,40,41.0
+guaiapate,40,41.0
+guaiazulen,40,41.0
+guaifenesin,40,41.0
+heptabarb,40,41.0
+heptobarbital,40,41.0
+glybuthiazol,40,41.0
+hydrocortisone valerate,40,41.0
+hydralazine,40,41.0
+hydrochloric acid,40,41.0
+hydrocodone,40,41.0
+hydrocortamate,40,41.0
+hydrocortisone,40,41.0
+hydrocortisone aceponate,40,41.0
+hydrocortisone acetate,40,41.0
+hydrocortisone butyrate,40,41.0
+hydrocortisone cypionate,40,41.0
+hydrocortisone phosphate,40,41.0
+hydrocortisone probutate,40,41.0
+hydrocortisone succinate,40,41.0
+hydroflumethiazide,40,41.0
+hesperetin,40,41.0
+hydrofluoric acid,40,41.0
+hydrogen peroxide,40,41.0
+hydromorphone,40,41.0
+hydroquinidine,40,41.0
+hydroquinine,40,41.0
+hydroquinone,40,41.0
+hydroxyamfetamine,40,41.0
+hydroxycarbamide,40,41.0
+hydroxychloroquine,40,41.0
+hydroxyestrone diacetate,40,41.0
+hydroxyethylpromethazine,40,41.0
+hydroxymethylnicotinamide,40,41.0
+hydracarbazine,40,41.0
+hycanthone,40,41.0
+hopantenic acid,40,41.0
+homosalate,40,41.0
+hetacillin,40,41.0
+hexachlorophene,40,41.0
+hexafluronium,40,41.0
+hexamethonium,40,41.0
+hexamidine,40,41.0
+hexapropymate,40,41.0
+hexestrol,40,41.0
+hexetidine,40,41.0
+hexobarbital,40,41.0
+hexobendine,40,41.0
+hexocyclium,40,41.0
+hexoprenaline,40,41.0
+hexylcaine,40,41.0
+hexyldecanoic acid,40,41.0
+hexylresorcinol,40,41.0
+hidrosmin,40,41.0
+histamine,40,41.0
+histapyrrodine,40,41.0
+histidine,40,41.0
+homarylamine,40,41.0
+homatropine,40,41.0
+homocamfin,40,41.0
+homochlorcyclizine,40,41.0
+homofenazine,40,41.0
+homonicotinic acid,40,41.0
+glycerol,40,41.0
+glutethimide,40,41.0
+fluorometholone acetate,40,41.0
+foscarnet,40,41.0
+folescutol,40,41.0
+folic acid,40,41.0
+fomepizole,40,41.0
+fominoben,40,41.0
+fomocaine,40,41.0
+formaldehyde,40,41.0
+formebolone,40,41.0
+formestane,40,41.0
+formocortal,40,41.0
+formoterol,40,41.0
+formylsulfamethin,40,41.0
+forodesine,40,41.0
+fosdenopterin,40,41.0
+furaltadone,40,41.0
+fosfluconazole,40,41.0
+fosfomycin,40,41.0
+fosfosal,40,41.0
+fospropofol,40,41.0
+fotemustine,40,41.0
+framycetin,40,41.0
+frovatriptan,40,41.0
+fructose,40,41.0
+ftivazide,40,41.0
+fulvestrant,40,41.0
+fumagillin,40,41.0
+fumaric acid,40,41.0
+fluvoxamine,40,41.0
+fluvastatin,40,41.0
+flutrimazole,40,41.0
+flutoprazepam,40,41.0
+fluorouracil,40,41.0
+fluostigmine,40,41.0
+dichlorophen,40,41.0
+fluoxymesterone,40,41.0
+flupentixol,40,41.0
+fluperolone,40,41.0
+fluphenazine,40,41.0
+fluphenazine decanoate,40,41.0
+fluphenazine enanthate,40,41.0
+flupirtine,40,41.0
+fluprednidene,40,41.0
+fluprednidene acetate,40,41.0
+fluprednisolone,40,41.0
+flurazepam,40,41.0
+flurbiprofen,40,41.0
+flurbiprofen axetil,40,41.0
+flurithromycin,40,41.0
+flurotyl,40,41.0
+fluroxene,40,41.0
+flusalan,40,41.0
+fluspirilene,40,41.0
+flutamide,40,41.0
+flutazolam,40,41.0
+fluticasone furoate,40,41.0
+fluticasone propionate,40,41.0
+furalazine,40,41.0
+furamicid,40,41.0
+glutathione,40,41.0
+glipizide,40,41.0
+gestodene,40,41.0
+gestonorone,40,41.0
+gestonorone caproate,40,41.0
+gestrinone,40,41.0
+gilteritinib,40,41.0
+gimeracil,40,41.0
+gitoxin,40,41.0
+glafenine,40,41.0
+glasdegib,40,41.0
+glibornuride,40,41.0
+gliclazide,40,41.0
+glimepiride,40,41.0
+glisolamide,40,41.0
+furazidin,40,41.0
+glisoxepide,40,41.0
+glucametacin,40,41.0
+gluconolactone,40,41.0
+glucosamine,40,41.0
+glucosaminylmuramyl dipeptide,40,41.0
+glucose,40,41.0
+glucose-1-phosphate,40,41.0
+glucurolactone,40,41.0
+glucuronamide,40,41.0
+glutamic acid,40,41.0
+glutamine,40,41.0
+glutaral,40,41.0
+gepirone,40,41.0
+gepefrine,40,41.0
+gentisic acid,40,41.0
+gentian violet,40,41.0
+furazolidone,40,41.0
+furfenorex,40,41.0
+furonazide,40,41.0
+furosemide,40,41.0
+fursultiamine,40,41.0
+furtrethonium,40,41.0
+fusidic acid,40,41.0
+fytic acid,40,41.0
+gabapentin,40,41.0
+gabapentin enacarbil,40,41.0
+gabexate,40,41.0
+galactose,40,41.0
+galantamine,40,41.0
+gallamine,40,41.0
+gallopamil,40,41.0
+gamolenic acid,40,41.0
+ganciclovir,40,41.0
+gatifloxacin,40,41.0
+gefarnate,40,41.0
+gefitinib,40,41.0
+gemcitabine,40,41.0
+gemeprost,40,41.0
+gemfibrozil,40,41.0
+gemifloxacin,40,41.0
+gemigliptin,40,41.0
+hydroxypethidine,40,41.0
+hydroxyprogesterone caproate,40,41.0
+hydroxystilbamidine,40,41.0
+lactitol,40,41.0
+ketoprofen,40,41.0
+ketorolac,40,41.0
+ketotifen,40,41.0
+ketoxal,40,41.0
+khellin,40,41.0
+kinetin,40,41.0
+kojic acid,40,41.0
+krypton (81mKr) gas,40,41.0
+labetalol,40,41.0
+lacidipine,40,41.0
+lacosamide,40,41.0
+lactic acid,40,41.0
+lactose,40,41.0
+lasofoxifene,40,41.0
+lactulose,40,41.0
+lafutidine,40,41.0
+lamivudine,40,41.0
+lamotrigine,40,41.0
+landiolol,40,41.0
+laninamivir octanoate hydrate,40,41.0
+lanoconazole,40,41.0
+lansoprazole,40,41.0
+lapyrium chloride,40,41.0
+laquinimod,40,41.0
+laropiprant,40,41.0
+larotrectinib,40,41.0
+ketoconazole,40,41.0
+ketobemidone,40,41.0
+ketazolam,40,41.0
+ketanserin,40,41.0
+isopropamide,40,41.0
+isopropanol,40,41.0
+isosorbide,40,41.0
+isosorbide dinitrate,40,41.0
+isosorbide mononitrate,40,41.0
+isothipendyl,40,41.0
+isotretinoin,40,41.0
+isovaleryl diethylamide,40,41.0
+isoxepac,40,41.0
+isoxicam,40,41.0
+isoxsuprine,40,41.0
+isradipine,40,41.0
+istradefylline,40,41.0
+itopride,40,41.0
+itramin tosilate,40,41.0
+ivabradine,40,41.0
+ivacaftor,40,41.0
+ivosidenib,40,41.0
+ixabepilone,40,41.0
+ixazomib,40,41.0
+kainic acid,40,41.0
+kanamycin,40,41.0
+kebuzone,40,41.0
+keracyanin,40,41.0
+ketamine,40,41.0
+lasmiditan,40,41.0
+latamoxef,40,41.0
+hydroxytetracaine,40,41.0
+levonorgestrel,40,41.0
+levodropropizine,40,41.0
+levofacetoperane,40,41.0
+levofloxacin,40,41.0
+levofolinic acid,40,41.0
+levomefolic acid,40,41.0
+levomenol,40,41.0
+levomenthol,40,41.0
+levomepromazine,40,41.0
+levomethadone,40,41.0
+levomethadyl acetate,40,41.0
+levomilnacipran,40,41.0
+levomoprolol,40,41.0
+levopropoxyphene,40,41.0
+latanoprost,40,41.0
+levornidazole,40,41.0
+levorphanol,40,41.0
+levosalbutamol,40,41.0
+levosimendan,40,41.0
+levosulpiride,40,41.0
+levothyroxine,40,41.0
+levoverbenone,40,41.0
+lidamidine,40,41.0
+lidocaine,40,41.0
+lidoflazine,40,41.0
+linagliptin,40,41.0
+lindane,40,41.0
+levodopa,40,41.0
+levocetirizine,40,41.0
+levocarnitine propionate,40,41.0
+levocarnitine,40,41.0
+latanoprostene bunod,40,41.0
+lauroguadine,40,41.0
+lefamulin,40,41.0
+lefetamine,40,41.0
+leflunomide,40,41.0
+leiopyrrole,40,41.0
+lemborexant,40,41.0
+lenalidomide,40,41.0
+lercanidipine,40,41.0
+lesinurad,40,41.0
+letrozole,40,41.0
+leucine,40,41.0
+leucinocaine,40,41.0
+leucovorin,40,41.0
+levallorphan,40,41.0
+levamfetamine,40,41.0
+levamisole,40,41.0
+levamlodipine,40,41.0
+levdobutamine,40,41.0
+levetiracetam,40,41.0
+levisoprenaline,40,41.0
+levmetamfetamine,40,41.0
+levobetaxolol,40,41.0
+levobunolol,40,41.0
+levobupivacaine,40,41.0
+isopromethazine,40,41.0
+isoprenaline,40,41.0
+isonixin,40,41.0
+indecainide,40,41.0
+imidapril,40,41.0
+imipramine,40,41.0
+imipramine oxide,40,41.0
+imiquimod,40,41.0
+imolamine,40,41.0
+improsulfan,40,41.0
+imrecoxib,40,41.0
+inaperisone,40,41.0
+incadronic acid,40,41.0
+indacaterol,40,41.0
+indalpine,40,41.0
+indanazoline,40,41.0
+indeloxazine,40,41.0
+isoniazid,40,41.0
+indinavir,40,41.0
+indisetron,40,41.0
+indobufen,40,41.0
+indomethacin,40,41.0
+indoprofen,40,41.0
+indoramin,40,41.0
+ingenol mebutate,40,41.0
+inosine,40,41.0
+inositol,40,41.0
+inositol nicotinate,40,41.0
+inqovi,40,41.0
+intoplicine,40,41.0
+imiclopazine,40,41.0
+iloprost,40,41.0
+iloperidone,40,41.0
+ilaprazole,40,41.0
+hydroxyzine,40,41.0
+hymecromone,40,41.0
+hyoscyamine,40,41.0
+ibacitabine,40,41.0
+ibopamine,40,41.0
+ibrutinib,40,41.0
+ibudilast,40,41.0
+ibufenac,40,41.0
+ibuprofen,40,41.0
+ibuprofen guaiacol ester,40,41.0
+ibuprofen piconol,40,41.0
+ibuproxam,40,41.0
+ibutilide,40,41.0
+iclaprim,40,41.0
+icosapent ethyl,40,41.0
+icotinib,40,41.0
+idanpramine,40,41.0
+idarubicin,40,41.0
+idebenone,40,41.0
+idelalisib,40,41.0
+idoxuridine,40,41.0
+idrocilamide,40,41.0
+ifenprodil,40,41.0
+ifosfamide,40,41.0
+iguratimod,40,41.0
+iobenguane (123I),40,41.0
+iobenguane (131I),40,41.0
+iobitridol,40,41.0
+(S)-nicardipine,40,41.0
+ipratropium,40,41.0
+iprazochrome,40,41.0
+ipriflavone,40,41.0
+iprindole,40,41.0
+iproclozide,40,41.0
+iproheptine,40,41.0
+iproniazid,40,41.0
+irbesartan,40,41.0
+irinotecan,40,41.0
+irofulven,40,41.0
+iron,40,41.0
+irsogladine,40,41.0
+isaxonine,40,41.0
+isepamicin,40,41.0
+isoaminile,40,41.0
+isobromindione,40,41.0
+isocarboxazid,40,41.0
+isoconazole,40,41.0
+isoetarine,40,41.0
+isofezolac,40,41.0
+isoflupredone acetate,40,41.0
+isoflurane,40,41.0
+isoleucine,40,41.0
+isomethadone,40,41.0
+isometheptene,40,41.0
+ipragliflozin,40,41.0
+ioxitalamic acid,40,41.0
+iocetamic acid,40,41.0
+ioxilan,40,41.0
+iodamide,40,41.0
+iodinated glycerol,40,41.0
+iodine,40,41.0
+iodocholesterol (131I),40,41.0
+iodoform,40,41.0
+iodohippurate sodium I125,40,41.0
+iodohippurate sodium I131,40,41.0
+iodol,40,41.0
+iodothiouracil,40,41.0
+ioglicic acid,40,41.0
+iohexol,40,41.0
+iomazenil (123I),40,41.0
+iomeglamic acid,40,41.0
+iomeprol,40,41.0
+iopamidol,40,41.0
+iopanoic acid,40,41.0
+iopentol,40,41.0
+iophenoic acid,40,41.0
+iopodic acid,40,41.0
+iopromide,40,41.0
+iopronic acid,40,41.0
+iopydol,40,41.0
+iotalamic acid,40,41.0
+iotroxic acid,40,41.0
+ioversol,40,41.0
+fluoromethylcholine (18F),40,41.0
+zuclopenthixol acetate,40,41.0
+fluorometholone,40,41.0
+ectylurea,40,41.0
+droxypropine,40,41.0
+duloxetine,40,41.0
+dutasteride,40,41.0
+duvelisib,40,41.0
+dyclonine,40,41.0
+dydrogesterone,40,41.0
+ebastine,40,41.0
+eberconazole,40,41.0
+eburnamonine,40,41.0
+ecabet,40,41.0
+echothiophate,40,41.0
+econazole,40,41.0
+edaravone,40,41.0
+eldecalcitol,40,41.0
+edatrexate,40,41.0
+edoxaban,40,41.0
+edoxudine,40,41.0
+edrophonium,40,41.0
+efaproxiral,40,41.0
+efavirenz,40,41.0
+efinaconazole,40,41.0
+eflornithine,40,41.0
+efloxate,40,41.0
+efonidipine,40,41.0
+egualen,40,41.0
+eicosapentaenoic acid,40,41.0
+droxicam,40,41.0
+drotebanol,40,41.0
+drotaverine,40,41.0
+drostanolone propionate,40,41.0
+domitroban,40,41.0
+domperidone,40,41.0
+donepezil,40,41.0
+dopamine,40,41.0
+dopexamine,40,41.0
+doravirine,40,41.0
+dosulepin,40,41.0
+dotinurad,40,41.0
+doxapram,40,41.0
+doxazosin,40,41.0
+doxefazepam,40,41.0
+doxepin,40,41.0
+doxercalciferol,40,41.0
+doxifluridine,40,41.0
+doxofylline,40,41.0
+doxorubicin,40,41.0
+doxycycline,40,41.0
+doxylamine,40,41.0
+drofenine,40,41.0
+drometrizole,40,41.0
+dronabinol,40,41.0
+droperidol,40,41.0
+droprenilamine,40,41.0
+dropropizine,40,41.0
+drospirenone,40,41.0
+elcometrine,40,41.0
+eletriptan,40,41.0
+erythromycin ethyl succinate,40,41.0
+epomediol,40,41.0
+epanolol,40,41.0
+eperisone,40,41.0
+epervudine,40,41.0
+ephedrine,40,41.0
+epicillin,40,41.0
+epimestrol,40,41.0
+epinastine,40,41.0
+epinephrine,40,41.0
+epirizole,40,41.0
+epirubicin,40,41.0
+epitiostanol,40,41.0
+eplerenone,40,41.0
+eprazinone,40,41.0
+elliptinium,40,41.0
+eprozinol,40,41.0
+eptazocine,40,41.0
+eravacycline dihydrochloride,40,41.0
+erdafitinib,40,41.0
+ergocalciferol,40,41.0
+ergometrine,40,41.0
+eribulin,40,41.0
+eritrityl tetranitrate,40,41.0
+fluoroethylcholine (18F),40,41.0
+ertapenem,40,41.0
+ertugliflozin,40,41.0
+erythromycin,40,41.0
+eosin,40,41.0
+enzalutamide,40,41.0
+enzacamene,40,41.0
+entrectinib,40,41.0
+eltanolone,40,41.0
+elvitegravir,40,41.0
+embramine,40,41.0
+emedastine,40,41.0
+emepronium,40,41.0
+emetine,40,41.0
+emorfazone,40,41.0
+empagliflozin,40,41.0
+emtricitabine,40,41.0
+emylcamate,40,41.0
+enallylpropymal,40,41.0
+enbucrilate,40,41.0
+encainide,40,41.0
+encorafenib,40,41.0
+endralazine,40,41.0
+enflurane,40,41.0
+enilconazole,40,41.0
+enocitabine,40,41.0
+enoxacin,40,41.0
+enoximone,40,41.0
+enoxolone,40,41.0
+enprofylline,40,41.0
+ensulizole,40,41.0
+entacapone,40,41.0
+entecavir,40,41.0
+domiphen,40,41.0
+domiodol,40,41.0
+dolutegravir,40,41.0
+dilazep,40,41.0
+dihexyverine,40,41.0
+dihydralazine,40,41.0
+dihydrocodeine,40,41.0
+dihydroemetine,40,41.0
+dihydroergocornine,40,41.0
+dihydroergocryptine,40,41.0
+dihydrostreptomycin,40,41.0
+dihydrotachysterol,40,41.0
+diiodohydroxypropane,40,41.0
+diiodohydroxyquinoline,40,41.0
+diiodotyrosine,40,41.0
+diisopromine,40,41.0
+dilevalol,40,41.0
+dolasetron,40,41.0
+diloxanide furoate,40,41.0
+diltiazem,40,41.0
+dimantine,40,41.0
+dimazole,40,41.0
+dimecrotic acid,40,41.0
+dimefline,40,41.0
+dimemorfan,40,41.0
+dimenoxadol,40,41.0
+dimepheptanol,40,41.0
+dimercaprol,40,41.0
+dimetacrine,40,41.0
+dimethazan,40,41.0
+digoxin,40,41.0
+digitoxin,40,41.0
+digitalin,40,41.0
+difluprednate,40,41.0
+dichlorophenarsine,40,41.0
+dichlorphenamide,40,41.0
+diclofenac,40,41.0
+dicoumarol,40,41.0
+dicycloverine,40,41.0
+didanosine,40,41.0
+dienestrol,40,41.0
+dienogest,40,41.0
+diethadione,40,41.0
+diethazine,40,41.0
+diethyl ether,40,41.0
+diethylamino hydroxybenzoyl hexyl benzoate,40,41.0
+diethylaminoethoxyhexestrol,40,41.0
+diethylcarbamazine,40,41.0
+diethylpropion,40,41.0
+diethylstilbestrol,40,41.0
+diethyltoluamide,40,41.0
+difebarbamate,40,41.0
+difemerine,40,41.0
+difemetorex,40,41.0
+difenpiramide,40,41.0
+difetarsone,40,41.0
+diflorasone diacetate,40,41.0
+diflucortolone,40,41.0
+diflunisal,40,41.0
+dimethisterone,40,41.0
+dimethocaine,40,41.0
+dimethoxanate,40,41.0
+dipipanone,40,41.0
+dipiproverine,40,41.0
+dipivefrine,40,41.0
+diprafenone,40,41.0
+diprophylline,40,41.0
+dipyridamole,40,41.0
+dipyrithione,40,41.0
+dipyrocetyl,40,41.0
+dirithromycin,40,41.0
+disopyramide,40,41.0
+distigmine,40,41.0
+disulfiram,40,41.0
+ditazole,40,41.0
+dithiazanine,40,41.0
+dithranol,40,41.0
+ditiocarb,40,41.0
+dixanthogen,40,41.0
+dixyrazine,40,41.0
+dobutamine,40,41.0
+docarpamine,40,41.0
+doconexent,40,41.0
+docosanoic acid,40,41.0
+docosanol,40,41.0
+docusate sodium,40,41.0
+dodecanoic acid,40,41.0
+dodeclonium bromide,40,41.0
+dipiperonylaminoethanol,40,41.0
+diphenylpyraline,40,41.0
+dimethyl fumarate,40,41.0
+diphenoxylate,40,41.0
+dimethyl sulfoxide,40,41.0
+dimethylaminopropionylphenothiazine,40,41.0
+dimethylcarbate,40,41.0
+dimethylphthalate,40,41.0
+dimethylthiambutene,40,41.0
+dimethyltubocurarinium,40,41.0
+dimetindene,40,41.0
+dimetofrine,40,41.0
+dimetotiazine,40,41.0
+dimevamide,40,41.0
+dimorpholamine,40,41.0
+dimyristoylphosphatidylcholine,40,41.0
+dimyristoylphosphatidylglycerol,40,41.0
+diosmetin,40,41.0
+diosmin,40,41.0
+dioxadrol,40,41.0
+dioxaphetyl butyrate,40,41.0
+dioxethedrin,40,41.0
+dioxybenzone,40,41.0
+dioxyline,40,41.0
+diphemanil,40,41.0
+diphenadione,40,41.0
+diphenan,40,41.0
+diphenhydramine,40,41.0
+diphenidol,40,41.0
+erythromycin acistrate,40,41.0
+erlotinib,40,41.0
+erythromycin propionate,40,41.0
+fenbutrazate,40,41.0
+fencibutirol,40,41.0
+fenclofenac,40,41.0
+fendiline,40,41.0
+fendosal,40,41.0
+fenethazine,40,41.0
+fenetylline,40,41.0
+fenfluramine,40,41.0
+fenipentol,40,41.0
+fenofibrate,40,41.0
+fenoldopam,40,41.0
+fenoprofen,40,41.0
+fenoterol,40,41.0
+fenoverine,40,41.0
+fenoxazoline,40,41.0
+fenoxedil,40,41.0
+fenoxypropazine,40,41.0
+fenozolone,40,41.0
+fenpentadiol,40,41.0
+fenpiprane,40,41.0
+fenpiverinium,40,41.0
+fenproporex,40,41.0
+fenspiride,40,41.0
+fentanyl,40,41.0
+fenticlor,40,41.0
+fentonium,40,41.0
+fencamfamin,40,41.0
+fenbendazole,40,41.0
+exiproben,40,41.0
+fenamisal,40,41.0
+ezetimibe,40,41.0
+fabomotizole,40,41.0
+fadrozole,40,41.0
+esatenolol,40,41.0
+famciclovir,40,41.0
+fampridine,40,41.0
+famprofazone,40,41.0
+faropenem,40,41.0
+faropenem medoxil,40,41.0
+fasudil,40,41.0
+favipiravir,40,41.0
+fazadinium,40,41.0
+febarbamate,40,41.0
+febuprol,40,41.0
+febuxostat,40,41.0
+feclemine,40,41.0
+feclobuzone,40,41.0
+fedratinib,40,41.0
+fedrilate,40,41.0
+felbamate,40,41.0
+felodipine,40,41.0
+femoxetine,40,41.0
+fenadiazole,40,41.0
+fenalamide,40,41.0
+fenalcomine,40,41.0
+fenyramidol,40,41.0
+fepradinol,40,41.0
+feprazone,40,41.0
+ferric hydroxide,40,41.0
+fludarabine phosphate,40,41.0
+fludeoxyglucose (18F),40,41.0
+fludiazepam,40,41.0
+fludrocortisone acetate,40,41.0
+fludroxycortide,40,41.0
+flufenamic acid,40,41.0
+fluindione,40,41.0
+flumazenil,40,41.0
+flumecinol,40,41.0
+flumedroxone,40,41.0
+flumedroxone acetate,40,41.0
+flumequine,40,41.0
+flumetasone,40,41.0
+flumetasone pivalate,40,41.0
+flunarizine,40,41.0
+flunisolide,40,41.0
+flunitrazepam,40,41.0
+flunoxaprofen,40,41.0
+fluocinolone acetonide,40,41.0
+fluocinonide,40,41.0
+fluocortin butyl,40,41.0
+fluocortolone,40,41.0
+fluoresone,40,41.0
+fluorodopa (18F),40,41.0
+fluoroestradiol F18,40,41.0
+flucytosine,40,41.0
+fluconazole,40,41.0
+fluclorolone acetonide,40,41.0
+flibanserin,40,41.0
+ferric oxide,40,41.0
+ferrous chloride,40,41.0
+fesoterodine,40,41.0
+filgotinib,40,41.0
+fimasartan,40,41.0
+finafloxacin,40,41.0
+finasteride,40,41.0
+fingolimod,40,41.0
+fipexide,40,41.0
+flecainide,40,41.0
+fleroxacin,40,41.0
+floctafenine,40,41.0
+fluclorolone,40,41.0
+flopropione,40,41.0
+florantyrone,40,41.0
+florbetaben F18,40,41.0
+floredil,40,41.0
+flortaucipir F 18,40,41.0
+flosequinan,40,41.0
+floxuridine,40,41.0
+fluacizine,40,41.0
+fluazacort,40,41.0
+flubendazole,40,41.0
+fluciclovine (18F),40,41.0
+exisulind,40,41.0
+falecalcitriol,40,41.0
+ethyl dibunate,40,41.0
+ethosuximide,40,41.0
+estradiol acetate,40,41.0
+estradiol,40,41.0
+ethenzamide,40,41.0
+ethinamate,40,41.0
+ethinylestradiol,40,41.0
+ethinylestradiol sulfonate,40,41.0
+ethionamide,40,41.0
+ethisterone,40,41.0
+estetrol,40,41.0
+estazolam,40,41.0
+ethoheptazine,40,41.0
+ethotoin,40,41.0
+esketamine,40,41.0
+ethyl biscoumacetate,40,41.0
+ethyl chloride,40,41.0
+exemestane,40,41.0
+ethyl hydroxybenzoate,40,41.0
+ethyl loflazepate,40,41.0
+esomeprazole,40,41.0
+ethylestrenol,40,41.0
+esmolol,40,41.0
+ethylhydrocupreine,40,41.0
+eslicarbazepine acetate,40,41.0
+ethylmethylthiambutene,40,41.0
+ethchlorvynol,40,41.0
+ethaverine,40,41.0
+estradiol benzoate,40,41.0
+ethanol,40,41.0
+estradiol undecylate,40,41.0
+estradiol valerate,40,41.0
+estramustine,40,41.0
+estriol,40,41.0
+estriol succinate,40,41.0
+estradiol dipropionate,40,41.0
+estrone,40,41.0
+estrone sulphate,40,41.0
+eszopiclone,40,41.0
+etafedrine,40,41.0
+etafenone,40,41.0
+etallobarbital,40,41.0
+etamiphylline,40,41.0
+etamivan,40,41.0
+etaqualone,40,41.0
+etebenecid,40,41.0
+estradiol cypionate,40,41.0
+eterobarb,40,41.0
+ethacizine,40,41.0
+ethacridine,40,41.0
+ethacrynic acid,40,41.0
+ethadione,40,41.0
+ethambutol,40,41.0
+estradiol enanthate,40,41.0
+ethylmorphine,40,41.0
+ethylnorepinephrine,40,41.0
+etofylline nicotinate,40,41.0
+etohexadiol,40,41.0
+etomidate,40,41.0
+etomidoline,40,41.0
+etonogestrel,40,41.0
+etoperidone,40,41.0
+etoposide,40,41.0
+etoricoxib,40,41.0
+etoxadrol,40,41.0
+etoxazene,40,41.0
+escitalopram,40,41.0
+etozolin,40,41.0
+etravirine,40,41.0
+etretinate,40,41.0
+etryptamine,40,41.0
+etybenzatropine,40,41.0
+etymemazine,40,41.0
+etynodiol,40,41.0
+eucatropine,40,41.0
+eugenol,40,41.0
+evocalcet,40,41.0
+evogliptin,40,41.0
+exalamide,40,41.0
+exatecan,40,41.0
+etoglucid,40,41.0
+estradiol mustard,40,41.0
+etizolam,40,41.0
+etilefrine,40,41.0
+etilevodopa,40,41.0
+etimicin,40,41.0
+etiprednol dicloacetate,40,41.0
+etiroxate,40,41.0
+etilamfetamine,40,41.0
+esflurbiprofen,40,41.0
+eseridine,40,41.0
+etifoxine,40,41.0
+etodolac,40,41.0
+etodroxizine,40,41.0
+etifelmine,40,41.0
+etofamide,40,41.0
+etidronic acid,40,41.0
+etofenamate,40,41.0
+etofibrate,40,41.0
+etidocaine,40,41.0
+etofylline,40,41.0
+etilefrine pivalate,40,41.0
+carperitide,33,42.0
+albiglutide,19,43.0
+nesiritide,19,43.0
+thymalfasin,17,44.0
+dasiglucagon,17,44.0
+calcitonin human,17,44.0
+sermorelin,17,44.0
+liraglutide,16,45.0
+pramlintide,16,45.0
+abaloparatide,16,45.0
+elcatonin,16,45.0
+glucagon,16,45.0
+calcitonin (pork natural),16,45.0
+calcitonin (salmon synthetic),16,45.0
+secretin human,16,45.0
+secretin porcine,16,45.0
+teduglutide,16,45.0
+teriparatide,15,46.0
+exenatide,13,47.0
+semaglutide,12,48.0
+corticorelin,12,48.0
+corticorelin ovine,12,48.0
+enfuvirtide,12,48.0
+lixisenatide,12,48.0
+seractide,10,49.0
+corticotropin,10,49.0

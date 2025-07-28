@@ -13,29 +13,36 @@ class Data():
         self.database=database
         self.df=None
         self.titles=[]
+
         # original input and output
-        self.x=np.array([])
-        self.y=np.array([])
-        # scaled input tensor
-        self.x_sc=np.array([])
+        self.x=None
+        self.y=None
+
         # 80% x,y
-        self.x_w=np.array([])
-        self.y_w=np.array([])
-        # 60% x,y or 75% x_w,y_w
-        self.x_train=np.array([])
-        self.y_train=np.array([])        
-        # 20% x,y or 25% x_w,y_w
-        self.x_validation=np.array([])
-        self.y_validation=np.array([])        
+        self.x_work=None
+        self.y_work=None
+
+        # 60% x,y or 75% x_work,y_work
+        self.x_train=None
+        self.y_train=None
+
+        # 20% x,y or 25% x_work,y_work
+        self.x_validation=None
+        self.y_validation=None
+
         # 20% x,y
-        self.x_test=np.array([])
-        self.y_test=np.array([])
-        self.y_pred_test=np.array([])
-        self.model=""
+        self.x_test=None
+        self.y_test=None
+        self.y_pred_test=None
+
+        # for external predictions
+        self.y_pred=None
+
+        self.modelName=""
         self.descriptor=None
         self.enzyme=None
-        self.sc=None
-        self.sn=""
+        self.scaler=None
+        self.scalerName=""
         self.split=-1
         self.sign=""        
         self.params={}
@@ -47,18 +54,14 @@ class Data():
         return
 
     def read(self,descriptor,enzyme):
-        #logging.debug("reading data "+descriptor+" "+enzyme)        
+        logging.debug("reading data "+descriptor+" "+enzyme)        
         self.df=pd.read_csv(self.root+"/data/"+self.database+"-HIV1-"+enzyme+"-"+descriptor+".csv")
+        self.df.sort_values(by=["Title"],inplace=True)
         self.titles=self.df["Title"]
+
         if "pIC50" in self.df.columns:
-            self.y=self.df["pIC50"].to_numpy()
+            self.y=self.df[["Title","pIC50"]]
             self.df=self.df.drop(["pIC50"],axis=1)
 
-        self.df=self.df.drop(["Title"],axis=1)
-        self.x=self.df.to_numpy()
-
-        #logging.debug("UNSCALED")
-        #logging.debug(self.titles[:10])
-        #logging.debug(self.x[:10])
-        #logging.debug(self.y[:10])
+        self.x=self.df
         return

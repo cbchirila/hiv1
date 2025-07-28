@@ -23,7 +23,7 @@ class MLP(Model):
     def __init__(self,data,predictions):
         super().__init__(data,predictions)
         self.name="mlp"
-        self.data.model=self.name
+        self.data.modelName=self.name
         return
 
     def build(self):
@@ -63,7 +63,7 @@ class MLP(Model):
         es=keras.callbacks.EarlyStopping(monitor='val_loss', min_delta=0, patience=20, verbose=1, mode='auto', baseline=None, restore_best_weights=True)
         # cp = tf.keras.callbacks.ModelCheckpoint(
         #     self.data.root+"/history-plots/"+
-        #     self.data.model+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.sn+"-"+str(self.data.split)+
+        #     self.data.model+"/"+self.data.descriptor+"-"+self.data.enzyme+"-"+self.data.model+"-"+self.data.scalerName+"-"+str(self.data.split)+
         #     "-acc-loss.h5",
         #     monitor="val_loss", mode="min", save_best_only=True, verbose=1)
         self.data.t1=time.time()
