@@ -38,6 +38,8 @@ class SVC(Model):
         
         # iterating parameters if any
         for p in list(ParameterGrid(grid)):
+            if (p["kernel"]=="rbf" or p["kernel"]=="sigmoid") and (p["degree"]==4 or p["degree"]==5):
+                continue
             self.data.params=p
             self.data.sign=self.fix4ch(str(p["C"]))+"-"+str(p["degree"])+"-"+p["kernel"]
             logging.info("params "+self.name+" "+self.data.descriptor+" "+self.data.enzyme+" "+self.data.scalerName+" "+str(self.data.split)+" "+self.data.sign)
